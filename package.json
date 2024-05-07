@@ -1,13 +1,21 @@
 {
+  "name": "fd2_thkoeln",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Basiskurs FDM",
+  "repository": "https://github.com/mbluemm/modul-fdII-thkoeln.git",
+  "author": "Sina Bock <sina.bock@th-koeln.de>",
+  "license": "MIT",
   "devDependencies": {
-    "vitepress": "^1.1.4"
+    "vitepress": "^1.0.1"
   },
   "scripts": {
-    "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "h5p-standalone": "^3.6.0"
+    "markdown-it": "^14.1.0",
+    "markdown-it-footnote": "^4.0.0"
   }
 }
