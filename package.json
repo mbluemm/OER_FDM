@@ -1,9 +1,9 @@
 {
-  "name": "fd2_thkoeln",
+  "name": "fdm_thkoeln",
   "version": "1.0.0",
   "main": "index.js",
-  "description": "Basiskurs FDM",
-  "repository": "https://github.com/mbluemm/modul-fdII-thkoeln.git",
+  "description": "Basiskurs FDM - OER-Version",
+  "repository": "https://github.com/mbluemm/OER_FDM.git",
   "author": "Sina Bock <sina.bock@th-koeln.de>",
   "license": "MIT",
   "devDependencies": {
