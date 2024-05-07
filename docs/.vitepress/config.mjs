@@ -89,7 +89,7 @@ export default defineConfig({
     },
     socialLinks: [
       { icon: 'github',
-        link: 'https://github.com/mbluemm/modul-fdII-thkoeln' },
+        link: 'https://github.com/mbluemm/OER_FDM' },
     ],
 
     //︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Footer 
