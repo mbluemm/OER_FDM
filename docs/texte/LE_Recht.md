@@ -11,8 +11,7 @@ aside: true
 # Rechtliche Aspekte
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_10_Recht. 
-Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_10_Recht.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Recht. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/texte/LE_Recht.html
 :::
 
 <!-- 0016_THK_gesetzliche_Vorschriften einfügen -->
@@ -263,7 +262,7 @@ Falls keine Lizenz existiert, dürfen urheberrechtlich geschützte Daten nur mit
 Zustimmung der Urheber:innen nachgenutzt werden.(Kreutzer u. Fischer, 2023)
 :::
 
-## Leitfragen und Aufgaben:
+## Leitfragen und Aufgaben
 
 ### Leitfragen
 

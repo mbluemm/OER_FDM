@@ -1,5 +1,5 @@
 ---
-title: VL 08 - Speichern von Daten
+title: LE – Daten speichern
 lang: de-DE
 output: 
     html_document: 
@@ -11,8 +11,7 @@ aside: true
 # Speichern von Daten
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_08_Speichern. 
-Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_08_Speichern.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Daten-Speichern. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/texte/LE_Daten-Speichern.html
 :::
 
 [[toc]]
@@ -196,7 +195,7 @@ Quelle: Digitalbevaringdk Lyd_Digitalisering
 - Was ist die Relevanz von Daten/Dateispeicherung und Backup im FDM?
 - Wissensübertragung: Welche Rolle spielt die Dateispeicherung im Studium? Worauf ist hier zu achten? Welche Probleme können entstehen?
 
-### Aufgabe:
+### Aufgabe
 
 <!-- 0034_THK_Aufgabe -->
 

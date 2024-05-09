@@ -8,10 +8,10 @@ output:
 aside: true
 ---
 
-# Was ist Forschungsdatenmanagement?  
+# Was ist Forschungsdatenmanagement?
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_02_Forschungsdatenmanagement_LZ. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/lz/VL_02_Forschungsdatenmanagement_LZ.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Forschungsdatenmanagement_LZ. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/lz/LE_Forschungsdatenmanagement_LZ.html
 :::
 
 [[toc]]
@@ -23,7 +23,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 ### Lernziele für den Online-Kurs
 
-| | | | 
+| | | |
 | :--- | :--- | :--- |
 | 1 | Die S. können „Forschungsdatenmanagement“ (in eigenen Worten) beschreiben [(1)](#14) und die Relevanz von FDM allgemein sowie in ihrem Studium erläutern [(2)](#14). | Die S. müssen ihr erlerntes Wissen anwenden, um Begrifflichkeiten wiederzugeben. |
 | 2 | Die S. können die Merkmale und Vorteile von einer guten wissenschaftlichen Praxis im Forschungsprozess benennen [(1)](#14). | Die S. befassen sich näher mit dem Thema „Gute wissenschaftliche Praxis“ und verstehen, welche Aspekte diesbezüglich beim wissenschaftlichen Arbeiten zu beachten sind. |
@@ -46,7 +46,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 | Ca. 20 min. | Einführung GWP und kurze Einordnung von FDM in Open Science. | Die S. können die Merkmale und Vorteile von einer guten wissenschaftlichen Praxis im Forschungsprozess benennen [(1)](#14). | Lesen der „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ | EA |
 
 ---
-[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
+[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
 
 ### Präsenzphase
 
@@ -82,7 +82,7 @@ Organisatorisches
 - Prüfungsleistungen
 - Fragen zu LiaScript:(Zugänge, Aufgaben etc.)
 
-### Arbeitsphase  
+### Arbeitsphase
 
 **Wissenspool**
 
@@ -116,7 +116,7 @@ L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung z
 | Taxonomiestufe 5 | Synthese  (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer  Ganzheit formen |
 | Taxonomiestufe 6 | Bewertung  (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil  abgeben können |
 
-## Quellen 
+## Quellen
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm).
 

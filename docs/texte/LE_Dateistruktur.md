@@ -1,5 +1,5 @@
 ---
-title: VL 07 - Dateisystem
+title: LE - Dateistruktur
 lang: de-DE
 output: 
     html_document: 
@@ -11,8 +11,7 @@ aside: true
 # Ordnerstruktur und Dateibenennungen
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_07_Dateisystem. 
-Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_07_Dateisystem.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Dateistruktur. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/texte/LE_Dateistruktur.html
 :::
 
 <!-- 0027_THK_Ordnerstruktur und 0029_THK_Dateibenennung einfügen --> 
@@ -39,7 +38,7 @@ Quelle: Digitalbevaringdk HvadErDigitalBevaring DigitalBevaring
 <!-- mit Abbildung 0051_THK_Datenchaos ersetzen --> 
 
 Bei jeglicher Arbeit mit Daten und Dateien ist bei der Speicherung (Ablage) der Daten/Dateien eine
-gute Struktur und Benennung empfehlenswert. 
+gute Struktur und Benennung empfehlenswert.
 
 <!--0006_THK_Organisieren einfügen -->
 

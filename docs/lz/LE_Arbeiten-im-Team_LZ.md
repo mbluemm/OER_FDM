@@ -1,5 +1,5 @@
 ---
-title: LZ 12 - Kollaboratives Arbeiten
+title: LZ – Arbeiten im Team
 lang: de-DE
 output: 
     html_document: 
@@ -8,11 +8,10 @@ output:
 aside: true
 ---
 
-# Kollaboratives Arbeiten
+# Arbeiten im Team
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_12_Team_LZ. 
-Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/lz/VL_12_Team_LZ.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Arbeiten-im-Team_LZ. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/lz/LE-Arbeiten-im-Team_LZ.html
 :::
 
 [[toc]]
@@ -45,7 +44,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 | Ca. 40 min. | Einführung zum Thema „Kollaboratives Arbeiten“.  Hervorhebung wichtiger Aspekte zum Thema, inkl. Relevanz im Datenlebenszyklus / FDM, Tools, Plattformen etc. | Die S. können für unterschiedliche Schritte/Aufgaben (im Datenlebenszyklus/bei der Arbeit mit Daten) unterschiedliche Tools und Plattformen aufzählen(1), die für die jeweilige kollaborative Bearbeitung der Aufgaben gut geeignet sind. | Infotext, Grafik des DLZ und Rechercheaufgabe zu Tools | EA |
 
 ---
-[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
+[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
 
 ### Präsenzphase
 
@@ -125,7 +124,7 @@ Die S. wählen jeweils ein Tool oder Plattform, tragen ihre Wahl in einer Liste 
 - Auf welchen Endgeräten lässt sich das Tool bedienen?
 - Lizenzen
 
-### Beispiele für Tools:
+### Beispiele für Tools
 
 - Google Sheets
 - Microsoft Teams

@@ -1,5 +1,5 @@
 ---
-title: VL 06 - Metadaten
+title: LE - Metadaten
 lang: de-DE
 output: 
     html_document: 
@@ -11,13 +11,12 @@ aside: true
 # Metadaten
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_06_Metadaten. 
-Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_06_Metadaten.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Metadaten. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/texte/LE_Metadaten.html
 :::
 
 [[toc]]
 
-## Lernziele 
+## Lernziele
 
 ::: info Lernziele
 In diesem Themenblock lernen Sie, was Metadaten sind, was deren Nutzen ist und was es für

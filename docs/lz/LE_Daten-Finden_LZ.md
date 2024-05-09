@@ -1,5 +1,5 @@
 ---
-title: LZ 09 - Daten finden und nachnutzen
+title: LZ – Daten finden
 lang: de-DE
 output: 
     html_document: 
@@ -11,8 +11,7 @@ aside: true
 # Daten finden und nachnutzen
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_09_Finden_LZ. 
-Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/lz/VL_09_Finden_LZ.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Daten-Finden_LZ. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/lz/LE_Daten-Finden_LZ.html
 :::
 
 [[toc]]
@@ -57,7 +56,7 @@ Die S. wissen nicht,
 | Ca. 5 min. | PID definieren und deren Merkmale hervorheben. <br>Erläuterung der Relevanz von PIDs im Forschungsprozess. | Die S. können beschreiben(1), was PIDs sind und deren Nutzen und Funktionen erläutern(2) sowie Beispiele für verschiedene PIDs benennen(1). | Infotexte zu den Inhalten, inkl. Grafiken, auch mit Beispielen (Screenshots). <br>Beispiele von PIDs (von Datensätzen/Forschenden) zeigen. <br>Optional: <br>Die S. bearbeiten eine Single-Choice-Quiz für die Beschreibung eines PIDs <br> | EA |
 
 ---
-[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
+[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
 
 ### Präsenzphase
 
@@ -134,7 +133,7 @@ L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung z
 | Taxonomiestufe 5 | Synthese  (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer  Ganzheit formen |
 | Taxonomiestufe 6 | Bewertung  (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil  abgeben können |
 
-## Quellen:
+## Quellen
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm)
 

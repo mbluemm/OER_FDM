@@ -1,5 +1,5 @@
 ---
-title: VL 09 - Daten finden und nachnutzen
+title: LE - Daten finden
 lang: de-DE
 output: 
     html_document: 
@@ -11,8 +11,7 @@ aside: true
 # Daten finden und nachnutzen
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_09_Finden. 
-Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_09_Finden.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Daten-Finden. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/texte/LE_Daten-Finden.html
 :::
 
 <!-- in der VL noch ggf. Abbildungen 0045_THK_Rechercheergebnisse; 0048_THK_Zitieren; 0056_THK_Zugriffsrechte; 0058_THK_PID; 0060_THK_Recherche;0059_THK_Qualitätskontrolle ergänzen --> 
@@ -176,7 +175,7 @@ während des Forschungsprozesses und zur Publikation von Forschungsdaten verwend
 
 ## Wichtige Aspekte, die bei der Nachnutzung von Daten
 
-<!-- G-0020_BUW_Icon_Nachnutzung --> 
+<!-- G-0020_BUW_Icon_Nachnutzung -->
 
 Um bereits erhobene und publizierte Daten nach wissenschaftlichen Standards nachzunutzen, sind
 einige Aspekte zu beachten.
@@ -343,7 +342,7 @@ Forschungsdaten, finden Sie in dieser Zusammenfassung.
 3. Entspricht der von Ihnen ausgewählte Forschungsdatensatz den FAIR-Prinzipien? Warum
     (nicht)?
 
-### Aufgabe:
+### Aufgabe
 
 <!-- 0034_THK_Aufgabe -->
 
@@ -373,7 +372,7 @@ Lin, D., Crabtree, J., Dillo, I. et al. (2020) The TRUST Principles for digital 
 Pampel, H. & Elger, K. (2021). 5.6 Publikation und Zitierung von digitalen Forschungsdaten. In M.
 Putnings, H. Neuroth & J. Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (S. 521-536). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-028](https://doi.org/10.1515/9783110657807-028).
 
-### Quellen:
+### Quellen
 
 Arimetrics. (2022). What is Metasearch engine. Zugriff am 18.10.2023, von [https://www.arimetrics.com/en/digital-glossary/metasearch-engine](https://www.arimetrics.com/en/digital-glossary/metasearch-engine).
 

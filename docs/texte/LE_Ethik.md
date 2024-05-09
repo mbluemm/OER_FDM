@@ -13,8 +13,7 @@ aside: true
 <!-- G-0093_BUW_Icon_Respekt einfügen -->
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_11_Ethik. 
-Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_11_Ethik.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Ethik. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/texte/LE_Ethik.html
 :::
 
 [[toc]]
@@ -159,7 +158,7 @@ englischen Fassung oder in der deutschen Fassung.
 <!-- 0025_THK_Fragezeichen -->
 <!-- Quiz von FDII-Kurs, Aufgabe 2 einfügen) -->
 
-### Lektüre:
+### Lektüre
 
 Carroll, S. R., Hudson, M., Chapman, J. et al. (2019, 1. September). Die CARE-Prinzipien für
 indigene Data Governance. [https://doi.org/10.5281/zenodo.5995059](https://doi.org/10.5281/zenodo.5995059).
@@ -194,7 +193,7 @@ Research Data Alliance International Indigenous Data Sovereignty Interest Group.
 Rösch, H. (2021). 1.5 Forschungsethik und Forschungsdaten. In M. Putnings, H. Neuroth & J.
 Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (pp. 115-140). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-006](https://doi.org/10.1515/9783110657807-006).
 
-### Quellen:
+### Quellen
 
 Böker, E. (2022, 15. November). Ethische Aspekte und FDM. Forschungsdaten.info. Zugriff am
 18.10.2023, von [https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/](https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/).

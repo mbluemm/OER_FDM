@@ -1,5 +1,5 @@
 ---
-title: LZ 10 - Rechtliche Aspekte
+title: LZ - Recht
 lang: de-DE
 output: 
     html_document: 
@@ -11,8 +11,7 @@ aside: true
 # Rechtliche Aspekte
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_10_Recht_LZ. 
-Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/lz/VL_10_Recht_LZ.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Recht_LZ. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/lz/LE_Recht_LZ.html
 :::
 
 [[toc]]
@@ -38,7 +37,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 | LZ 4 | Die S. können kritisch beurteilen (6), auf welche rechtlichen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden sollte. | Die S. verstehen, auf welche rechtlichen Aspekte sie im Forschungsprozess (insbesondere bei der Datenerhebung/-veröffentlichung) achten müssen und weshalb das so wichtig ist. |
 | LZ 5 | Die S. sind in der Lage, die wichtigsten rechtlichen Aspekte im Umgang mit Daten für ein Beispiel einzuordnen (4). | Die S. können sich beim Umgang mit Daten (in ihrem Studium) auf rechtliche Richtlinien beziehen (5) und diese beachten. Die S. fühlen sich mit den Konzepten von rechtlichen Richtlinien sicher, sodass sie sich beim Umgang mit Daten (z. B. für Projektarbeiten / Abschlussarbeiten In ihrem Studium) an diese Richtlinien halten können. |
 
-## Detaillierte Kursplanung[^2] 
+## Detaillierte Kursplanung[^2]
 
 ### Online-Kurs
 
@@ -48,7 +47,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 | Ca. 15 min. | Einführung zum Thema Urheberrecht von Forschungsdaten. <br> Erläuterung worauf, insbesondere bei der Nachnutzung von Daten, im Forschungsprozess geachtet werden muss. <br>Hervorhebung von relevanten Rechtsaspekten unterschiedlicher Lizenzen. | Die S. können die Rolle von Urheberrecht und Lizenzrecht im FDM erläutern (2). | Die S. müssen die Leitfragen beantworten (für eine ggf. Diskussion im Plenum). | EA |
 
 ---
-[^2]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit
+[^2]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit
 
 ### Präsenzphase
 
@@ -72,10 +71,9 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 | --- | --- | --- | --- | --- |
 | Ca. 10 min. | Offene Fragen / Unklarheiten klären Ausblick auf und Arbeitsauftrag für nächste Präsenzveranstaltung | L. erklärt Erwartungen für nächste Stunde. <br> L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 
+##  Präsenzphase
 
-##  Präsenzphase 
-
-###  Einstiegsphase 
+###  Einstiegsphase
 
 Begrüßung
 
@@ -127,7 +125,7 @@ L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung z
 | Taxonomiestufe 5 | Synthese  (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer  Ganzheit formen |
 | Taxonomiestufe 6 | Bewertung  (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil  abgeben können |
 
-## Quellen:
+## Quellen
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm)
 

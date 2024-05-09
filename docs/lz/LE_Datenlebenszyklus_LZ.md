@@ -1,5 +1,5 @@
 ---
-title: LZ 03 - Datenlebenszyklus
+title: LZ - Datenlebenszyklus
 lang: de-DE
 output: 
     html_document: 
@@ -11,7 +11,7 @@ aside: true
 # Datenlebenszyklus
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_03_Datenlebenszyklus_LZ. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/lz/VL_03_Datenlebenszyklus_LZ.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Datenlebenszyklus_LZ. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/lz/LE_Datenlebenszyklus_LZ.html
 :::
 
 [[toc]]
@@ -46,7 +46,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 | Ca. 30 min. | Einführung zum Datenlebenszyklus.<br><br>Beschreibung der Stationen und deren Merkmale.<br><br>Erläuterung, welche Rolle der DLZ im Forschungsprozess/ im FDM spielt. | Die S. können den Datenlebenszyklus beschreiben[(1)](#14) und die unterschiedlichen Stationen mit deren wichtigsten Merkmalen aufzählen[(1)](#14).<br><br>Die S. können darlegen[(2)](#14), wie die unterschiedlichen Stationen des Datenlebenszyklus miteinander verknüpft sind. | Text und Erklärvideo als Informationsquelle.<br><br>Interaktiver Datenlebenszyklus.<br><br>Beantworten einer Leitfrage, Quiz. | EA |
 <!-- hier noch Drag&Drop-Aufgabe ergänzen "Ordne die Stationen dem Datenlebenszyklus zu" (5 Min.) -->
 ---
-[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
+[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
 
 ## Präsenzphase
 
@@ -131,7 +131,7 @@ L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung z
 | Taxonomiestufe 5 | Synthese  (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer  Ganzheit formen |
 | Taxonomiestufe 6 | Bewertung  (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil  abgeben können |
 
-## Quellen:
+## Quellen
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm)
 

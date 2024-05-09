@@ -1,6 +1,6 @@
 # Blended-Learning-Basiskurs „Forschungsdatenmanagement“ der TH Köln
 
-## Autor:innen:
+## Autor:innen
 Prof. Dr. Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner, Prof. Dr. Ursula Arning, Prof. Dr. Konrad Förstner.
 
 ## Kooperation
@@ -11,16 +11,16 @@ Der Basiskurs „Forschungsdatenmanagement“ ist als Blended-Learning-Kurs konz
 
 ## Lehr- und Lerneinheiten
 
-- 1	Was sind Forschungsdaten?
-- 2	Was ist Forschungsdatenmanagement?
-- 3	Datenlebenszyklus
-- 4	FAIR-Prinzipien
-- 5	Dokumentation von Daten
-- 6	Metadaten
-- 7	Ordnerstruktur und Dateibenennungen
-- 8	Speichern von Daten
-- 9	Daten finden und nachnutzen
-- 10 Rechtliche Aspekte
-- 11 Ethische Aspekte
-- 12 Kollaboratives Arbeiten
+- Was sind Forschungsdaten?
+- Was ist Forschungsdatenmanagement?
+- Datenlebenszyklus
+- FAIR-Prinzipien
+- Datendokumentation
+- Metadaten
+- Dateistruktur
+- Daten speichern
+- Daten finden
+- Rechtliche Aspekte
+- Ethische Aspekte
+- Arbeiten im Team
 

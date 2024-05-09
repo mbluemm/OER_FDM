@@ -1,5 +1,5 @@
 ---
-title: VL 02 - Was ist Forschungsdatenmanagement?
+title: LE – Was ist Forschungsdatenmanagement?
 lang: de-DE
 output: 
     html_document: 
@@ -11,7 +11,7 @@ aside: true
 # Was ist Forschungsdatenmanagement?
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_02_Forschungsdatenmanagement. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_02_Forschungsdatenmanagement.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Forschungsdatenmanagement. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/texte/LE_Forschungsdatenmanagement.html
 :::
 
 [[toc]]
@@ -304,7 +304,7 @@ Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissensc
 Putnings, M., Neuroth, H. & Neumann, J. (2021). Praxishandbuch Forschungsdatenmanagement.
 Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807](https://doi.org/10.1515/9783110657807).
 
-## (Mögliche) Ergänzende Materialien im LMS 
+## (Mögliche) Ergänzende Materialien im LMS
 
 FDM-"Schiffbrüche" aus dem Forschungsalltag und was Sie daraus lernen können,[https://zenodo.org/record/7377582](https://zenodo.org/record/7377582)
 

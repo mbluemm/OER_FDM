@@ -8,11 +8,10 @@ output:
 aside: true
 ---
 
-# Metadaten 
+# Metadaten
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_06_Metadaten_LZ. 
-Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/lz/VL_06_Metadaten_LZ.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_06_Metadaten_LZ. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/lz/LE_Metadaten_LZ.html
 :::
 
 [[toc]]
@@ -47,7 +46,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 | Ca. 10 min. | Leitfragen zur Vorbereitung für Präsenzphase |  | Schriftliche Beantwortung der Leitfragen zur Vertiefung und Vorbereitung auf Präsenzphase (Transferaufgabe) | EA |
 
 ---
-[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
+[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
 
 ### Präsenzphase
 
@@ -72,9 +71,9 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. |  Offene Fragen / Unklarheiten klären  Ausblick auf und Arbeitsauftrag für nächste Präsenzveranstaltung  | L. erklärt Erwartungen für nächste Stunde.<br><br>L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 
-### Präsenzphase / Erläuterungen 
+### Präsenzphase / Erläuterungen
 
-#### Einstiegsphase 
+#### Einstiegsphase
 
 Begrüßung
 
@@ -92,7 +91,7 @@ Vorstellung und Lösung von zwei Scary Tales im Plenum
 
 36 - Lost in Translation ([https://forschungsdaten-thueringen.de/geschichten/articles/Lost-in-translation-de.html](https://forschungsdaten-thueringen.de/geschichten/articles/Lost-in-translation-de.html))
 
-#### Arbeitsphase 
+#### Arbeitsphase
 
 Praktische Übung (Szenarien)
 
@@ -106,7 +105,7 @@ alternativ:
 
 Praktische Übung (Metadaten spielerisch mit Lego vermitteln, ca. 60 Min.)
 
-#### Abschluss 
+#### Abschluss
 
 L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind
 
@@ -144,7 +143,7 @@ Deutsche Übersetzung:[https://doi.org/10.5281/zenodo.3733163](https://doi.org/1
 | Taxonomiestufe 5 | Synthese  (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer  Ganzheit formen |
 | Taxonomiestufe 6 | Bewertung  (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil  abgeben können |
 
-## Quellen:
+## Quellen
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm)
 
