@@ -1,5 +1,5 @@
 ---
-title: LE – Was ist Forschungsdatenmanagement?
+title: 02 – Lernheinheit: Was ist Forschungsdatenmanagement?
 lang: de-DE
 output: 
     html_document: 
@@ -11,7 +11,7 @@ aside: true
 # Was ist Forschungsdatenmanagement?
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Forschungsdatenmanagement. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/texte/LE_Forschungsdatenmanagement.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 02_LE_Forschungsdatenmanagement. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/02_LE_Forschungsdatenmanagement.html
 :::
 
 [[toc]]

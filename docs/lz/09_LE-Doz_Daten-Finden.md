@@ -1,5 +1,5 @@
 ---
-title: LZ – Daten finden
+title: 09 – Lehreinheit: Daten finden
 lang: de-DE
 output: 
     html_document: 
@@ -11,7 +11,7 @@ aside: true
 # Daten finden und nachnutzen
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Daten-Finden_LZ. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/lz/LE_Daten-Finden_LZ.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 09_LE-Doz_Daten-Finden. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/lz/09_LE-Doz_Daten-Finden.html
 :::
 
 [[toc]]

@@ -1,5 +1,5 @@
 ---
-title: LZ 02 - Was ist Forschungsdatenmanagement?
+title: 02 – Lehreinheit: Was ist Forschungsdatenmanagement?
 lang: de-DE
 output: 
     html_document: 
@@ -11,7 +11,7 @@ aside: true
 # Was ist Forschungsdatenmanagement?
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Forschungsdatenmanagement_LZ. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/lz/LE_Forschungsdatenmanagement_LZ.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 02_LE-Doz_Forschungsdatenmanagement. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/lz/02_LE-Doz_Forschungsdatenmanagement.html
 :::
 
 [[toc]]

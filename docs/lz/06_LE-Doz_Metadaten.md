@@ -1,5 +1,5 @@
 ---
-title: LZ 06 - Metadaten
+title: 06 - Lehreinheit: Metadaten
 lang: de-DE
 output: 
     html_document: 
@@ -11,7 +11,7 @@ aside: true
 # Metadaten
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_06_Metadaten_LZ. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/lz/LE_Metadaten_LZ.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 06_LE-Doz_Metadaten. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/lz/06_LE-Doz_Metadaten.html
 :::
 
 [[toc]]

@@ -1,5 +1,5 @@
 ---
-title: LE - Daten finden
+title: 09 – Lernheinheit: Daten finden
 lang: de-DE
 output: 
     html_document: 
@@ -11,7 +11,7 @@ aside: true
 # Daten finden und nachnutzen
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Daten-Finden. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/texte/LE_Daten-Finden.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 09_LE_Daten-Finden. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/09_LE_Daten-Finden.html
 :::
 
 <!-- in der VL noch ggf. Abbildungen 0045_THK_Rechercheergebnisse; 0048_THK_Zitieren; 0056_THK_Zugriffsrechte; 0058_THK_PID; 0060_THK_Recherche;0059_THK_Qualitätskontrolle ergänzen --> 
@@ -51,7 +51,7 @@ Fragestellungen?, erfahren Sie in diesem ‚Study Hall‘ Video (englisch, 11:22
 
 ## Metasuchmaschinen und Datenportale
 
-<!-- 0035_THK_Suchmaschine neben den Absatz darunter ergänzen --> 
+<!-- 0035_THK_Suchmaschine neben den Absatz darunter ergänzen -->
 
 In diesem Abschnitt werden Ihnen einige Metasuchmaschinen und Datenportale vorgestellt. Eine
 Metasuchmaschine ist ein System, das Informationen von anderen Suchmaschinen nutzt, um eine
@@ -97,7 +97,7 @@ organisieren, um die Auffindbarkeit und Zugänglichkeit der Daten zu sichern.“
 2015).
 
 Beispiele für Repositorien:
-<!-- 0001_THK_Beispiel ergänzen --> 
+<!-- 0001_THK_Beispiel ergänzen -->
 - re3data → Suche nach fachspezifischen Repositorien
     o Fachspezifische Suche nach Datensätzen
     o Tutorial, deutsch (2:59 Min.)
@@ -117,7 +117,6 @@ Beispiele für Repositorien:
 - figshare → besonders für visuelle Grafikdatensätze wie Poster, Diagramme oder Videos
     ausgelegt.
        o wird von der Nature Publishing Group angeboten.
-
 
 ### Qualitätsmerkmale eines guten Repositoriums
 <!-- 0024_THK_Qualitätskontrolle ergänzen --> 
@@ -152,11 +151,7 @@ zertifiziert werden, wenn (Böker 2023a):
 - Die Daten über PIDs zitierbar sind.
 
 ## Persistente Identifikatoren (PID)
-<-- 0021_THK_PID ergänzen --> 
-
-<!-- Quelle? -->
-![](https://)
-Quelle: Digitalbevaringdk PID_vaelge_PID_choose
+<!-- 0021_THK_PID ergänzen -->
 
 Eines der Qualitätsmerkmale eines Repositoriums sind Persistente Idenfikatoren. Doch was bedeutet
 das? Ein Persistenter Identifikator (Persistent Identifier; PID) ist eine konstante Internet-Adresse für

@@ -1,5 +1,5 @@
 ---
-title: LE – Daten speichern
+title: 08 – Lernheinheit: Daten speichern
 lang: de-DE
 output: 
     html_document: 
@@ -11,20 +11,20 @@ aside: true
 # Speichern von Daten
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Daten-Speichern. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/texte/LE_Daten-Speichern.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 08_LE_Daten-Speichern. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/08_LE_Daten-Speichern.html
 :::
 
 [[toc]]
 
 ## Lernziele
 
-<!-- G-0038_BUW_Icon_Diskette einfügen --> 
+<!-- G-0038_BUW_Icon_Diskette einfügen -->
 
 ::: info Lernziele
 In diesem Themenblock lernen Sie die Speicherung von Daten und Dateien kennen, welche Aspekte 
 dabei im Forschungsprozess zu beachten sind und welchen Empfehlungen zu befolgen ist. 
 Außerdem lernen Sie über Vor- und Nachteile verschiedener Speichermedien sowie unterschiedlicher
-Datenformate. 
+Datenformate.
 :::
 
 (forschungsdaten.info 2023a; forschungsdaten.info 2023b).
@@ -49,11 +49,11 @@ Pseudonymisierung oder Anonymisierung besonders geschützt werden (Weiner et al.
 
 Vor- und Nachteile von Speichermedien finden Sie unter (forschungsdaten.info 2023b). 
 
-<!-- hier Datenspeicherlösungen wie G-0035_BUW_Icon_USB_Stick , G-0037_BUW_Icon_CD , G-0039_BUW_Icon_SD-Karte , 0011_THK_Speicher_Cloud , 0012_THK_Speicher_PC , 0013_THK_Speicher_Festplatte einfügen --> 
+<!-- hier Datenspeicherlösungen wie G-0035_BUW_Icon_USB_Stick , G-0037_BUW_Icon_CD , G-0039_BUW_Icon_SD-Karte , 0011_THK_Speicher_Cloud , 0012_THK_Speicher_PC , 0013_THK_Speicher_Festplatte einfügen -->
 
 ## Wichtige Aspekte bei der Speicherung von Daten
 
-<!-- Abbildung 0046_THK_Speichern einfügen --> 
+<!-- Abbildung 0046_THK_Speichern einfügen -->
 
 Um das Risiko des Datenverlustes bestmöglich zu reduzieren, sollte bei der Sicherung der Daten und
 Dateien insbesondere darauf geachtet werden, dass diese:
@@ -94,15 +94,14 @@ Es ist hilfreich (VerbundFDB 2018):
 ::: tip
 Kostenlose Clouddienste (bspw. Google Drive, Dropbox, OneDrive) sollten nicht verwendet
 werden, da deren Serverstandorte nicht in Deutschland, sondern in Amerika liegen. In Amerika sind aufgrund des USA PATRIOT Acts (2001) die eigenen Daten vor einem Zugriff Dritter nicht geschützt.
-::: 
+:::
 
 (Krähwinkel, Langner, Lipp et al. 2022)
 
----
 [^1]: Hier empfiehlt es sich zu prüfen, wie lange auf die Hochschuldienste zugegriffen werden kann.
 
 ## Sicherer Passwortschutz
-<!-- sollte das nicht rausgelöscht werden? Und wenn nicht, wie einbinden? --> 
+<!-- sollte das nicht rausgelöscht werden? Und wenn nicht, wie einbinden? -->
 ### Was ist ein gutes Passwort?
 
 Die Daten (Dateien und Ordner) sollten wo es möglich ist, beispielsweise bei sensiblen Daten, mit
@@ -160,10 +159,7 @@ Unter den oben genannten Aspekten eignen sich folgende Formate:
 | Tabelle | .xml .csv (mit Einschränkungen)  |
 | Foto  | .tiff .tif (.jpg ist nicht verlusfrei) |
 | Grafik  | .png, .svg |
-| Audio | .wav .flac (mit
-Einschränkungen)
-(mp3 ist nicht
-verlustfrei) |
+| Audio | .wav .flac (mit Einschränkungen) (mp3 ist nicht verlustfrei) |
  
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Kassetteb%C3%A5nd_Digitalisering.png"><img width="512" alt="Kassettebånd Digitalisering" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kassetteb%C3%A5nd_Digitalisering.png/512px-Kassetteb%C3%A5nd_Digitalisering.png"></a>
@@ -174,10 +170,9 @@ Dateiformate können folgendermaßen konvertiert werden:
 - verlustfrei → bevorzugt
 - verlustbehaftet → für geringere Dateigrößen
 - sinnhaft → wesentliche Inhalte bleiben bestehen. 
-<!-- SB: ??--> 
+<!-- SB: ??-->
 Mehr zu empfohlenen Textformaten (u.A.) und Konvertierungen unter Formatinformation (pdf).
 Mehr zu geeigneten und ungeeigneten Datenformaten unter (Böker 2023b).
-
 
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Lyd_Digitalisering.png"><img width="512" alt="Lyd Digitalisering" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lyd_Digitalisering.png/512px-Lyd_Digitalisering.png"></a>
@@ -205,7 +200,7 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 ## Weiterführende Materialen und Quellen
 
 ### Literatur
-<!-- hier noch 09_Leitfragen_Speicher_V4 und 09_Auflösung_Speicherug_Backup_V4 aus sciebo-Ordner einfügen --> 
+<!-- hier noch 09_Leitfragen_Speicher_V4 und 09_Auflösung_Speicherug_Backup_V4 aus sciebo-Ordner einfügen -->
 <!-- G-0044_BUW_Icon_Findability -->
 Böker, E. (2023a, 5. Mai). Datenübertragung. Forschungsdaten.info. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/organisieren-und-aufbereiten/datenuebertragung/](https://forschungsdaten.info/themen/organisieren-und-aufbereiten/datenuebertragung/)

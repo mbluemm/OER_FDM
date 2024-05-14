@@ -1,5 +1,5 @@
 ---
-title: LZ - Dateistruktur
+title: 07 - Lehrheinheit: Dateistruktur
 lang: de-DE
 output: 
     html_document: 
@@ -11,7 +11,7 @@ aside: true
 # Ordnerstruktur und Dateibenennungen 
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Dateistruktur_LZ. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/lz/LE_Dateistruktur_LZ.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 07_LE-Doz_Dateistruktur. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/lz/07_LE-Doz_Dateistruktur.html
 :::
 
 [[toc]]

@@ -1,5 +1,5 @@
 ---
-title: LE - Metadaten
+title: 06 – Lernheinheit: Metadaten
 lang: de-DE
 output: 
     html_document: 
@@ -11,7 +11,7 @@ aside: true
 # Metadaten
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Metadaten. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/texte/LE_Metadaten.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 06_LE_Metadaten. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/06_LE_Metadaten.html
 :::
 
 [[toc]]
@@ -198,7 +198,7 @@ standardisiert, dokumentiert. Sogenannte Metadatenstandards bedeuten also eine e
 standardisierte Art und Weise der Dokumentation. Ähnliche Datensätze werden dadurch inhaltlich und
 strukturell gleichförmig beschrieben. Außerdem dienen sie dazu, dass Forschergruppen auch untereinander Daten austauschen und verstehen können (Biernacka, Buchholz, Danker et al., 2021).
 
-Nachfolgend sind exemplarisch einige Metadatenstandards aus unterschiedlichen verschiedener Disziplinen aufgelistet: 
+Nachfolgend sind exemplarisch einige Metadatenstandards aus unterschiedlichen verschiedener Disziplinen aufgelistet:
 
 | Wissenschaftsdisziplin| Name des/der Standards | 
 | -------- | ------ |

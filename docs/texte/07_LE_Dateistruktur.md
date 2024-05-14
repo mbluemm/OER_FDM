@@ -1,5 +1,5 @@
 ---
-title: LE - Dateistruktur
+title: 07 – Lernheinheit: Dateistruktur
 lang: de-DE
 output: 
     html_document: 
@@ -11,7 +11,7 @@ aside: true
 # Ordnerstruktur und Dateibenennungen
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Dateistruktur. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/texte/LE_Dateistruktur.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 07_LE_Dateistruktur. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/07_LE_Dateistruktur.html
 :::
 
 <!-- 0027_THK_Ordnerstruktur und 0029_THK_Dateibenennung einfügen --> 
@@ -53,7 +53,7 @@ Auch im FDM sollte aus den folgenden Gründen darauf geachtet werden:
 - Je größer die Datenmenge ist, umso wichtiger ist ein gutes Datenmanagement.
 - Der aktuellste Forschungsstand ist schnell identifizierbar.
 - Die Nachnutzung der Daten und die Interpretierbarkeit der Daten wird vereinfacht und langfristig
-    sichergestellt. 
+    sichergestellt.
 
     o Daten bleiben zugänglich und leicht auffindbar, was eine längere Suche vermeidet,
     
@@ -63,7 +63,7 @@ Auch im FDM sollte aus den folgenden Gründen darauf geachtet werden:
 
     ▪ Vereinfacht die Zusammenarbeit.
     
-    ▪ Ermöglicht die Reproduzierbarkeit der Forschungsergebnisse. 
+    ▪ Ermöglicht die Reproduzierbarkeit der Forschungsergebnisse.
           
 - Das Risiko eines Datenverlusts wird minimiert. Die Daten sind sicher gespeichert und auffindbar.
     o Vorbeugungsmaßnahme von versehentlichem Löschen oder Überschreiben von
@@ -83,7 +83,7 @@ Quelle: Digitalbevaringdk Database DigitalBevaring
 
 ## Gute Ordnerstruktur
 
-<!-- 0027_THK_Ordnerstruktur --> 
+<!-- 0027_THK_Ordnerstruktur -->
 
 Für eine übersichtliche Ordnerstruktur bei der Speicherung von Daten und Dateien sollten folgende
 
@@ -112,7 +112,7 @@ Eine Dokumentation der Ordnerstruktur und Dateibenennungen in einer separaten (.
 oberster (Baum-)Ebene aufbewahren. Zur Nachvollziehbarkeit zu einem späteren Zeitpunkt oder von anderen.
 :::
 
-<!-- 0020_THK_Idee daneben einfügen --> 
+<!-- 0020_THK_Idee daneben einfügen -->
 ## Dateien benennen
 
 [https://liascript.github.io/course/?https://raw.githubusercontent.com/BrittaP/LiaTestmodule_offen/main/Ordnung_und_Stuktur/22_OrdnungStruktur_de.md#](https://liascript.github.io/course/?https://raw.githubusercontent.com/BrittaP/LiaTestmodule_offen/main/Ordnung_und_Stuktur/22_OrdnungStruktur_de.md#)
@@ -263,7 +263,6 @@ Forschungsdaten.info. (2023, 5. Mai). Datenorganisation. Zugriff am 18.10.2023, 
 
 Weiner, B., Wünsche, S., Kühne, S. et al. (2020, April 30). Crashkurs Forschungsdatenmanagement.
 Zenodo. [https://doi.org/10.5281/zenodo.3778431](https://doi.org/10.5281/zenodo.3778431)
-
 
 ### Quellen
 

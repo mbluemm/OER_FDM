@@ -1,5 +1,5 @@
 ---
-title: LE - Datenlebenszyklus
+title: 03 – Lernheinheit: Datenlebenszyklus
 lang: de-DE
 output: 
     html_document: 
@@ -11,7 +11,7 @@ aside: true
 # Datenlebenszyklus
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Datenlebenszyklus. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/texte/LE_Datenlebenszyklus.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 03_LE_Datenlebenszyklus. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/03_LE_Datenlebenszyklus.html
 :::
 
 [[toc]]

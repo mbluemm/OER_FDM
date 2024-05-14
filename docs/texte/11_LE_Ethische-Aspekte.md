@@ -1,5 +1,5 @@
 ---
-title: VL 11 - Ethische Aspekte
+title: 11 – Lernheinheit: Ethische Aspekte
 lang: de-DE
 output: 
     html_document: 
@@ -13,14 +13,14 @@ aside: true
 <!-- G-0093_BUW_Icon_Respekt einfügen -->
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Ethik. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/texte/LE_Ethik.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 11_LE_Ethische-Aspekte. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/11_LE_Ethische-Aspekte.html
 :::
 
 [[toc]]
 
 ## Lernziele
 
-::: warning Hinwei:
+::: warning Hinweis:
 Die angegebene Information dient lediglich als Orientierung für Studierende und Forschende. Sie
 ersetzt keine fachkundige Beratung zu ethischen Aspekten im Umgang mit Daten. Somit sind alle
 Informationen ohne Gewähr auf Richtigkeit und Vollständigkeit.
@@ -146,7 +146,7 @@ Disziplinen mit ethischen Anforderungen an die Daten zu (GIDA o. D.; Carroll 201
 
 > „Mit Beachtung der CARE-Prinzipien soll u. a. verhindert werden, dass aufgrund unterschiedlicher
 > Machtverhältnisse oder historisch bedingter Ungleichheit das Selbstbestimmungsrecht indigener
-Personen und Personengruppen missachtet wird.“ 
+Personen und Personengruppen missachtet wird.“
 >
 > -- (forschungsdaten.info 2023).
 
@@ -172,7 +172,7 @@ indigene Data Governance. [https://doi.org/10.5281/zenodo.5995059](https://doi.o
 3. Was bezeichnet man als „Dual Use“? Haben Sie Vorschläge, wie man ihn verhindern
     kann?
 
-### Aufgabe:
+### Aufgabe
  <!-- 0034_THK_Aufgabe -->
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.

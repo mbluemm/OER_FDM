@@ -1,5 +1,5 @@
 ---
-title: LE – Forschungsdaten
+title: 01 – Lernheinheit: Forschungsdaten
 lang: de-DE
 output: 
     html_document: 
@@ -13,7 +13,7 @@ bibliography: references.bib
 # Was sind Forschungsdaten?
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Forschungsdaten. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/texte/LE_Forschungsdaten.html>
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 01_LE_Forschungsdaten. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/01_LE_Forschungsdaten.html>
 :::
 
 [[toc]]

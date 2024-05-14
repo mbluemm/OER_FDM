@@ -1,5 +1,5 @@
 ---
-title: LE - Arbeiten im Team
+title: 12 – Lernheinheit: Arbeiten im Team
 lang: de-DE
 output: 
     html_document: 
@@ -11,7 +11,7 @@ aside: true
 # Kollaboratives Arbeiten
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Arbeiten-im-Team. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/texte/LE_Arbeiten-im-Team.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 12_LE_Arbeiten-im-Team. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0xs). https://mbluemm.github.io/OER_FDM/texte/12_LE_Arbeiten-im-Team.html
 :::
 
 [[toc]]
@@ -48,11 +48,11 @@ Eine Zusammenarbeit bietet folgende Vorteile:
 - Effizienzsteigerung, unter Anderem durch Verteilung von Arbeitsaufträgen
 - Nutzung von Synergien
     - Einbringung persönlicher Stärken und Fähigkeiten
-   - Die Kombination von technischem Know-how, kreativen Ansätzen und fachlichem Verständnis führt oft zu innovativen Lösungen,  
+    - Die Kombination von technischem Know-how, kreativen Ansätzen und fachlichem Verständnis führt oft zu innovativen Lösungen,  
       die allein schwer zu erreichen wären.
 - Kreativere Lösungsfindung, bessere Entscheidungsfindung, durch Ideenaustausch und diskursive Prozesse
 - Bessere Fehlererkennung und -korrektur
- 
+
 Das gegenseitige Überprüfen sowie das gemeinsame Diskutieren trägt dazu bei, Genauigkeit und Verlässlichkeit der Datenarbeit zu erhöhen.
 
 ## Welche Herausforderungen müssen beim kollaborativen Arbeiten gemeistert werden?
@@ -69,7 +69,7 @@ Das gegenseitige Überprüfen sowie das gemeinsame Diskutieren trägt dazu bei, 
 
 ## Welche FDM-Aspekte müssen beim kollaborativen Arbeiten mit Daten beachtet werden?
 
-- Kooperative Arbeitsweise und koordinierte Planung des FDMs <!-- G-0015_BUW _Icon_Planung einfügen --> 
+- Kooperative Arbeitsweise und koordinierte Planung des FDMs <!-- G-0015_BUW _Icon_Planung einfügen -->
 - Datenverwaltung und -organisation <!-- 0006_THK_Organisieren einfügen -->
     
     o Strukturierung von Daten (Dateinamen, Ordnerstrukturen, Metadaten)
@@ -101,7 +101,8 @@ Das gegenseitige Überprüfen sowie das gemeinsame Diskutieren trägt dazu bei, 
              Zugriffsrechte
     - Ggf. Vorher Identifizierung sensibler Daten
 
-    ▪ Festlegung von Rollen <!-- ist das Absicht ? --> 
+    ▪ Festlegung von Rollen <!-- ist das Absicht ? -->
+
 ## Aufgabe
 
  <!-- 0034_THK_Aufgabe -->
@@ -122,7 +123,6 @@ Aspekte:
 - Auf welchen Endgeräten lässt sich das Tool/die Plattform nutzen?
 - Lizenzen
 
-
 ## Weiterführende Materialen und Quellen
 
 ### Literatur
@@ -131,7 +131,7 @@ Aspekte:
 
 Die unten angegebenen Quellen dienen auch als weiterführende Literatur.
 
- ## Quellen
+## Quellen
 
 Engelhardt, C. & Kusch, H. (2021). 5.3 Kollaboratives Arbeiten mit Daten. In M. Putnings, H. Neuroth & J. Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (S. 451-476). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-025](https://doi.org/10.1515/9783110657807-025).
 

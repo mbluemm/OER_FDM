@@ -1,5 +1,5 @@
 ---
-title: VL 10 - Rechtliche Aspekte
+title: 10 – Lernheinheit: Rechtliche Aspekte
 lang: de-DE
 output: 
     html_document: 
@@ -11,7 +11,7 @@ aside: true
 # Rechtliche Aspekte
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Recht. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/texte/LE_Recht.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 10_LE_Rechtliche-Aspekte. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/10_LE_Rechtliche-Aspekte.html
 :::
 
 <!-- 0016_THK_gesetzliche_Vorschriften einfügen -->
@@ -67,7 +67,6 @@ Für den Forschungsprozess und das FDM sind folgende Rechtsgebiete relevant:
 
 Diese Rechtsgebiete werden nachfolgend eingeführt, und welche Aspekte Sie dabei im FDM
 beachten müssen werden erläutert.
-
 
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Lovgivning_DigitalBevaring.png"><img width="512" alt="Lovgivning DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Lovgivning_DigitalBevaring.png/512px-Lovgivning_DigitalBevaring.png"></a>
@@ -251,7 +250,7 @@ Creative-Commons-Lizenzen, oder CC-Lizenzen, wurden bereits in der vorherigen Vo
 „Daten finden und nachnutzen“ vorgestellt. Dort finden Sie mehr Information zu den unterschiedlichen
 Lizenzen. Hier wird auf einige erweiterte rechtliche Aspekte zu den CC-Lizenzen eingegangen.
 
-::: tip 
+::: tip
 Bei der Nachnutzung wird durch eine Creative-Commons-Lizenz das
 Urheberpersönlichkeitsrecht nicht berührt. Der/die Urheber:in muss bei jeder Verwertung korrekt
 angegeben werden.
@@ -274,7 +273,7 @@ Zustimmung der Urheber:innen nachgenutzt werden.(Kreutzer u. Fischer, 2023)
 
 3. Wem gehören die in einem Forschungsvorhaben erhobenen Forschungsdaten?
 
-### Aufgabe: 
+### Aufgabe
 
  <!-- 0034_THK_Aufgabe -->
 

@@ -1,5 +1,5 @@
 ---
-title: LZ - Ethik
+title: 11 - Lehreinheit: Ethische Aspekte
 lang: de-DE
 output: 
     html_document: 
@@ -11,7 +11,7 @@ aside: true
 # Ethische Aspekte
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Ethik_LZ. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/lz/LE_Ethik_LZ.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 11_LE-Doz_Ethische-Aspekte. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/lz/11_LE_Ethische-Aspekte.html
 :::
 
 [[toc]]
@@ -35,7 +35,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 | 2 | Die S. können kritisch beurteilen (6), auf welche ethischen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden sollte. | Die S. verstehen, auf welche ethischen Aspekte sie im Forschungsprozess (insbesondere bei der Datenerhebung/-veröffentlichung) achten müssen und weshalb das so wichtig ist. |
 | 3 | Die S. sind in der Lage, die wichtigsten ethischen Aspekte im Umgang mit Daten für ein Beispiel einzuordnen (4). | Die S. können sich beim Umgang mit Daten (in ihrem Studium) auf ethische Richtlinien beziehen (5) und diese beachten. Die S. fühlen sich mit den Konzepten von ethischen Richtlinien sicher, sodass sie sich beim Umgang mit Daten (z. B. für Projektarbeiten / Abschlussarbeiten In ihrem Studium) an diese Richtlinien halten können. |
 
-## Detaillierte Kursplanung[^1] 
+## Detaillierte Kursplanung[^1]
 
 ### Online-Kurs
 

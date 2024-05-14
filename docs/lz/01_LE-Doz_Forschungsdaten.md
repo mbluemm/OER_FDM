@@ -1,5 +1,5 @@
 ---
-title: LZ 01 - Was sind Forschungsdaten?
+title: 01 – Lehreinheit: Was sind Forschungsdaten?
 lang: de-DE
 output: 
     html_document: 
@@ -11,7 +11,7 @@ aside: true
 # Was sind Forschungsdaten?
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Forschungsdaten_LZ. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/lz/LE_Forschungsdaten_LZ.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 01_LE-Doz_Forschungsdaten. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/lz/01_LE-Doz_Forschungsdaten.html
 :::
 
 [[toc]]
@@ -32,7 +32,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 ## Detaillierte Kursplanung[^1]
 
-### Einstiegsphase 
+### Einstiegsphase
 
 | Zeit| Inhalt | Ziele | Methoden / Medien  (Arbeitsschritte)| Sozialform |
 | :---: | --- | --- | --- | :---: |
@@ -126,7 +126,7 @@ S. ordnen Forschungsdaten bestimmten Forschungsbereichen, Formen und Formaten zu
 
 L. gibt Ausblick auf nächstes Thema und erklärt die Erwartungen für die nächste Stunde, inklusive Blick auf die Aufgaben im LMS.
 
-L. teilt mit, in welcher Form die Aufgabe(n) erfüllt werden sollen und welchen zeitlichen Umfang die Kursvorbereitung in etwa einnimmt.[^2] 
+L. teilt mit, in welcher Form die Aufgabe(n) erfüllt werden sollen und welchen zeitlichen Umfang die Kursvorbereitung in etwa einnimmt.[^2]
 
 L. fragt die S., ob noch Unklarheiten oder offene Fragen vorhanden sind.
 

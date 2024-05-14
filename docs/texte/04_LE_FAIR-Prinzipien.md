@@ -1,5 +1,5 @@
 ---
-title: VL 04 - FAIR-Prinzipien
+title: 04 – Lernheinheit: FAIR-Prinzipien
 lang: de-DE
 output: 
     html_document: 
@@ -11,7 +11,7 @@ aside: true
 # FAIR-Prinzipien
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_FAIR-Prinzipien. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/texte/LE_FAIR-Prinzipien.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 04_LE_FAIR-Prinzipien. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/texte/04_LE_FAIR-Prinzipien.html
 :::
 
 [[toc]]
@@ -71,7 +71,7 @@ Forschungsdaten sollten für alle Interessierten zugänglich sein. Dies erforder
 <img align="left" width="12%" alt="Icon_gesetzliche_Vorschriften" src="../medien/icons/0016_THK_gesetzliche_Vorschriften.svg?autoSizes=true">
 Es ist jedoch zu beachten, dass nicht alle Forschungsdaten für eine freie Veröffentlichung geeignet
 sind, insbesondere wenn es sich um sensible, personenbezogene Daten handelt oder wenn Rechte
-Dritter involviert sind. 
+Dritter involviert sind.
 
 <img align="right" width="15%" alt="Icon_personenbezogen_Daten" src="../medien/icons/G-0153_BUW_Icon_personenbezogen_Daten.svg?autoSizes=true">
 
@@ -143,7 +143,7 @@ wiederverwendet und weiterverarbeitet werden können. Dafür sind mehrere Aspekt
     erhalten und verstanden werden können, was die Nachhaltigkeit von Forschung und Daten
     sicherstellt.
 
- ### Nachteile der FAIR-Prinzipien:
+### Nachteile der FAIR-Prinzipien
 
  <img align="right" width="15%" alt="Icon_nachdenkende_Person" src="../medien/icons/0023_THK_nachdenkende_Person.svg?autoSizes=true">
 

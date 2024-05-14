@@ -1,5 +1,5 @@
 ---
-title: LZ – Arbeiten im Team
+title: 12 – Lehreinheit: Arbeiten im Team
 lang: de-DE
 output: 
     html_document: 
@@ -11,7 +11,7 @@ aside: true
 # Arbeiten im Team
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). LE_Arbeiten-im-Team_LZ. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/OER_FDM/lz/LE-Arbeiten-im-Team_LZ.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 12_LE-Doz_Arbeiten-im-Team. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/lz/12_LE-Doz_Arbeiten-im-Team.html
 :::
 
 [[toc]]
