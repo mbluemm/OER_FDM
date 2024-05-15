@@ -1,5 +1,5 @@
 ---
-title: 10 - Lehreinheit: Rechtliche Aspekte
+title: 10 Lehreinheit – Rechtliche Aspekte
 lang: de-DE
 output: 
     html_document: 

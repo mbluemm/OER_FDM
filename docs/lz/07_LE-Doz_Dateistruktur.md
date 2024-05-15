@@ -1,5 +1,5 @@
 ---
-title: 07 - Lehrheinheit: Dateistruktur
+title: 07 Lehrheinheit – Dateistruktur
 lang: de-DE
 output: 
     html_document: 
@@ -104,7 +104,7 @@ Nach der Gruppenarbeit bringt L. alle Gruppen zusammen. Jede Gruppe trägt ihre 
 (ca. 25 Min.) Einzelarbeit, zwei Möglichkeiten
 ===
 
-1. Eigene Datenablage sinnvoll überarbeiten 
+1. Eigene Datenablage sinnvoll überarbeiten
 
 Die S. können sich jeweils ihre eigenen Dateien vornehmen und diese sinnvoll und nachhaltig benennen und in Ordner strukturieren.
 Die S. können sich frei entscheiden, welche ihrer Daten und Dateien sie gerne umstrukturieren und umbenennen 

@@ -1,5 +1,5 @@
 ---
-title: 08 – Lernheinheit: Daten speichern
+title: 08 Lernheinheit – Daten speichern
 lang: de-DE
 output: 
     html_document: 

@@ -1,5 +1,5 @@
 ---
-title: 02 – Lehreinheit: Was ist Forschungsdatenmanagement?
+title: 02 Lehreinheit – Was ist Forschungsdatenmanagement?
 lang: de-DE
 output: 
     html_document: 

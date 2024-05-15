@@ -1,5 +1,5 @@
 ---
-title: 06 – Lernheinheit: Metadaten
+title: 06 Lernheinheit – Metadaten
 lang: de-DE
 output: 
     html_document: 

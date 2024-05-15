@@ -1,5 +1,5 @@
 ---
-title: 01 – Lehreinheit: Was sind Forschungsdaten?
+title: 01 Lehreinheit – Was sind Forschungsdaten?
 lang: de-DE
 output: 
     html_document: 

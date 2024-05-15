@@ -1,5 +1,5 @@
 ---
-title: 01 – Lernheinheit: Forschungsdaten
+title: 01 Lernheinheit – Forschungsdaten
 lang: de-DE
 output: 
     html_document: 

@@ -1,5 +1,5 @@
 ---
-title: 11 – Lernheinheit: Ethische Aspekte
+title: 11 Lernheinheit – Ethische Aspekte
 lang: de-DE
 output: 
     html_document: 

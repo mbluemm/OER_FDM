@@ -1,5 +1,5 @@
 ---
-title: 05 - Lehreinheit: Datendokumentation
+title: 05 Lehreinheit – Datendokumentation
 lang: de-DE
 output: 
     html_document: 

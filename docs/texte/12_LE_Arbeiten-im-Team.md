@@ -1,5 +1,5 @@
 ---
-title: 12 – Lernheinheit: Arbeiten im Team
+title: 12 Lernheinheit – Arbeiten im Team
 lang: de-DE
 output: 
     html_document: 

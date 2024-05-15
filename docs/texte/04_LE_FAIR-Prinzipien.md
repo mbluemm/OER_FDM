@@ -1,5 +1,5 @@
 ---
-title: 04 – Lernheinheit: FAIR-Prinzipien
+title: 04 Lernheinheit – FAIR-Prinzipien
 lang: de-DE
 output: 
     html_document: 

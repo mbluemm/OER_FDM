@@ -1,5 +1,5 @@
 ---
-title: 03 – Lernheinheit: Datenlebenszyklus
+title: 03 Lernheinheit – Datenlebenszyklus
 lang: de-DE
 output: 
     html_document: 

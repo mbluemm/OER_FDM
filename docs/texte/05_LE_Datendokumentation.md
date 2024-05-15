@@ -1,5 +1,5 @@
 ---
-title: 05 – Lernheinheit: Datendokumentation
+title: 05 Lernheinheit – Datendokumentation
 lang: de-DE
 output: 
     html_document: 

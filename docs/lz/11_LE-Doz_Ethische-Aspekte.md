@@ -1,5 +1,5 @@
 ---
-title: 11 - Lehreinheit: Ethische Aspekte
+title: 11 Lehreinheit – Ethische Aspekte
 lang: de-DE
 output: 
     html_document: 

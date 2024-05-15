@@ -1,5 +1,5 @@
 ---
-title: 09 – Lernheinheit: Daten finden
+title: 09 Lernheinheit – Daten finden
 lang: de-DE
 output: 
     html_document: 

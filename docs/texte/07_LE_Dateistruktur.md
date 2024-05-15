@@ -1,5 +1,5 @@
 ---
-title: 07 – Lernheinheit: Dateistruktur
+title: 07 Lernheinheit – Dateistruktur
 lang: de-DE
 output: 
     html_document: 
