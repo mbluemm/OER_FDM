@@ -11,7 +11,7 @@ export default defineConfig({
 
   title: 'Technische Hochschule Köln',
   lang: 'de-DE',
-  description: 'Vorlesungskripte, Lerzielmatrizen, Kursmaterialien',
+  description: 'Lehreinheiten, Lernzielmatrizen, Kursmaterialien',
   base: '/OER_FDM/',
 
   markdown: {

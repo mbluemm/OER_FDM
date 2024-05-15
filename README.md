@@ -6,7 +6,7 @@ Prof. Dr. Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner, Pr
 ## Kooperation
 Entstanden im Rahmen des Kooperationsvorhabens FDM@Studium.nrw; gefördert vom Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen in der Zeit vom 01.10.2022 bis zum 31.08.2024.
 
-## Kurskonzept
+## Konzept
 Der Basiskurs „Forschungsdatenmanagement“ ist als Blended-Learning-Kurs konzipiert und enthält 12 Lerneinheiten. Er besteht aus 11 Online-Einheiten à 30 Minuten und 12 Präsenz-Einheiten à 90 Minuten. 
 
 ## Lehr- und Lerneinheiten
@@ -23,4 +23,3 @@ Der Basiskurs „Forschungsdatenmanagement“ ist als Blended-Learning-Kurs konz
 - Rechtliche Aspekte
 - Ethische Aspekte
 - Arbeiten im Team
-

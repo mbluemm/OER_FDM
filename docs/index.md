@@ -5,7 +5,7 @@ layout: home
 icon: 
   src: 'medien/assets/logo_TH_Koeln.svg'
 title: FDM Basiskurs
-titleTemplate: Lerneinheiten, Lehrkonzepte, Kursmaterialien
+titleTemplate: Lerneinheiten, Lehreinheiten, Kursmaterialien
 lastUpdated: true
 
 hero:
@@ -17,10 +17,10 @@ hero:
   actions:
     - theme: brand
       text: Lerneinheiten für Studierende
-      link: /texte/VL_Forschungsdaten.md
+      link: /texte/01_LE_Forschungsdaten.md
     - theme: alt
-      text: Lehrkonzepte für Dozierende
-      link: /lz/VL_Forschungsdaten_LZ.md
+      text: Lehreinheiten für Dozierende
+      link: /lz/02_LE-Doz_Forschungsdaten.md
 
 features:
   - icon: 🪼 
@@ -28,6 +28,6 @@ features:
     details: Lerneinheiten für das Selbststudium
   - icon: 🐬
     title: LiaScript
-    details: Nachnutzbare Lehrkonzepte
+    details: Nachnutzbare Lehreinheiten
 ---
 
