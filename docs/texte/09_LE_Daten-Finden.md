@@ -198,6 +198,10 @@ international gültig.
 
 :::info CC BY
 
+<img src="../medien/icons/0017_THK_Tools.svg?autoSizes=true"
+     alt="Icon_Tools"
+     style="float: left; margin-right: 20px; width: 20%;" />
+
 *Namensnennung*
 
 Diese Lizenz erlaubt Dritten, ein Werk zu
