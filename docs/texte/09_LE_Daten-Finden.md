@@ -198,7 +198,7 @@ international gültig.
 
 :::info CC BY
 
-Namensnennung
+*Namensnennung*
 
 Diese Lizenz erlaubt Dritten, ein Werk zu
 verbreiten, zu verändern, zu verbessern und
