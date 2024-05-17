@@ -137,7 +137,6 @@ sich um ein qualitatives Repositorium eignet:
 - Anmeldung und Bearbeitung
 - Auffindung durch Suchmaschine
 
-
 Repositorien können mit Zertifikaten ausgezeichnet werden, die einen Mindestmaß an Qualität
 garantieren. Unter anderen, vergibt die community-basierte und gemeinnützige Organisation
 CoreTrustSeal Core Level Zertifizierungen an Repositorien. Diese basieren auf dem DSA-WDS Core
@@ -197,22 +196,21 @@ Nutzungsrechte für Forschungsdaten vergeben. CC-Lizenzen sind international wei
 allerdings gibt es je nach Version der Lizenz nationale Anpassungen. Die aktuelle Version 4.0 ist
 international gültig.
 
-```
+:::info CC BY
+
 Namensnennung
-CC BY
-```
-```
+
 Diese Lizenz erlaubt Dritten, ein Werk zu
 verbreiten, zu verändern, zu verbessern und
 darauf aufzubauen, auch kommerziell, solange
 der Urheber des Originals genannt wird.
-```
-```
+
 Namensnennung - Weitergabe unter gleichen
 Bedingungen
-CC BY-SA
-```
-```
+:::
+
+:::info CC BY-SA
+
 Diese Lizenz erlaubt es Dritten, ein Werk zu
 verbreiten, zu verändern, zu verbessern und
 darauf aufzubauen, auch kommerziell, solange
@@ -220,50 +218,47 @@ der Urheber des Originals genannt wird und die
 auf seinem Werk basierenden neuen Werke
 unter denselben Bedingungen veröffentlicht
 werden.
-```
-```
+
 Diese Lizenz erlaubt Dritten die
 Weiterverbreitung des Werkes, kommerziell wie
 nicht-kommerziell, solange dies ohne
-```
 
-```
 Namensnennung-Keine Bearbeitung
-CC BY-ND
-```
-```
+:::
+
+:::info CC BY-ND
+
 Veränderungen und vollständig geschieht und
 der Urheber genannt wird.
-```
-```
+
 Namensnennung-Nicht kommerziell
-CC BY-NC
-```
-```
+:::
+
+:::info CC BY-NC
+
 wie CC BY – zusätzlich mit der Einschränkung
 „nur nicht kommerziell“
-```
-```
+
 Namensnennung - Nicht-kommerziell -
 Weitergabe unter gleichen Bedingungen
-CC BY-NC-SA
-```
-```
+:::
+
+:::info CC BY-NC-SA
+
 wie CC BY SA – zusätzlich mit der
 Einschränkung „nur nicht kommerziell“
-```
-```
+
 Namensnennung - Nicht-kommerziell - Keine
 Bearbeitung
-CC BY-NC-ND
-```
-```
+
+:::info CC BY-NC-ND
+
 wie CC BY ND – zusätzlich mit der
 Einschränkung „nur nicht kommerziell“
-```
+:::
+
 Mehr über die Creative-Commons-Lizenzen unter der Creative Commons Liste der Lizenzen, Muuß-
 Merholz 2021 und FAQ 2021.
-
 
 ### Datensätze korrekt zitieren
 
@@ -276,28 +271,34 @@ Angabe nachgewiesen, also zitiert, werden. Die absolute Ehrlichkeit in Bezug auf
 
 wissenschaftlichen Standards verfügen auffindbare Datensätze i. d. R. über folgende Informationen:
 
-```
+:::tip
 Urheber Ab fünf Namen sollte mit “et al.” oder Ähnlichem
 abgekürzt werden
-```
-```
+:::
+
+:::tip
 Veröffentlichungsdatum Jahr der Veröffentlichung des Datensatzes
-```
-```
+:::
+
+:::tip
 Titel Titel und eventuell weitere Titel der Studie/des
 Datensatzes
-```
-```
+:::
+
+:::tip
 Version Versionsnummer der Ressource
-```
-```
+:::
+
+:::tip
 Publikationsagent Name des Datenzentrums/der Institution,
 das/die Ressource veröffentlicht hat.
-```
-```
-Genereller Ressourcentyp Datensatz, Text oder andere Ressourcentypen
-```
-```
+:::
+
+>[!IMPORTANT]
+>Genereller Ressourcentyp Datensatz, Text oder andere Ressourcentypen
+
+
+:::tip
 Identifikator Hier erscheint ein Persistent Identifier. Um direkt
 auf die Quelle des Objektes verweisen zu
 können, sollte der DOI-Name entweder mit der
@@ -305,9 +306,9 @@ URL des Resolvers abgedruckt
 (http://doi.org/doi:10.4232/1.10770) oder –
 platzsparender – mit einem Hyperlink
 (doi:10.4232/1.10770) unterlegt werden.
-```
-(Böker 2023b)
+:::
 
+(Böker 2023b)
 
 ## Mögliche Zitation von Datensätzen
 <!-- 0015_THK_Zitieren neben Absatz ergänzen --> 
