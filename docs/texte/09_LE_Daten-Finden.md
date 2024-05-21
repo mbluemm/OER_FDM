@@ -275,7 +275,7 @@ Angabe nachgewiesen, also zitiert, werden. Die absolute Ehrlichkeit in Bezug auf
 
 wissenschaftlichen Standards verfügen auffindbare Datensätze i. d. R. über folgende Informationen:
 
-:::tip Urheber
+:::info Urheber
 Ab fünf Namen sollte mit “et al.” oder Ähnlichem
 abgekürzt werden
 :::
