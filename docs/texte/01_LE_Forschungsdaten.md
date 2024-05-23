@@ -13,7 +13,7 @@ bibliography: references.bib
 # Was sind Forschungsdaten?
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 01_LE_Forschungsdaten. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/01_LE_Forschungsdaten.html>
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 01_LE_Forschungsdaten. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/01_LE_Forschungsdaten.html
 :::
 
 [[toc]]
@@ -143,7 +143,7 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
  Forschungsdaten.org (2015, 8. Oktober). Forschungsdaten. Zugriff am 18.10.2023, von [https://www.forschungsdaten.org/index.php/Forschungsdaten](https://www.forschungsdaten.org/index.php/Forschungsdaten).
 
 ## Weiterführende Materialen und Quellen
-
+<!-- sollte Beispiel nicht gesondert über Leitfragen und Aufgaben aufgeführt werden? Auch noch Beispiel der BUW mit der Bergkette einfügen (KF) -->
 <img src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
      alt="Icon_Findability"
      style="float: left; margin-right: 20px; width: 10%;" />
@@ -166,13 +166,13 @@ Auf der GTD-Webseite werden weitere Visualisierungen angeboten, die sich als Gru
 
 Böker, E. (2023, 5. Mai). Was sind Forschungsdaten. Forschungsdaten.info. Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/](https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/).
 
-Deutsche Forschungsgemeinschaft. (2019). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. Zenodo. [http://doi.org/10.5281/zenodo.3923602](http://doi.org/10.5281/zenodo.3923602).
+Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827).
 
 Putnings, M., Neuroth, H. & Neumann, J. (2021). Praxishandbuch Forschungsdatenmanagement. Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807](https://doi.org/10.1515/9783110657807).
 
 ### Quellen
 
-Sauther-Patrascu, K. S. & Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschungsdaten. Abgerufen am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).
+Präsidium der TH Köln. (2021). Leitlinie zum Umgang mit Forschungsdaten. Abgerufen am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).
 
 START (National Consortium for the Study of Terrorism and Responses to Terrorism). (2022). Global Terrorism Database, 1970 - 2020 [data file](https://www.start.umd.edu/gtd).
 
