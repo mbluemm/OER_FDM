@@ -246,6 +246,7 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 ScaryTale
 
  <!-- 0038_THK_Buch -->
+ <!-- wieso ist das Scarytale hier? Sollte das nicht in LZ?-->
 
 Geteilte Arbeit ist halbe Arbeit? Nummer 23: [https://forschungsdaten-thueringen.de/geschichten/articles/sharing-is-caring-ger.html](https://forschungsdaten-thueringen.de/geschichten/articles/sharing-is-caring-ger.html)
 
@@ -255,7 +256,7 @@ Geteilte Arbeit ist halbe Arbeit? Nummer 23: [https://forschungsdaten-thueringen
 
 <!-- G-0044_BUW_Icon_Findability -->
 
-Böker, E. (2023, 24. Juli). Formate erhalten. Forschungsdaten.info. Zugriff am 18.10.2023, von
+Forschungsdaten.info. (2023, 24. Juli). Formate erhalten. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/)
 
 Forschungsdaten.info. (2023, 5. Mai). Datenorganisation. Zugriff am 18.10.2023, von
@@ -275,6 +276,6 @@ VerbundFDB. (2018, 20. Juli). Daten benennen und organisieren. Zugriff am 18.10.
 [https://www.forschungsdaten-bildung.de/dateien-benennen](https://www.forschungsdaten-bildung.de/dateien-benennen)
 
 Weiner, Barbara, Wünsche, Stephan, Kühne, Stefan, Voigt, Pia, Frericks, Sebastian, Hoffmann,
-Clemens, Elze, Romy, & Gey, Ronny. (2020, April 30). Crashkurs Forschungsdatenmanagement. Zenodo. [https://doi.org/10.5281/zenodo](https://doi.org/10.5281/zenodo)
+Clemens, Elze, Romy, & Gey, Ronny. (2020, April 30). Crashkurs Forschungsdatenmanagement. Zenodo. [https://doi.org/10.5281/zenodo.3778431](https://doi.org/10.5281/zenodo.3778431)
 
 World Wide Web Consortium (W3C). (2007, 4. Juli). Datumsformate (S. Herkert, Übers.). W3C.org. Abgerufen am 21. Oktober 2023, von [https://www.w3.org/International/questions/qa-date-format.de](https://www.w3.org/International/questions/qa-date-format.de)
