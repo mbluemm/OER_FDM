@@ -108,7 +108,7 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ### Literatur
 
-Böker, E. (2023, 5. Mai). Datendokumentation. Forschungsdaten.info. Zugriff am 18.10.2023, von
+Forschungsdaten.info. (2024, 25. April). Datendokumentation. Zugriff am 11.06.2024, von
 [https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/)
 
 Forschungsdaten.info. (2023, 5. Mai). Datenmanagementplan. Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/](https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/)
