@@ -160,7 +160,7 @@ die Hinterlegung der relevanten Metadaten sind ebenfalls wichtig, um sicherzuste
 dass die Daten leicht auffindbar und wiederverwendbar sind. Repositorien, die den FAIR-Prinzipien entsprechen, 
 erfüllen beide Anforderungen. Um eine vorbildliche wissenschaftliche Praxis zu gewährleisten, wird empfohlen, 
 (Roh)Daten für einen Zeitraum von zehn Jahren verfügbar zu halten, wie es in den Leitlinien 
-der Deutschen Forschungsgemeinschaft (Deutsche Forschungsgemeinschaft, 2019) festgelegt ist.
+der Deutschen Forschungsgemeinschaft (Deutsche Forschungsgemeinschaft 2022) festgelegt ist.
 
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:VidenOm_DigitalBevaring.png"><img width="512" alt="VidenOm DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/VidenOm_DigitalBevaring.png/512px-VidenOm_DigitalBevaring.png"></a>
@@ -209,5 +209,4 @@ Rümpel, S. (2011). Der Lebenszyklus von Forschungsdaten. In S. Büttner, H.-C. 
 
 ### Quellen
 
-Deutsche Forschungsgemeinschaft. (2019). Leitlinien zur Sicherung guter wissenschaftlicher Praxis.
-Kodex. Zenodo. [http://doi.org/10.5281/zenodo.3923602](http://doi.org/10.5281/zenodo.3923602).
+Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827).
