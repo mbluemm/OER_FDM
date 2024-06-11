@@ -189,8 +189,6 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ### Literatur
 
-Poster_FAIRDATA. Erstellt im Rahmen des FDMentor-Projektes. Idee und Gestaltung: Katarzyna Biernacka, Dr. Dominika Dolzycka, Petra Buchholz, Kerstin Helbig. [Poster: FAIRDATA](../medien/dokumente/04_Poster_FAIRData_V4.pdf)
-
 Buch, Susanne, Fliegner, Angelika, & Raatz, Philip. (2023, April 14). *#datendienstag: Datenmanagementpläne und Forschungsdatenmanagement in Forschungsanträgen*. Folien 10-15. Zenodo. [https://doi.org/10.5281/zenodo.7825751](https://doi.org/10.5281/zenodo.7825751)
 
 Carroll, S.R., Herczog, E., Hudson, M. et al. (2021). Operationalizing the CARE and FAIR Principles
@@ -206,6 +204,8 @@ Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-023](https://doi
 GO FAIR. (o. D.). FAIR Principles. Zugriff am 18.10.2023, von [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/).
 
 GO FAIR – FAIR made easy (englisch, 4:06), [https://youtu.be/CEPsTiEgWR4](https://youtu.be/CEPsTiEgWR4)
+
+Poster_FAIRDATA. Erstellt im Rahmen des FDMentor-Projektes. Idee und Gestaltung: Katarzyna Biernacka, Dr. Dominika Dolzycka, Petra Buchholz, Kerstin Helbig. [Poster: FAIRDATA](../medien/dokumente/04_Poster_FAIRData_V4.pdf)
 
 Universität Wien. (o. D.). FAIR und CARE Prinzipien. Zugriff am 18.10.2023, von
 [https://rdm.univie.ac.at/de/forschungsdatenmanagement/fair-und-care-prinzipien/](https://rdm.univie.ac.at/de/forschungsdatenmanagement/fair-und-care-prinzipien/).
@@ -224,7 +224,7 @@ Forschungsdaten.info. (2023b, 21. Juli). FAIRe Daten. Zugriff am 18.10.2023, von
 
 GO FAIR. (o. D.). FAIR Principles. Zugriff am 18.10.2023, von [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/).
 
+Präsidium der TH Köln. (2021). Leitlinie zum Umgang mit Forschungsdaten. Zugriff am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).
+
 Universität Wien. (o. D.). FAIR und CARE Prinzipien. Zugriff am 18.10.2023, von
 [https://rdm.univie.ac.at/de/forschungsdatenmanagement/fair-und-care-prinzipien](https://rdm.univie.ac.at/de/forschungsdatenmanagement/fair-und-care-prinzipien).
-
-Präsidium der TH Köln. (2021). Leitlinie zum Umgang mit Forschungsdaten. Zugriff am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).
