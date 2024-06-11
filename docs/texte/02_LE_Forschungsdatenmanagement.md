@@ -51,8 +51,7 @@ Organisation und Sicherheit von Daten bei, sondern fördert auch die Transparenz
 und Zusammenarbeit in der wissenschaftlichen Forschung.
 
 Viele Forschungseinrichtungen haben bereits Leitlinien für das FDM herausgegeben, die als erster
-Schritt dazu dienen, einen strukturierten Umgang mit Forschungsdaten zu etablieren (Sauther-
-Patrascu und Dmitrieva 2021). 
+Schritt dazu dienen, einen strukturierten Umgang mit Forschungsdaten zu etablieren. 
 
 <img width="15%" align="right" alt="Icon_Leitlinien" src="../medien/icons/0007_THK_Leitlinien.svg?autoSizes=true">
 
@@ -230,7 +229,7 @@ von Daten und beinhaltet die eindeutige und nachvollziehbare Dokumentation des
 Entstehungskontextes und der benutzten Werkzeuge und Verfahren nach fachspezifischen
 Standards. Zur Dokumentation von Forschungsdaten gehört auch die Angabe von Quellen,
 Inhaberschaft und Berechtigung zur Nutzung und Veröffentlichung (mehr dazu im Kapitel
-“Dokumentation von Daten”), (Sauther-Patrascu und Dmitrieva 2021).
+“Dokumentation von Daten”).
 
 <!-- SB: bleibt drinnen? -->
 <a title="Jørgen Stamp
@@ -241,8 +240,7 @@ Inhaberschaft und Berechtigung zur Nutzung und Veröffentlichung (mehr dazu im K
 Weitere Hinweise zur Befolgung der GWP sind in den „Leitlinien zur Sicherung guter
 wissenschaftlicher Praxis“ der Deutschen Forschungsgemeinschaft festgehalten. An diese angelehnt,
 gibt es institutsinterne Richtlinien zu guter wissenschaftlicher Praxis und für den Umgang mit
-wissenschaftlichem Fehlverhalten, wie sie in diesem Falle die TH Köln verabschiedet hat (Sauther-
-Patrascu und Dmitrieva 2021). Weitere Informationen zum Thema wissenschaftliche Integrität finden
+wissenschaftlichem Fehlverhalten, wie sie in diesem Falle die TH Köln verabschiedet hat. Weitere Informationen zum Thema wissenschaftliche Integrität finden
 Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 
 <img src="../medien/icons/0007_THK_Leitlinien.svg?autoSizes=true"
@@ -289,14 +287,14 @@ Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissensc
 ### Literatur
 
 Arbeitsgruppe Forschungsdaten. (2018). Forschungsdatenmanagement. Eine Handreichung.
-_Arbeitsgruppe Forschungsdaten der Schwerpunktinitiative „Digitale Information_ “ der Allianz der
+Arbeitsgruppe Forschungsdaten der Schwerpunktinitiative „Digitale Information" der Allianz der
 deutschen Wissenschaftsorganisationen. Potsdam: Deutsches GeoForschungsZentrum GFZ.
 [https://doi.org/10.2312/allianzoa.029](https://doi.org/10.2312/allianzoa.029).
 
-Böker, E. (2022, 15. November). Gute wissenschaftliche Praxis und FDM. Forschungsdaten.info.
-Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/](https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/).
+Forschungsdaten.info (2024, 02. Mai). Gute wissenschaftliche Praxis und FDM. 
+Zugriff am 11.06.2024, von [https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/](https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/).
 
-Böker, E. (2023, 5. Mai). Was ist Forschungsdatenmanagement. Forschungsdaten.info. Zugriff am
+Forschungsdaten.info (2023, 5. Mai). Was ist Forschungsdatenmanagement. Zugriff am
 18.10.2023, von [https://forschungsdaten.info/themen/informieren-und-planen/was-ist-forschungsdatenmanagement](https://forschungsdaten.info/themen/informieren-und-planen/was-ist-forschungsdatenmanagement/).
 
 Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827).
@@ -313,5 +311,4 @@ FDM-"Schiffbrüche" aus dem Forschungsalltag und was Sie daraus lernen können,[
 Fühles-Ubach, S. & Heidkamp, P. (2022). Data Literacy _–_ Basiskurs Data Lifecycle. KI-Campus
 Original. DaLI – Data Literacy Initiative. [https://ki-campus.org/courses/dali-basis-THK2021](https://ki-campus.org/courses/dali-basis-THK2021).
 
-Sauther-Patrascu, K. S. & Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschungsdaten.
-Abgerufen am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).
+Präsidium der TH Köln. (2021). Leitlinie zum Umgang mit Forschungsdaten. Zugriff am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).
