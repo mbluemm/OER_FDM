@@ -27,7 +27,7 @@ Außerdem lernen Sie über Vor- und Nachteile verschiedener Speichermedien sowie
 Datenformate.
 :::
 
-(forschungsdaten.info 2023a; forschungsdaten.info 2023b).
+(forschungsdaten.info 2023e; forschungsdaten.info 2023f).
 
 <!-- Video von Medienagentur einfügen -->
 
@@ -47,7 +47,7 @@ unbefugtem Zugriff (z. B. Cyber/Hackerangriffe) und Datenverlust (z. B. technisc
 geschützt werden. Insbesondere sensible, personenbezogene Daten müssen durch
 Pseudonymisierung oder Anonymisierung besonders geschützt werden (Weiner et al. 2020).
 
-Vor- und Nachteile von Speichermedien finden Sie unter (forschungsdaten.info 2023b). 
+Vor- und Nachteile von Speichermedien finden Sie unter (forschungsdaten.info 2023f). <!-- verlinken? -->
 
 <!-- hier Datenspeicherlösungen wie G-0035_BUW_Icon_USB_Stick , G-0037_BUW_Icon_CD , G-0039_BUW_Icon_SD-Karte , 0011_THK_Speicher_Cloud , 0012_THK_Speicher_PC , 0013_THK_Speicher_Festplatte einfügen -->
 
@@ -69,7 +69,7 @@ Darüber hinaus ist es wichtig, die 3 - 2 - 1 - Regel zu beachten. Gleichermaße
 <!-- 0027_THK_Ordnerstruktur , 0006_THK_Organisieren , 0029_THK_Dateibenennung -->
 
 ![](https://)
-Abbildung: forschungsdaten.info 2023a
+Abbildung: forschungsdaten.info 2023e
 <!-- gegen 0064_THK_3-2-1-Regel eintauschen --> 
 
 ## Empfehlungen zur Datensicherung
@@ -202,16 +202,16 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 ### Literatur
 <!-- hier noch 09_Leitfragen_Speicher_V4 und 09_Auflösung_Speicherug_Backup_V4 aus sciebo-Ordner einfügen -->
 <!-- G-0044_BUW_Icon_Findability -->
-Böker, E. (2023a, 5. Mai). Datenübertragung. Forschungsdaten.info. Zugriff am 18.10.2023, von
+Forschungsdaten.info (2023a, 5. Mai). Datenübertragung. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/organisieren-und-aufbereiten/datenuebertragung/](https://forschungsdaten.info/themen/organisieren-und-aufbereiten/datenuebertragung/)
 
-Böker, E. (2023b, 24. Juli). Formate erhalten. Forschungsdaten.info. Zugriff am 18.10.2023, von
-[https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/)
-
-Forschungsdaten.info. (2023, 5. Mai). Passworthilfen. Zugriff am 18.10.2023, von
+Forschungsdaten.info. (2023b, 5. Mai). Passworthilfen. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/speichern-und-rechnen/passworthilfen/](https://forschungsdaten.info/themen/speichern-und-rechnen/passworthilfen/)
 
-Forschungsdaten.info. (2023, 11. August). Speichern und Übertragen großer Datenmengen. Zugriff
+Forschungsdaten.info (2023c, 24. Juli). Formate erhalten. Zugriff am 18.10.2023, von
+[https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/)
+
+Forschungsdaten.info. (2023d, 11. August). Speichern und Übertragen großer Datenmengen. Zugriff
 am 18.10.2023, von [https://forschungsdaten.info/themen/speichern-und-rechnen/speichern-und-uebertragen-grosser-datenmengen/](https://forschungsdaten.info/themen/speichern-und-rechnen/speichern-und-uebertragen-grosser-datenmengen/).
 
 Putnings, M., Neuroth, H., & Neumann, J. (2021, 19. Dezember). Praxishandbuch
@@ -227,18 +227,17 @@ Zenodo. [https://doi.org/10.5281/zenodo.3778431](https://doi.org/10.5281/zenodo.
 
 ### Quellen:
 
-Forschungsdaten.info. (2023a, 5. Mai). Datensicherheit und Backup. Zugriff am 18.10.2023, von
+Forschungsdaten.info. (2023e, 5. Mai). Datensicherheit und Backup. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/speichern-und-rechnen/datensicherheit-und-backup/](https://forschungsdaten.info/themen/speichern-und-rechnen/datensicherheit-und-backup/).
 
-Forschungsdaten.info. (2023b, 5. Mai). Datenspeicherung und die Lebensdauer von Datenträgern.
+Forschungsdaten.info. (2023f, 5. Mai). Datenspeicherung und die Lebensdauer von Datenträgern.
 Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/speichern-und-rechnen/datenspeicherung-und-die-lebensdauer-von-datentraegern/](https://forschungsdaten.info/themen/speichern-und-rechnen/datenspeicherung-und-die-lebensdauer-von-datentraegern/)
 
 Krähwinkel, E., Langner, P., Lipp, R., et al. (2022). HeFDI Data Learning Materials:
 Forschungsdatenmanagement _–_ eine Online-Einführung (Version 1.0). Zenodo.
 [https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ](https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ)
 
-Sauther-Patrascu, K. S. & Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschungsdaten.
-Abgerufen am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf)
+Präsidium der TH Köln. (2021). Leitlinie zum Umgang mit Forschungsdaten. Zugriff am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf)
 
 VerbundFDB. (2018, 20. Juli). Daten benennen und organisieren. Zugriff am 18.10.2023, von
 [https://www.forschungsdaten-bildung.de/dateien-benennen](https://www.forschungsdaten-bildung.de/dateien-benennen)
