@@ -242,9 +242,9 @@ reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ### Literatur
 
-Forschungsdaten.info. (2024a, 25. April). Datendokumentation. Zugriff am 11.06.2024, von [https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/)
-
 Digital Curation Centre (DCC). (o. D.). List of Metadata Standards. Zugriff am 18.10.2023, von [https://www.dcc.ac.uk/guidance/standards/metadata/list](https://www.dcc.ac.uk/guidance/standards/metadata/list)
+
+Forschungsdaten.info. (2024a, 25. April). Datendokumentation. Zugriff am 11.06.2024, von [https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/)
 
 Forschungsdaten.info. (2023, 5. Mai). Metadaten im Forschungsalltag. Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/metadaten-im-forschungsalltag/](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/metadaten-im-forschungsalltag/)
 
