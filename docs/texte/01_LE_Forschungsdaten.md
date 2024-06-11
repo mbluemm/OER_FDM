@@ -164,9 +164,9 @@ Auf der GTD-Webseite werden weitere Visualisierungen angeboten, die sich als Gru
 
 ### Literatur
 
-Forschungsdaten.info (2024, 7. Juni). Was sind Forschungsdaten. Zugriff am 11.06.2024, von [https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/](https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/).
-
 Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827).
+
+Forschungsdaten.info (2024, 7. Juni). Was sind Forschungsdaten. Zugriff am 11.06.2024, von [https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/](https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/).
 
 Putnings, M., Neuroth, H. & Neumann, J. (2021). Praxishandbuch Forschungsdatenmanagement. Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807](https://doi.org/10.1515/9783110657807).
 
