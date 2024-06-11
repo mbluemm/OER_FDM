@@ -150,7 +150,7 @@ ScaryTale nr. 34 - Falscher Alarm [https://forschungsdaten-thueringen.de/geschic
 
 ScaryTale nr. 35 – in der feindlichen Basis [https://forschungsdaten-thueringen.de/geschichten/articles/in-der-feindlichen-basis-de.html](https://forschungsdaten-thueringen.de/geschichten/articles/in-der-feindlichen-basis-de.html)
 
-ScaryTale nr. 58 – Daten in Brand gefahr [https://forschungsdaten-thueringen.de/geschichten/articles/20221026-daten-in-brandgefahr.html](https://forschungsdaten-thueringen.de/geschichten/articles/20221026-daten-in-brandgefahr.html)
+ScaryTale nr. 58 – Daten in Brandgefahr [https://forschungsdaten-thueringen.de/geschichten/articles/20221026-daten-in-brandgefahr.html](https://forschungsdaten-thueringen.de/geschichten/articles/20221026-daten-in-brandgefahr.html)
 
 Beispiele zum Thema „Speichern von Daten“
 ===
