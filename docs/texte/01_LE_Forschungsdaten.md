@@ -164,19 +164,19 @@ Auf der GTD-Webseite werden weitere Visualisierungen angeboten, die sich als Gru
 
 ### Literatur
 
-Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827).
+Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827)
 
-Forschungsdaten.info (2024, 7. Juni). Was sind Forschungsdaten. Zugriff am 11.06.2024, von [https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/](https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/).
+Forschungsdaten.info. (2024, 7. Juni). Was sind Forschungsdaten. Zugriff am 11.06.2024, von [https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/](https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/)
 
-Putnings, M., Neuroth, H. & Neumann, J. (2021). Praxishandbuch Forschungsdatenmanagement. Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807](https://doi.org/10.1515/9783110657807).
+Putnings, M., Neuroth, H. & Neumann, J. (2021). Praxishandbuch Forschungsdatenmanagement. Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807](https://doi.org/10.1515/9783110657807)
 
 ### Quellen
 
-Präsidium der TH Köln. (2021). Leitlinie zum Umgang mit Forschungsdaten. Zugriff am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).
+Präsidium der TH Köln. (2021). Leitlinie zum Umgang mit Forschungsdaten. Zugriff am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf)
 
-START (National Consortium for the Study of Terrorism and Responses to Terrorism). (2022). Global Terrorism Database, 1970 - 2020 [data file](https://www.start.umd.edu/gtd).
+START. (National Consortium for the Study of Terrorism and Responses to Terrorism). (2022). Global Terrorism Database, 1970 - 2020 [data file](https://www.start.umd.edu/gtd)
 
-START. (2020). GTD Heatmaps. Abgerufen am 20. Oktober 2023, von [https://www.start.umd.edu/gtd/features/GTD_Heatmaps.html](https://www.start.umd.edu/gtd/features/GTD_Heatmaps.html).
+START. (2020). GTD Heatmaps. Abgerufen am 20. Oktober 2023, von [https://www.start.umd.edu/gtd/features/GTD_Heatmaps.html](https://www.start.umd.edu/gtd/features/GTD_Heatmaps.html)
 
 ---
 [^1]: Sauther-Patrascu und Dmitrieva (2021).
