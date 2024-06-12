@@ -212,23 +212,23 @@ Forschungsdaten.info (2023c, 24. Juli). Formate erhalten. Zugriff am 18.10.2023,
 [https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/)
 
 Forschungsdaten.info. (2023d, 11. August). Speichern und Übertragen großer Datenmengen. Zugriff
-am 18.10.2023, von [https://forschungsdaten.info/themen/speichern-und-rechnen/speichern-und-uebertragen-grosser-datenmengen/](https://forschungsdaten.info/themen/speichern-und-rechnen/speichern-und-uebertragen-grosser-datenmengen/).
+am 18.10.2023, von [https://forschungsdaten.info/themen/speichern-und-rechnen/speichern-und-uebertragen-grosser-datenmengen/](https://forschungsdaten.info/themen/speichern-und-rechnen/speichern-und-uebertragen-grosser-datenmengen/)
 
 Putnings, M., Neuroth, H., & Neumann, J. (2021, 19. Dezember). Praxishandbuch
-Forschungsdatenmanagement. De Gruyter Saur. [https://doi.org/10.1515/9783110657807](https://doi.org/10.1515/9783110657807).
+Forschungsdatenmanagement. De Gruyter Saur. [https://doi.org/10.1515/9783110657807](https://doi.org/10.1515/9783110657807)
 
 Weber, A. & Piesche, C. (2021). 4.2 Datenspeicherung, -kuration und Langzeitverfügbarkeit. In M.
 Putnings, H. Neuroth & J. Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (pp. 327-
-356). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-019](https://doi.org/10.1515/9783110657807-019).
+356). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-019](https://doi.org/10.1515/9783110657807-019)
 
 Weiner, B., Wünsche, S., Kühne, S. et al. (2020, 30. April). Crashkurs Forschungsdatenmanagement.
-Zenodo. [https://doi.org/10.5281/zenodo.3778431](https://doi.org/10.5281/zenodo.3778431).
+Zenodo. [https://doi.org/10.5281/zenodo.3778431](https://doi.org/10.5281/zenodo.3778431)
 
 
 ### Quellen:
 
 Forschungsdaten.info. (2023e, 5. Mai). Datensicherheit und Backup. Zugriff am 18.10.2023, von
-[https://forschungsdaten.info/themen/speichern-und-rechnen/datensicherheit-und-backup/](https://forschungsdaten.info/themen/speichern-und-rechnen/datensicherheit-und-backup/).
+[https://forschungsdaten.info/themen/speichern-und-rechnen/datensicherheit-und-backup/](https://forschungsdaten.info/themen/speichern-und-rechnen/datensicherheit-und-backup/)
 
 Forschungsdaten.info. (2023f, 5. Mai). Datenspeicherung und die Lebensdauer von Datenträgern.
 Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/speichern-und-rechnen/datenspeicherung-und-die-lebensdauer-von-datentraegern/](https://forschungsdaten.info/themen/speichern-und-rechnen/datenspeicherung-und-die-lebensdauer-von-datentraegern/)
