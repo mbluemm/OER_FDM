@@ -158,3 +158,22 @@ Beispiele zum Thema „Speichern von Daten“
 Fall: Cyberangriff auf das Auswärtige Amt:[https://www.sueddeutsche.de/digital/attacke-auf-auswaertiges-amt-die-geschichte-eines-cyber-angriffs-1.3917502](https://www.sueddeutsche.de/digital/attacke-auf-auswaertiges-amt-die-geschichte-eines-cyber-angriffs-1.3917502)
 
 Erhöhte Maßnahmen von Banken gegen Cyberangriffe (z. B. Phishing E-Mails):[https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/it-sicherheit-anzahl-der-cyberangriffe-auf-commerzbank-und-co-steigt/28856320.html](https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/it-sicherheit-anzahl-der-cyberangriffe-auf-commerzbank-und-co-steigt/28856320.html)
+
+## Taxonomiestufen
+
+||||
+| :--- | :--- | :--- |
+| Taxonomiestufe 1 | Wissen, Kenntnisse  (Tatsachen, Begriffe nennen) | Informationen möglichst wortgenau erinnern wiedergeben können, Informationen sinnerhaltend  umformen und in eigenen Worten wiedergeben sowie  zusammenfassen können |
+| Taxonomiestufe 2 | Verständnis  (erklären, begründen, mit anderen Worten umschreiben) |
+| Taxonomiestufe 3 | Anwendung  (Anwendung des Wissens, z.B. bei der Lösung eines praktischen Problems) | Abstraktionen (Regeln,  Methoden etc.) in konkreten  Situationen anwenden  können |
+| Taxonomiestufe 4 | Analyse  (eine reale Situation in ihre Elemente zerlegen) | Ideen, Problemstellungen in  ihre Elemente zerlegen und  vergleichen können |
+| Taxonomiestufe 5 | Synthese  (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer  Ganzheit formen |
+| Taxonomiestufe 6 | Bewertung  (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil  abgeben können |
+
+## Quellen
+
+Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.html](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.html)  
+
+Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele definieren*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-definieren.html](https://wb-web.de/material/methoden/lernziele-definieren.html)  
+
+Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Formulierungshilfen für Lernziele*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html](https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html)
