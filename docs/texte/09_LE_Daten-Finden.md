@@ -312,7 +312,7 @@ platzsparender – mit einem Hyperlink
 (doi:10.4232/1.10770) unterlegt werden.
 :::
 
-(Böker 2023b)
+(Forschungsdaten.info 2024)
 
 ## Mögliche Zitation von Datensätzen
 <!-- 0015_THK_Zitieren neben Absatz ergänzen --> 
