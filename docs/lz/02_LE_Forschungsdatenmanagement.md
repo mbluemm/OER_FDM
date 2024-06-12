@@ -117,9 +117,8 @@ L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung z
 | Taxonomiestufe 6 | Bewertung  (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil  abgeben können |
 
 ## Quellen
+Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). Lernziele Formulieren leicht gemacht. wb-web. Abgerufen am 20. Oktober 2023, von https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.html
 
-Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm).
+Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). Lernziele definieren. wb-web. Abgerufen am 20. Oktober 2023, von https://wb-web.de/material/methoden/lernziele-definieren.html
 
-Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele definieren*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-definieren.html](https://wb-web.de/material/methoden/lernziele-definieren.html).
-
-Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Formulierungshilfen für Lernziele*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html](https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html).
+Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). Formulierungshilfen für Lernziele. wb-web. Abgerufen am 20. Oktober 2023, von https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html
