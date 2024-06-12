@@ -289,18 +289,18 @@ Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissensc
 Arbeitsgruppe Forschungsdaten. (2018). Forschungsdatenmanagement. Eine Handreichung.
 Arbeitsgruppe Forschungsdaten der Schwerpunktinitiative „Digitale Information" der Allianz der
 deutschen Wissenschaftsorganisationen. Potsdam: Deutsches GeoForschungsZentrum GFZ.
-[https://doi.org/10.2312/allianzoa.029](https://doi.org/10.2312/allianzoa.029).
+[https://doi.org/10.2312/allianzoa.029](https://doi.org/10.2312/allianzoa.029)
 
-Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827).
+Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827)
 
-Forschungsdaten.info (2024, 02. Mai). Gute wissenschaftliche Praxis und FDM. 
-Zugriff am 11.06.2024, von [https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/](https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/).
+Forschungsdaten.info. (2024, 02. Mai). Gute wissenschaftliche Praxis und FDM. 
+Zugriff am 11.06.2024, von [https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/](https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/)
 
-Forschungsdaten.info (2023, 5. Mai). Was ist Forschungsdatenmanagement. Zugriff am
-18.10.2023, von [https://forschungsdaten.info/themen/informieren-und-planen/was-ist-forschungsdatenmanagement](https://forschungsdaten.info/themen/informieren-und-planen/was-ist-forschungsdatenmanagement/).
+Forschungsdaten.info. (2023, 5. Mai). Was ist Forschungsdatenmanagement. Zugriff am
+18.10.2023, von [https://forschungsdaten.info/themen/informieren-und-planen/was-ist-forschungsdatenmanagement](https://forschungsdaten.info/themen/informieren-und-planen/was-ist-forschungsdatenmanagement/)
 
 Putnings, M., Neuroth, H. & Neumann, J. (2021). Praxishandbuch Forschungsdatenmanagement.
-Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807](https://doi.org/10.1515/9783110657807).
+Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807](https://doi.org/10.1515/9783110657807)
 
 ## (Mögliche) Ergänzende Materialien im LMS
 
@@ -309,6 +309,6 @@ FDM-"Schiffbrüche" aus dem Forschungsalltag und was Sie daraus lernen können,[
 ### Quellen
 
 Fühles-Ubach, S. & Heidkamp, P. (2022). Data Literacy _–_ Basiskurs Data Lifecycle. KI-Campus
-Original. DaLI – Data Literacy Initiative. [https://ki-campus.org/courses/dali-basis-THK2021](https://ki-campus.org/courses/dali-basis-THK2021).
+Original. DaLI – Data Literacy Initiative. [https://ki-campus.org/courses/dali-basis-THK2021](https://ki-campus.org/courses/dali-basis-THK2021)
 
-Präsidium der TH Köln. (2021). Leitlinie zum Umgang mit Forschungsdaten. Zugriff am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).
+Präsidium der TH Köln. (2021). Leitlinie zum Umgang mit Forschungsdaten. Zugriff am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf)
