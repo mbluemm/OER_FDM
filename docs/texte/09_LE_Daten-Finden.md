@@ -356,42 +356,42 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio
 ### Literatur
 
 Forschungsdaten.info. (2023a, 5. Mai). Datenjournale. Zugriff am 18.10.2023, von
-[https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/datenjournale/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/datenjournale/).
+[https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/datenjournale/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/datenjournale/)
 
 Forschungsdaten.info. (2023b, 5. Mai). Forschungsdaten finden. Zugriff am 18.10.2023, von
-[https://www.forschungsdaten.info/themen/finden-und-nachnutzen/forschungsdaten-finden/](https://www.forschungsdaten.info/themen/finden-und-nachnutzen/forschungsdaten-finden/).
+[https://www.forschungsdaten.info/themen/finden-und-nachnutzen/forschungsdaten-finden/](https://www.forschungsdaten.info/themen/finden-und-nachnutzen/forschungsdaten-finden/)
 
 Forschungsdaten.info. (2024, 6. März). Persistente Identifikatoren. Zugriff am
-12.06.2024, [https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/persistente-identifikatoren/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/persistente-identifikatoren/).
+12.06.2024, [https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/persistente-identifikatoren/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/persistente-identifikatoren/)
 
 Gerlach, R., Rex, J., Lang, K. et al. (2020). Fact Sheet: Research Data Repositories. Zenodo.
-[https://doi.org/10.5281/zenodo.3900922](https://doi.org/10.5281/zenodo.3900922).
+[https://doi.org/10.5281/zenodo.3900922](https://doi.org/10.5281/zenodo.3900922)
 
-Lin, D., Crabtree, J., Dillo, I. et al. (2020) The TRUST Principles for digital repositories. Sci Data 7,144. [https://doi.org/10.1038/s41597- 020-0486-7](https://doi.org/10.1038/s41597- 020-0486-7).
+Lin, D., Crabtree, J., Dillo, I. et al. (2020) The TRUST Principles for digital repositories. Sci Data 7,144. [https://doi.org/10.1038/s41597- 020-0486-7](https://doi.org/10.1038/s41597- 020-0486-7)
 
 Pampel, H. & Elger, K. (2021). 5.6 Publikation und Zitierung von digitalen Forschungsdaten. In M.
-Putnings, H. Neuroth & J. Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (S. 521-536). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-028](https://doi.org/10.1515/9783110657807-028).
+Putnings, H. Neuroth & J. Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (S. 521-536). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-028](https://doi.org/10.1515/9783110657807-028)
 
 ### Quellen
 
-Arimetrics. (2022). What is Metasearch engine. Zugriff am 18.10.2023, von [https://www.arimetrics.com/en/digital-glossary/metasearch-engine](https://www.arimetrics.com/en/digital-glossary/metasearch-engine).
+Arimetrics. (2022). What is Metasearch engine. Zugriff am 18.10.2023, von [https://www.arimetrics.com/en/digital-glossary/metasearch-engine](https://www.arimetrics.com/en/digital-glossary/metasearch-engine)
 
 Forschungsdaten.info. (2023c, 5. Mai). Repositorien. Zugriff am 18.10.2023, von
-[https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/repositorien/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/repositorien/).
+[https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/repositorien/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/repositorien/)
 
 Forschungsdaten.info. (2023d, 5. Mai). Zitieren von Daten. Zugriff am 18.10.2023, von
-[https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/](https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/).
+[https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/](https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/)
 
 European Commission. (2022, 7. June). Open data portals. Zugriff am 18.10.2023, von
-[https://digital-strategy.ec.europa.eu/en/policies/open-data-portals](https://digital-strategy.ec.europa.eu/en/policies/open-data-portals).
+[https://digital-strategy.ec.europa.eu/en/policies/open-data-portals](https://digital-strategy.ec.europa.eu/en/policies/open-data-portals)
 
 FAQ - CC Germany. (2021, 29. September). CC Germany. Abgerufen am 21. Oktober 2023,
-von [https://de.creativecommons.net/faqs/#h.opqkebeeaptr](https://de.creativecommons.net/faqs/#h.opqkebeeaptr).
+von [https://de.creativecommons.net/faqs/#h.opqkebeeaptr](https://de.creativecommons.net/faqs/#h.opqkebeeaptr)
 
 Forschungsdaten.org. (2015, 15. September). Repositorium. Zugriff am 18.10.2023, von
-[https://www.forschungsdaten.org/index.php/Repositorium](https://www.forschungsdaten.org/index.php/Repositorium).
+[https://www.forschungsdaten.org/index.php/Repositorium](https://www.forschungsdaten.org/index.php/Repositorium)
 
 Muuß-Merholz, J. (2021, 30. März). Die CC-Lizenzen im Überblick _–_ Welche Lizenz für welche Zwecke? wb-web. Zugriff am
-18.10.2023, von [https://wb-web.de/material/medien/die-cc-lizenzen-im-uberblick-welche-lizenz-fur-welche-zwecke-1.html](https://wb-web.de/material/medien/die-cc-lizenzen-im-uberblick-welche-lizenz-fur-welche-zwecke-1.html).
+18.10.2023, von [https://wb-web.de/material/medien/die-cc-lizenzen-im-uberblick-welche-lizenz-fur-welche-zwecke-1.html](https://wb-web.de/material/medien/die-cc-lizenzen-im-uberblick-welche-lizenz-fur-welche-zwecke-1.html)
 
-Präsidium der TH Köln. (2021). Leitlinie zum Umgang mit Forschungsdaten. Zugriff am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).
+Präsidium der TH Köln. (2021). Leitlinie zum Umgang mit Forschungsdaten. Zugriff am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf)
