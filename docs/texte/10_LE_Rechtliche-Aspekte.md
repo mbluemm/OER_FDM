@@ -75,7 +75,7 @@ Quelle: Digitalbevaringdk Lovgivning_DigitalBevaring
 ## Einführung zum Thema Datenschutz
 <!-- 0031_THK_DSGVO neben unteren Absatz einfügen -->
 Die EU-Grundrechtecharta und das deutsche Grundgesetz gewähren jedem Menschen ein Recht auf
-den Schutz der ihn betreffenden personenbezogenen Daten (Böker 2023a). Sobald dieser
+den Schutz der ihn betreffenden personenbezogenen Daten (Forschungsdaten.info 2024d). Sobald dieser
 Personenbezug entfällt, bzw. betroffene Personen nicht (mehr) identifiziert werden können, greift das
 Datenschutzrecht nicht und diese Daten können grundsätzlich verarbeitet werden (Depping 2023).
 Das Themengebiet Datenschutz ist insbesondere bei der eigenen Erhebung von Daten relevant.
@@ -129,7 +129,7 @@ möglicher Re-identifizierung der ursprünglichen Daten greift der Datenschutz w
 sicherer Trennung der Pseudonyme und der identifizierbaren Daten kann der Datenschutz entfallen.
 Mehr Information dazu finden Sie unter „Rechtliche Aspekte des Forschungsdatenmanagements“.
 
-Beispiele für Forschungsdaten mit Personenbezug (forschungsdaten.info 2023a):
+Beispiele für Forschungsdaten mit Personenbezug (Forschungsdaten.info 2024e):
 <!-- 0001_THK_Beispiel neben unteren Absatz einfügen -->
 - Name von Probanden
 - E-Mail-Adresse
@@ -156,7 +156,7 @@ Datenverarbeitungsgrundsätze zu beachten:
 ## Praktische Tipps
 <!-- 0020_THK_Idee neben unteren Absatz einfügen -->
 Hier finden Sie eine Auflistung von zusammengefassten praktischen Tipps, an die es stark empfohlen ist, sich bei der Arbeit mit Daten aus rechtlichen Gründen zu halten.
-Quelle: Böker 2023a
+Quelle: Forschungsdaten.info 2023
 
 ## Einführung zum Thema Urheberrecht
 <!-- 0018_THK_Urheberrecht neben unteren Absatz einfügen -->
@@ -213,8 +213,8 @@ Daten, besteht bei den Erhebungen grundsätzlich kein urheberrechtlicher Schutz
 Bei Forschungsdaten, die nicht urheberrechtlich geschützt sind, fehlt es an rechtlichen Bestimmungen.
 Hinweis: Die Prüfung erfolgt im Einzelfall.
 
-Folgende sind Beispiele von Werken, die *nicht* urheberrechtlich geschützt sind (Kreutzer u.
-Fischer, 2023) :
+Folgende sind Beispiele von Werken, die *nicht* urheberrechtlich geschützt sind (Kreutzer &
+Fischer 2023) :
 <!-- 0020_THK_Idee neben unteren Absatz einfügen -->
 - (reine) Fakten
 - (reine) Informationen
@@ -258,7 +258,7 @@ angegeben werden.
 
 ::: warning Hinweis:
 Falls keine Lizenz existiert, dürfen urheberrechtlich geschützte Daten nur mit ausdrücklicher
-Zustimmung der Urheber:innen nachgenutzt werden.(Kreutzer u. Fischer, 2023)
+Zustimmung der Urheber:innen nachgenutzt werden.(Kreutzer & Fischer 2023)
 :::
 
 ## Leitfragen und Aufgaben
@@ -299,36 +299,35 @@ Reales Beispiel
 <!-- hier noch 17_Checkliste_Einwilligung_V4 von sciebo-Ordner einfügen --> 
 
 Böker, E., Brettschneider, Peter. (2020, 23. April). Forschungsdaten - Rechte und gute
-wissenschaftliche Praxis. Zenodo. [https://doi.org/10.5281/zenodo.3763040](https://doi.org/10.5281/zenodo.3763040).
-
-Böker, E. (2023b, 12. Mai). Forschungsdaten veröffentlichen. Forschungsdaten.info. Zugriff am
-18.10.2023, von [https://forschungsdaten.info/themen/rechte-und-pflichten/forschungsdaten-veroeffentlichen/](https://forschungsdaten.info/themen/rechte-und-pflichten/forschungsdaten-veroeffentlichen/).
+wissenschaftliche Praxis. Zenodo. [https://doi.org/10.5281/zenodo.3763040](https://doi.org/10.5281/zenodo.3763040)
 
 Brettschneider, P., Biernacka, K., Böker, E. et al. (2021, 24. August). Urheberrecht und Lizenzierung
-bei Forschungsdaten. Zenodo. [https://doi.org/10.5281/zenodo.5243232](https://doi.org/10.5281/zenodo.5243232).
+bei Forschungsdaten. Zenodo. [https://doi.org/10.5281/zenodo.5243232](https://doi.org/10.5281/zenodo.5243232)
 
-Forschungsdaten.info. (2023b, 5. Mai). Deutsches Recht und Copyright. Zugriff am 18.10.2023, von
+Forschungsdaten.info. (2023, 5. Mai). Rechte und Pflichten. Zugriff am 18.10.2023, von
+[https://www.forschungsdaten.info/themen/rechte-und-pflichten/](https://www.forschungsdaten.info/themen/rechte-und-pflichten/)
+
+Forschungsdaten.info. (2024a, 6. März). Forschungsdaten veröffentlichen. Zugriff am 12.06.2024, von [https://forschungsdaten.info/themen/rechte-und-pflichten/forschungsdaten-veroeffentlichen/](https://forschungsdaten.info/themen/rechte-und-pflichten/forschungsdaten-veroeffentlichen/)
+
+Forschungsdaten.info. (2024b, 6. März). Deutsches Recht und Copyright. Zugriff am 12.06.2024, von
 [https://forschungsdaten.info/themen/rechte-und-pflichten/deutsches-recht-und-copyright/](https://forschungsdaten.info/themen/rechte-und-pflichten/deutsches-recht-und-copyright/).
 
-Forschungsdaten.info. (2023c, 5. Mai). Rechte und Pflichten. Zugriff am 18.10.2023, von
-[https://www.forschungsdaten.info/themen/rechte-und-pflichten/](https://www.forschungsdaten.info/themen/rechte-und-pflichten/).
-
-Forschungsdaten.info. (2023d, 5. Mai). Urheberrecht. Zugriff am 18.10.2023, von
-[https://forschungsdaten.info/themen/rechte-und-pflichten/urheberrecht/](https://forschungsdaten.info/themen/rechte-und-pflichten/urheberrecht/).
+Forschungsdaten.info. (2024c, 6. März). Urheberrecht. Zugriff am 12.06.2024, von
+[https://forschungsdaten.info/themen/rechte-und-pflichten/urheberrecht/](https://forschungsdaten.info/themen/rechte-und-pflichten/urheberrecht/)
 
 Kreutzer, T., & Fischer, G. (2023). Urheberrecht in der Wissenschaft. Ein Überblick für Forschung,
-Lehre und Bibliotheken. Zenodo. [https://doi.org/10.5281/zenodo.8284551](https://doi.org/10.5281/zenodo.8284551).
+Lehre und Bibliotheken. Zenodo. [https://doi.org/10.5281/zenodo.8284551](https://doi.org/10.5281/zenodo.8284551)
 
 Lauber-Rönsberg, A. (2021). 1.4 Rechtliche Aspekte des Forschungsdatenmanagements. In M.
 Putnings, H. Neuroth & J. Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (S. 89-
-114). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-005](https://doi.org/10.1515/9783110657807-005).
+114). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-005](https://doi.org/10.1515/9783110657807-005)
 
-Leibniz Universität Hannover, & Technische Informationsbibliothek. (2018). FAQs zu rechtlichen
+Leibniz Universität Hannover & Technische Informationsbibliothek. (2018). FAQs zu rechtlichen
 Aspekten im Umgang mit Forschungsdaten (Version 180215). Zenodo.
-[https://doi.org/10.5281/zenodo.1173546](https://doi.org/10.5281/zenodo.1173546).
+[https://doi.org/10.5281/zenodo.1173546](https://doi.org/10.5281/zenodo.1173546)
 
 Verbund FDB. (2022, 22. Juli). Informierte Einwilligung. Zugriff am 18.10.2023, von
-[https://www.forschungsdaten-bildung.de/einwilligung](https://www.forschungsdaten-bildung.de/einwilligung).
+[https://www.forschungsdaten-bildung.de/einwilligung](https://www.forschungsdaten-bildung.de/einwilligung)
 
 Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum
 Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien
@@ -337,20 +336,18 @@ Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordn
 
 ### Quellen:
 
-Böker, E. (2023a, 5. Mai). Recht und Forschungsdaten _–_ ein Überblick. Forschungsdaten.info. Zugriff
-am 18.10.2023, von [https://www.forschungsdaten.info/themen/rechte-und-pflichten/recht-und-forschungsdaten-ein-ueberblick/](https://www.forschungsdaten.info/themen/rechte-und-pflichten/recht-und-forschungsdaten-ein-ueberblick/).
+Depping, R. (2023). Rechtliche Aspekte des Forschungsdatenmanagements – Eine
+Einführung. Arbeitspapier. [http://kups.ub.uni-koeln.de/id/eprint/71057](http://kups.ub.uni-koeln.de/id/eprint/71057)
 
-Depping, Ralf (2023). Rechtliche Aspekte des Forschungsdatenmanagements _–_ Eine
-Einführung. Arbeitspapier. [http://kups.ub.uni-koeln.de/id/eprint/71057.](http://kups.ub.uni-koeln.de/id/eprint/71057.)
+Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. https://doi.org/10.5281/zenodo.6472827
 
-Deutsche Forschungsgemeinschaft. (2022). Guidelines for Safeguarding Good Research Practice.
-Code of Conduct. [https://doi.org/10.5281/zenodo](https://doi.org/10.5281/zenodo).
+Forschungsdaten.info. (2024d, 6. März). Recht und Forschungsdaten – ein Überblick. Zugriff am 12.06.2024, von [https://www.forschungsdaten.info/themen/rechte-und-pflichten/recht-und-forschungsdaten-ein-ueberblick/](https://www.forschungsdaten.info/themen/rechte-und-pflichten/recht-und-forschungsdaten-ein-ueberblick/)
 
-Forschungsdaten.info. (2023a, 5. Mai). Datenschutzrecht. Zugriff am 18.10.2023, von
-[https://forschungsdaten.info/themen/rechte-und-pflichten/datenschutzrecht/](https://forschungsdaten.info/themen/rechte-und-pflichten/datenschutzrecht/).
+Forschungsdaten.info. (2024e, 6. März). Datenschutzrecht. Zugriff am 12.06.2024, von
+[https://forschungsdaten.info/themen/rechte-und-pflichten/datenschutzrecht/](https://forschungsdaten.info/themen/rechte-und-pflichten/datenschutzrecht/)
 
 Krähwinkel, E., Langner, P., Lipp, R., et al. (2022). HeFDI Data Learning Materials:
-Forschungsdatenmanagement _–_ eine Online-Einführung (Version 1.0). Zenodo. [https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ](https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ)
+Forschungsdatenmanagement – eine Online-Einführung (Version 1.0). Zenodo. [https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ](https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ)
 
-Kreutzer, Till, & Fischer, Georg. (2023). Urheberrecht in der Wissenschaft. Ein Überblick für
-Forschung, Lehre und Bibliotheken. DOI: [https://doi.org/10.5281/zenodo](https://doi.org/10.5281/zenodo).
+Kreutzer, T., & Fischer, G. (2023). Urheberrecht in der Wissenschaft. Ein Überblick für
+Forschung, Lehre und Bibliotheken. DOI: [https://doi.org/10.5281/zenodo.8284551](https://doi.org/10.5281/zenodo.8284551)
