@@ -191,22 +191,22 @@ Stefanie Rümpel. Der Lebenszyklus von Forschungsdaten. In:  Handbuch Forschungs
 ### Literatur
 
 Büttner, S., Hobohm, H., Müller, L. (Ed.) (2011). Handbuch Forschungsdatenmanagement (S. 25-34).
-Fachhochschule Potsdam. [https://doi.org/10.34678/opus4-208](https://doi.org/10.34678/opus4-208).
+Fachhochschule Potsdam. [https://doi.org/10.34678/opus4-208](https://doi.org/10.34678/opus4-208)
 
-Dierkes, J. (2021). 4.1 Planung, Beschreibung und Dokumentation von Forschungsdaten. In M. Putnings, H. Neuroth & J. Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (S. 303-326). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-018](https://doi.org/10.1515/9783110657807-018).
+Dierkes, J. (2021). 4.1 Planung, Beschreibung und Dokumentation von Forschungsdaten. In M. Putnings, H. Neuroth & J. Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (S. 303-326). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-018](https://doi.org/10.1515/9783110657807-018)
 
 Forschungsdaten.info. (2023, 5. Mai). Datenlebenszyklus. Zugriff am 18.10.2023, von
-[https://forschungsdaten.info/themen/informieren-und-planen/datenlebenszyklus/](https://forschungsdaten.info/themen/informieren-und-planen/datenlebenszyklus/).
+[https://forschungsdaten.info/themen/informieren-und-planen/datenlebenszyklus/](https://forschungsdaten.info/themen/informieren-und-planen/datenlebenszyklus/)
 
 Hochschule Bonn-Rhein-Sieg. (2023). Forschungsdatenmanagement. Zugriff am 18.10.2023, von
-[https://www.h-brs.de/de/bib/forschungsdatenmanagement](https://www.h-brs.de/de/bib/forschungsdatenmanagement).
+[https://www.h-brs.de/de/bib/forschungsdatenmanagement](https://www.h-brs.de/de/bib/forschungsdatenmanagement)
 
 Krähwinkel, E., Langner, P., Lipp, R., et al. (2022). HeFDI Data Learning Materials:
 Forschungsdatenmanagement _–_ eine Online-Einführung (Version 1.0). Zenodo.
-[https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ](https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ).
+[https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ](https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ)
 
-Rümpel, S. (2011). Der Lebenszyklus von Forschungsdaten. In S. Büttner, H.-C. Hobohm & L. Müller (Ed.), Handbuch Forschungsdatenmanagement (S. 25-34). Bad Honnef.
+Rümpel, S. (2011). Der Lebenszyklus von Forschungsdaten. In S. Büttner, H.-C. Hobohm & L. Müller (Ed.), Handbuch Forschungsdatenmanagement (S. 25-34). Bad Honnef
 
 ### Quellen
 
-Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827).
+Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827)
