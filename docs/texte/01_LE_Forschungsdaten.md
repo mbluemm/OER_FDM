@@ -140,7 +140,7 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
      alt="Icon_Buch"
      style="float: left; margin-right: 20px; width: 15%;" />
 
- Forschungsdaten.org (2015, 8. Oktober). Forschungsdaten. Zugriff am 18.10.2023, von [https://www.forschungsdaten.org/index.php/Forschungsdaten](https://www.forschungsdaten.org/index.php/Forschungsdaten).
+ Forschungsdaten.org. (2015, 8. Oktober). Forschungsdaten. Zugriff am 18.10.2023, von [https://www.forschungsdaten.org/index.php/Forschungsdaten](https://www.forschungsdaten.org/index.php/Forschungsdaten).
 
 ## Weiterführende Materialen und Quellen
 <!-- sollte Beispiel nicht gesondert über Leitfragen und Aufgaben aufgeführt werden? Auch noch Beispiel der BUW mit der Bergkette einfügen (KF) -->
