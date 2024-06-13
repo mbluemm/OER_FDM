@@ -14,8 +14,6 @@ aside: true
 Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 10_LE_Rechtliche-Aspekte. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/10_LE_Rechtliche-Aspekte.html
 :::
 
-<!-- 0016_THK_gesetzliche_Vorschriften einfügen -->
-
 [[toc]]
 
 ## Lernziele
@@ -27,6 +25,11 @@ Informationen ohne Gewähr auf Richtigkeit und Vollständigkeit
 :::
 
 ::: info Lernziele
+
+<img src="../medien/icons/0016_THK_gesetzliche_Vorschriften.svg?autoSizes=true"
+     alt="Icon_gesetzliche Vorschriften"
+     style="float: left; margin-right: 10px; width: 10%;" />
+     
 In diesem Themenblock bekommen Sie eine Einleitung zu den wichtigsten rechtlichen Aspekten, die
 Sie im FDM beachten müssen. Hier lernen Sie über Datenschutz, mitunter Anonymisierung und Pseudonymisierung, das Urheberrecht, die Nachnutzung von Daten und Lizenzierungen vorgestellt.
 :::
@@ -35,7 +38,7 @@ Sie im FDM beachten müssen. Hier lernen Sie über Datenschutz, mitunter Anonymi
 
 ## Leitlinien für das wissenschaftliche Arbeiten
 
-<!-- 0007_THK_Leitlinien neben unteren Absatz einfügen -->
+<img align="right" width="12%" alt="Icon_Leitlinien" src="../medien/icons/0007_THK_Leitlinien.svg?autoSizes=true">
 
 Unter Anderem sind Hinweise zur Befolgung von rechtlichen und ethischen Aspekten in den „Leitlinien
 zur Sicherung guter wissenschaftlicher Praxis“ der Deutschen Forschungsgemeinschaft (DFG 2022)
@@ -56,7 +59,7 @@ Quelle: Digitalbevaringdk OmSitet_DigitalBevaring
 
 ## Rechtliche Aspekte
 
-<!-- G-0042_BUW_Icon_Gesetztestext neben unteren Absatz einfügen --> 
+<img align="right" width="12%" alt="Icon_Gesetzestext" src="../medien/icons/G-0042_BUW_Icon_Gesetztestext.svg?autoSizes=true">
 
 Für den Forschungsprozess und das FDM sind folgende Rechtsgebiete relevant:
 
@@ -73,13 +76,17 @@ beachten müssen werden erläutert.
 Quelle: Digitalbevaringdk Lovgivning_DigitalBevaring
 
 ## Einführung zum Thema Datenschutz
-<!-- 0031_THK_DSGVO neben unteren Absatz einfügen -->
+
+<img align="right" width="12%" alt="Icon_DSGVO" src="../medien/icons/0031_THK_DSGVO.svg?autoSizes=true">
+
 Die EU-Grundrechtecharta und das deutsche Grundgesetz gewähren jedem Menschen ein Recht auf
 den Schutz der ihn betreffenden personenbezogenen Daten (Forschungsdaten.info 2024d). Sobald dieser
 Personenbezug entfällt, bzw. betroffene Personen nicht (mehr) identifiziert werden können, greift das
 Datenschutzrecht nicht und diese Daten können grundsätzlich verarbeitet werden (Depping 2023).
 Das Themengebiet Datenschutz ist insbesondere bei der eigenen Erhebung von Daten relevant.
-<!-- G-0153_BUW_Icon_personenbezogen_Daten neben unteren Absatz einfügen -->
+
+<img align="right" width="12%" alt="Icon_personenbezogene_Daten" src="../medien/icons/G-0153_BUW_Icon_personenbezogen_Daten.svg?autoSizes=true">
+
 Personenbezogene Daten sind „alle Informationen, die sich auf eine identifizierte oder identifizierbare
 natürliche Person [...] beziehen“ (DSGVO, Artikel 4).
 Eine „identifizierbare“ Person kann direkt oder indirekt mittels Zuordnung identifiziert werden,
@@ -89,7 +96,9 @@ wirtschaftlicher, kultureller oder sozialer Natur sein können (Depping 2023).
 
 Die Erhebung von personenbezogenen Daten ist verboten.
 Mit einigen Ausnahmen:
-<!-- 0020_THK_Idee neben unteren Absatz einfügen -->
+
+<img align="right" width="12%" alt="Icon_Idee" src="../medien/icons/0020_THK_Idee.svg?autoSizes=true">
+
 - Einwilligung der betroffenen Person wurde gegeben. Dieser muss nachweisbar sein, kann
     jedoch widerrufen werden (Art.7, Abs.3 DSGVO)
        o Mehr zum Thema „Informierte Einwilligung“ finden Sie unter
@@ -116,7 +125,9 @@ werden.
 
 Quelle: Bundesministerium des Innern und für Heimat. (o D.). Datenschutzerklärung [Pressemeldung](https://www.bmi.bund.de/DE/service/datenschutz/datenschutz_node.html;jsessionid=485ADBB3471A8DC3929B314FEF0B05E
 B.1_cid505#doc9390964bodyText)
-<!-- 0036_THK_AnonyPseudonym_ohne neben unteren Absatz einfügen -->
+
+<img align="right" width="12%" alt="Icon_Anynomisierung_Pseudonymisierung" src="../medien/icons/0036_THK_AnonyPseudonym_ohne.svg?autoSizes=true">
+
 Mit einer erfolgreichen Anonymisierung der Daten, so dass die betroffene Person nicht (mehr)
 identifiziert werden kann, werden personenbezogene Informationen aus den Forschungsdaten
 gelöscht. In dem weiteren Umgang mit diesen Forschungsdaten, spielt der Datenschutz nun keine
@@ -130,7 +141,9 @@ sicherer Trennung der Pseudonyme und der identifizierbaren Daten kann der Datens
 Mehr Information dazu finden Sie unter „Rechtliche Aspekte des Forschungsdatenmanagements“.
 
 Beispiele für Forschungsdaten mit Personenbezug (Forschungsdaten.info 2024e):
-<!-- 0001_THK_Beispiel neben unteren Absatz einfügen -->
+
+<img align="right" width="12%" alt="Icon_Beispiel" src="../medien/icons/0001_THK_Beispiel.svg?autoSizes=true">
+
 - Name von Probanden
 - E-Mail-Adresse
 - Anschrift oder Telefonnummer
@@ -144,7 +157,9 @@ Beispiele für Forschungsdaten mit Personenbezug (Forschungsdaten.info 2024e):
 
 Bei der Verarbeitung von personenbezogenen Daten sind die in Artikel 5, DSGVO genannten
 Datenverarbeitungsgrundsätze zu beachten:
-<!-- G-0042_BUW_Icon_Gesetztestext neben unteren Absatz einfügen -->
+
+<img align="right" width="12%" alt="Icon_Gesetzestext" src="../medien/icons/G-0042_BUW_Icon_Gesetztestext.svg?autoSizes=true">
+
 - Rechtmäßigkeit, Verarbeitung nach Treu und Glauben, Transparenz.
 - Zweckbindung,
 - Datenminimierung,
@@ -154,12 +169,16 @@ Datenverarbeitungsgrundsätze zu beachten:
 - Rechenschaftspflicht.
 
 ## Praktische Tipps
-<!-- 0020_THK_Idee neben unteren Absatz einfügen -->
+
+<img align="right" width="12%" alt="Icon_Idee" src="../medien/icons/0020_THK_Idee.svg?autoSizes=true">
+
 Hier finden Sie eine Auflistung von zusammengefassten praktischen Tipps, an die es stark empfohlen ist, sich bei der Arbeit mit Daten aus rechtlichen Gründen zu halten.
 Quelle: Forschungsdaten.info 2023
 
 ## Einführung zum Thema Urheberrecht
-<!-- 0018_THK_Urheberrecht neben unteren Absatz einfügen -->
+
+<img align="right" width="12%" alt="Icon_Urheberrecht" src="../medien/icons/0018_THK_Urheberrecht.svg?autoSizes=true">
+
 In der Forschung (beim wissenschaftlichen Arbeiten) ist es möglich, auf unterschiedliche Weise vom
 Urheberrecht betroffen zu sein, wie beispielsweise, wenn Sie:
 
@@ -182,7 +201,8 @@ Jede natürliche Person, die ein Werk durch eigene Leistung geschaffen hat ist e
 
 ## Was ist ein Werk?
 
-<!--  0038_THK_Buch neben unteren Absatz einfügen -->
+<img align="right" width="12%" alt="Icon_Buch" src="../medien/icons/0038_THK_Buch.svg?autoSizes=true">
+
 „Eine persönliche geistige Schöpfung, die einen gewissen Grad an Eigentümlichkeit, Originalität oder
 auch Individualität aufweist und die man sinnlich wahrnehmen kann.“ Beispiele von geschützten
 Werken (inkl. Forschungsdaten) sind (§ 2 Abs. 2 UrhG):
@@ -199,12 +219,16 @@ Mehr Information zu Geschützten Werken, beispielsweise in der Literatur, Wissen
 finden Sie in § 2 UrhG. Generell stellt das Bundesministerium der Justiz und das Bundesamt für Justiz
 zur Nachsicht nahezu das gesamte aktuelle Bundesrecht kostenlos im Internet zur Verfügung. Näheres
 dazu finden Sie auf deren Seite „Gesetze im Internet“.
-<!-- G-0057_BUW_Icon_Datentyp_Survey neben unteren Absatz einfügen -->
+
+<img align="right" width="12%" alt="Icon_Datentyp_Survey" src="../medien/icons/G-0057_BUW_Icon_Datentyp_Survey.svg?autoSizes=true">
+
 Qualitative Forschungsdaten, wie beispielsweise Sprachwerke (qualitative Interviews oder längere
 Texte) können urheberrechtlich geschützte Formulierungen, Strukturen und Gedankenführungen
 enthalten. Wenn diese jedoch durch ‚fachliche Gepflogenheiten‘ vorgegeben sind, ist ein
 urheberrechtlicher Schutz ausgeschlossen.
-<!-- G-0016_BUW_Icon_Erhebung neben unteren Absatz einfügen -->
+
+<img align="right" width="12%" alt="Icon_Erhebung" src="../medien/icons/G-0016_BUW_Icon_Erhebung.svg?autoSizes=true">
+
 Auf quantitativen Forschungsdaten hingegen, wie beispielsweise Messergebnisse oder statistische
 Daten, besteht bei den Erhebungen grundsätzlich kein urheberrechtlicher Schutz
 
@@ -215,7 +239,9 @@ Hinweis: Die Prüfung erfolgt im Einzelfall.
 
 Folgende sind Beispiele von Werken, die *nicht* urheberrechtlich geschützt sind (Kreutzer &
 Fischer 2023) :
-<!-- 0020_THK_Idee neben unteren Absatz einfügen -->
+
+<img align="right" width="12%" alt="Icon_Idee" src="../medien/icons/0020_THK_Idee.svg?autoSizes=true">
+
 - (reine) Fakten
 - (reine) Informationen
 - Messergebnissen
@@ -265,7 +291,7 @@ Zustimmung der Urheber:innen nachgenutzt werden.(Kreutzer & Fischer 2023)
 
 ### Leitfragen
 
-<!-- 0025_THK_Fragezeichen -->
+<img align="left" width="10%" alt="Icon_Fragezeichen" src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
 
 1. Auf welche rechtlichen Aspekte sollte bei der Datenerhebung geachtet werden?
 
@@ -275,7 +301,7 @@ Zustimmung der Urheber:innen nachgenutzt werden.(Kreutzer & Fischer 2023)
 
 ### Aufgabe
 
- <!-- 0034_THK_Aufgabe -->
+<img align="left" width="10%" alt="Icon_Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
@@ -292,7 +318,7 @@ Reales Beispiel
 
 ## Weiterführende Materialen und Quellen
 
-<!-- G-0044_BUW_Icon_Findability -->
+<img align="right" width="15%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 
 ### Literatur
 
