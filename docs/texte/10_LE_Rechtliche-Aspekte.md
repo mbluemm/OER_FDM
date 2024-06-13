@@ -31,7 +31,7 @@ Informationen ohne Gewähr auf Richtigkeit und Vollständigkeit
      style="float: left; margin-right: 10px; width: 10%;" />
      
 In diesem Themenblock bekommen Sie eine Einleitung zu den wichtigsten rechtlichen Aspekten, die
-Sie im FDM beachten müssen. Hier lernen Sie über Datenschutz, mitunter Anonymisierung und Pseudonymisierung, das Urheberrecht, die Nachnutzung von Daten und Lizenzierungen vorgestellt.
+Sie im FDM beachten müssen. Aspekte zu Datenschutz, mitunter Anonymisierung und Pseudonymisierung, zum Urheberrecht, zur Nachnutzung von Daten und zu Lizenzierungen werden hier vorgestellt.
 :::
 
 <!-- Abbildung 0054_THK_Recht und Video von Medienagentur einfügen -->
@@ -44,7 +44,7 @@ Unter Anderem sind Hinweise zur Befolgung von rechtlichen und ethischen Aspekten
 zur Sicherung guter wissenschaftlicher Praxis“ der Deutschen Forschungsgemeinschaft (DFG 2022)
 festgehalten. An diese angelehnt, gibt es institutsinterne Richtlinien zu guter wissenschaftlicher Praxis
 und für den Umgang mit wissenschaftlichem Fehlverhalten, wie sie in diesem Falle die TH Köln
-verabschiedet hat.
+verabschiedet hat. <!-- hier Link einfügen -->
 Diese Richtlinie hält beispielsweise fest, dass die TH Köln und ihre Forschenden beim FDM ethische
 Belange sowie rechtliche Vorgaben zu Datenschutz, Urheberrecht und Geheimhaltung oder von
 Dritten beachten. Jede:r Student:in der TH Köln ist in der wissenschaftlichen Arbeit somit zu deren
@@ -94,27 +94,15 @@ beispielsweise anhand eines Namens, einer Kennnummer, Standortdaten, einer Onlin
 oder anhand von besonderen Merkmalen, die physischer, physiologischer, genetischer, psychischer,
 wirtschaftlicher, kultureller oder sozialer Natur sein können (Depping 2023).
 
-Die Erhebung von personenbezogenen Daten ist verboten.
-Mit einigen Ausnahmen:
-
 <img align="right" width="12%" alt="Icon_Idee" src="../medien/icons/0020_THK_Idee.svg?autoSizes=true">
 
-- Einwilligung der betroffenen Person wurde gegeben. Dieser muss nachweisbar sein, kann
-    jedoch widerrufen werden (Art.7, Abs.3 DSGVO)
-       o Mehr zum Thema „Informierte Einwilligung“ finden Sie unter
+Die Erhebung von personenbezogenen Daten ist verboten. Es sei denn, die Einwilligung der betroffenen Person wurde gegeben. Diese muss nachweisbar sein, kann jedoch widerrufen werden (Art.7, Abs.3 DSGVO).
+       - Mehr zum Thema „Informierte Einwilligung“ finden Sie unter
           [https://www.forschungsdaten-bildung.de/einwilligung](https://www.forschungsdaten-bildung.de/einwilligung)
-- Landesdatenschutzgesetze müssen bei der Erhebung von personenbezogenen Daten
-    beachtet werden (z. B. Ausnahmen für wissenschaftliche Forschungszwecke, obwohl der
-    Gesetzestext hier allgemein gehalten ist.
-       o Mehr Information dazu finden Sie unter „Rechtliche Aspekte des
-          Forschungsdatenmanagements“.)
-- Die Erhebung, Verarbeitung, Speicherung und Archivierung von personenbezogenen Daten
-    sind in der DSGVO geregelt (Schutzmaßnahmen z. B. Pseudo/Anonymisierung*). Es ist
-    zwingend erforderlich, sich bei der Arbeit mit Daten vorab damit auseinanderzusetzen.
-- Veröffentlichungen müssen anonymisiert oder mit Einwilligung der betroffenen Person sein
+          
+Bei der Erhebung von personenbezogenen Daten müssen außerdem Landesdatenschutzgesetze beachtet werden. In der DSGVO sind ebenfalls Regelungen zur Erhebung, Verarbeitung, Speicherung und Archivierung von personenbezogenen Daten vorhanden (Schutzmaßnahmen z. B. Pseudo/Anonymisierung*). 
+Es ist zwingend erforderlich, sich beim Umgang mit Daten vorab mit diesen Gesetzen auseinanderzusetzen.
 
-Forschungsdaten sind unter standardisierten Lizenzen (z. B. Creative-Commons-Lizenzen) zu
-veröffentlichen —> dies verringert rechtliche Risiken.
 <!-- Abbildung 0061_THK_Personenbezogene_Daten einfügen -->
 
 ::: tip Anonymisierung / Pseudonymisierung
@@ -172,19 +160,17 @@ Datenverarbeitungsgrundsätze zu beachten:
 
 <img align="right" width="12%" alt="Icon_Idee" src="../medien/icons/0020_THK_Idee.svg?autoSizes=true">
 
-Hier finden Sie eine Auflistung von zusammengefassten praktischen Tipps, an die es stark empfohlen ist, sich bei der Arbeit mit Daten aus rechtlichen Gründen zu halten.
+Hier finden Sie eine Auflistung von zusammengefassten praktischen Tipps, an die es stark empfohlen ist, sich bei der Arbeit mit Daten aus rechtlichen Gründen zu halten. <!-- Link?? -->
 Quelle: Forschungsdaten.info 2023
 
 ## Einführung zum Thema Urheberrecht
 
 <img align="right" width="12%" alt="Icon_Urheberrecht" src="../medien/icons/0018_THK_Urheberrecht.svg?autoSizes=true">
 
-In der Forschung (beim wissenschaftlichen Arbeiten) ist es möglich, auf unterschiedliche Weise vom
-Urheberrecht betroffen zu sein, wie beispielsweise, wenn Sie:
-
-1. Daten und Arbeiten von Dritten verwenden, die urheberrechtlich geschützt sind.
-2. Eigene Ergebnisse (z. B. anhand von erstellten Umfragen) als geschützte Werke produzieren,
-    und diese ggf. von Dritten nachgenutzt werden können/würden.
+Beim wissenschaftlichen Arbeiten ist es möglich, auf unterschiedliche Weise vom
+Urheberrecht betroffen zu sein, etwa wenn Sie Daten und Arbeiten von Dritten verwenden, die urheberrechtlich geschützt sind, 
+oder eigene Ergebnisse (z. B. anhand von erstellten Umfragen) als geschützte Werke produzieren, 
+und diese ggf. von Dritten nachgenutzt werden können/würden.
 
 ## Was ist das Urheberrecht und wer ist ein:e Urheber:in?
 
@@ -193,7 +179,7 @@ Arbeit/Daten) und garantiert das Eigentumsrecht an dem besagten Werk sowie das a
 Entscheidungsrecht über Verwertung und Nutzung durch Dritte. Dieser Schutz beginnt automatisch
 mit der Entstehung des Werkes (§ 11 UrhG).
 <!-- Abbildung 0055_THK_Urheberrecht einfügen -->
-::: danger Hinweis:
+::: warning Hinweis:
 Die Prüfung erfolgt im Einzelfall.
 :::
 
@@ -215,10 +201,10 @@ Werken (inkl. Forschungsdaten) sind (§ 2 Abs. 2 UrhG):
 - (Wissenschaftliche) Darstellungen (z. B. Pläne, Karten, Zeichnungen, Abbildungen, Videos,
     Tabellen)
 
-Mehr Information zu Geschützten Werken, beispielsweise in der Literatur, Wissenschaft und Kunst,
+Mehr Information zu geschützten Werken, beispielsweise in der Literatur, Wissenschaft und Kunst,
 finden Sie in § 2 UrhG. Generell stellt das Bundesministerium der Justiz und das Bundesamt für Justiz
 zur Nachsicht nahezu das gesamte aktuelle Bundesrecht kostenlos im Internet zur Verfügung. Näheres
-dazu finden Sie auf deren Seite „Gesetze im Internet“.
+dazu finden Sie auf deren Seite „Gesetze im Internet“. <!-- hier Link einfügen -->
 
 <img align="right" width="12%" alt="Icon_Datentyp_Survey" src="../medien/icons/G-0057_BUW_Icon_Datentyp_Survey.svg?autoSizes=true">
 
@@ -230,15 +216,17 @@ urheberrechtlicher Schutz ausgeschlossen.
 <img align="right" width="12%" alt="Icon_Erhebung" src="../medien/icons/G-0016_BUW_Icon_Erhebung.svg?autoSizes=true">
 
 Auf quantitativen Forschungsdaten hingegen, wie beispielsweise Messergebnisse oder statistische
-Daten, besteht bei den Erhebungen grundsätzlich kein urheberrechtlicher Schutz
+Daten, besteht bei den Erhebungen grundsätzlich kein urheberrechtlicher Schutz.
 
 (Krähwinkel, Langner, Lipp, et al., 2022, Abschnitt 9.4.2)
 
 Bei Forschungsdaten, die nicht urheberrechtlich geschützt sind, fehlt es an rechtlichen Bestimmungen.
-Hinweis: Die Prüfung erfolgt im Einzelfall.
+::: warning Hinweis:
+Die Prüfung erfolgt im Einzelfall.
+:::
 
-Folgende sind Beispiele von Werken, die *nicht* urheberrechtlich geschützt sind (Kreutzer &
-Fischer 2023) :
+Im Folgenden sind Beispiele von Werken, die *nicht* urheberrechtlich geschützt sind, aufgeführt (Kreutzer &
+Fischer 2023):
 
 <img align="right" width="12%" alt="Icon_Idee" src="../medien/icons/0020_THK_Idee.svg?autoSizes=true">
 
@@ -251,10 +239,7 @@ Fischer 2023) :
 - Digitalisate
 - Automatisch generierte Forschungsdaten
 
-(Eigene) einzelne Forschungsdaten an sich sind nicht geschützt.
-
-- Einzelne Forschungsdaten sind erst geschützt, wenn Daten in einem Sammelwerk oder einem
-    Datenbankwerk zusammengefasst werden.
+(Eigene) einzelne Forschungsdaten an sich sind auch nicht geschützt. Einzelne Forschungsdaten sind erst geschützt, wenn Daten in einem Sammelwerk oder einem Datenbankwerk zusammengefasst werden.
 
 ::: warning Hinweis:
 Geschützt sind dabei nicht die einzelnen Datenelemente, sondern deren
@@ -272,7 +257,8 @@ Quelle: Digitalbevaringdk Bit_Storage_DigitalBevaring
 
 ## Rechtliche Aspekte bei Creative-Commons-Lizenzen
 
-Creative-Commons-Lizenzen, oder CC-Lizenzen, wurden bereits in der vorherigen Vorlesung unter
+Forschungsdaten sind unter standardisierten Lizenzen (z. B. Creative-Commons-Lizenzen) zu
+veröffentlichen. Creative-Commons-Lizenzen, oder CC-Lizenzen, wurden bereits unter
 „Daten finden und nachnutzen“ vorgestellt. Dort finden Sie mehr Information zu den unterschiedlichen
 Lizenzen. Hier wird auf einige erweiterte rechtliche Aspekte zu den CC-Lizenzen eingegangen.
 
