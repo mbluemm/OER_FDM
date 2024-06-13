@@ -126,7 +126,7 @@ werden.
 Quelle: Bundesministerium des Innern und für Heimat. (o D.). Datenschutzerklärung [Pressemeldung](https://www.bmi.bund.de/DE/service/datenschutz/datenschutz_node.html;jsessionid=485ADBB3471A8DC3929B314FEF0B05E
 B.1_cid505#doc9390964bodyText)
 
-<img align="right" width="12%" alt="Icon_Anynomisierung_Pseudonymisierung" src="../medien/icons/0036_THK_AnonyPseudonym_ohne.svg?autoSizes=true">
+<img align="right" width="12%" alt="Icon_Anynomisierung_Pseudonymisierung" src="../medien/icons/0036_THK_AnonyPseudonym.svg?autoSizes=true">
 
 Mit einer erfolgreichen Anonymisierung der Daten, so dass die betroffene Person nicht (mehr)
 identifiziert werden kann, werden personenbezogene Informationen aus den Forschungsdaten
