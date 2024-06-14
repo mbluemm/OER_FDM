@@ -66,7 +66,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 20. min. | Offene Fragen / Unklarheiten klären. Abschluss/Reflexion | L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen.  L. beendet das Seminar |  | PL |
+| Ca. 20. min. | Offene Fragen / Unklarheiten klären. Abschluss/Reflexion | L. bietet S. an, offene Fragen zum Kurs(thema), dem Kursverlauf und/oder anderen Aspekten zu besprechen.  L. beendet den Kurs. |  | PL |
 
 ## Präsenzphase / Erläuterung
 
