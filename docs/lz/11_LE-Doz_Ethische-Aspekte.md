@@ -26,14 +26,14 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 ||||
 | :--- | :--- | :--- |
-| 1 | Die S. können skizzieren (1), auf welche ethischen Aspekte beim Umgang mit Daten geachtet werden muss und können die CARE-Prinzipien beschreiben (1). | Die S. haben die CARE-Prinzipien zur Kenntnis genommen und können diese in der Zukunft beachten / wissen, wie sie weitere Informationen suchen können. Die S. verstehen, auf welche ethischen Aspekte sie im Forschungsprozess achten sollten, auch wenn diese nicht immer vorgeschrieben sind. |
+| 1 | Die S. können skizzieren (1), auf welche ethischen Aspekte beim Umgang mit Daten geachtet werden muss und können die CARE-Prinzipien beschreiben (1). | Die S. haben die CARE-Prinzipien zur Kenntnis genommen und können diese in der Zukunft beachten. Die S. verstehen, auf welche ethischen Aspekte sie im Forschungsprozess achten sollten. |
 
 ### Lernziele für den Unterricht in Präsenz
 
 ||||
 | :--- | :--- | :--- |
-| 2 | Die S. können kritisch beurteilen (6), auf welche ethischen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden sollte. | Die S. verstehen, auf welche ethischen Aspekte sie im Forschungsprozess (insbesondere bei der Datenerhebung/-veröffentlichung) achten müssen und weshalb das so wichtig ist. |
-| 3 | Die S. sind in der Lage, die wichtigsten ethischen Aspekte im Umgang mit Daten für ein Beispiel einzuordnen (4). | Die S. können sich beim Umgang mit Daten (in ihrem Studium) auf ethische Richtlinien beziehen (5) und diese beachten. Die S. fühlen sich mit den Konzepten von ethischen Richtlinien sicher, sodass sie sich beim Umgang mit Daten (z. B. für Projektarbeiten / Abschlussarbeiten In ihrem Studium) an diese Richtlinien halten können. |
+| 2 | Die S. können kritisch beurteilen (6), auf welche ethischen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden sollte. | Die S. verstehen, welche ethischen Aspekte sie im Forschungsprozess (insbesondere bei der Datenerhebung/-veröffentlichung) berücksichtigen müssen und weshalb dies von Bedeutung ist. |
+| 3 | Die S. sind in der Lage, die wichtigsten ethischen Aspekte im Umgang mit Daten für ein Beispiel einzuordnen (4). | Die S. können sich beim Umgang mit Daten (in ihrem Studium) auf ethische Richtlinien beziehen (5) und diese beachten. Die S. fühlen sich mit den Konzepten von ethischen Richtlinien sicher, sodass sie sich beim Umgang mit Daten (z. B. für Projektarbeiten/Abschlussarbeiten in ihrem Studium) an diese Richtlinien halten können. |
 
 ## Detaillierte Kursplanung[^1]
 
@@ -41,7 +41,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 20 min. | Einführung zum Thema ethische Aspekte im Forschungsprozess. <br>Erläuterung von ethischen Aspekten, die bei der Datenerhebung und -verarbeitung beachtet werden müssen. <br>Unterstreichung eines verantwortlichen Umgangs mit Forschungsdaten. | Die S. können skizzieren(1), auf welche ethischen Aspekte beim Umgang mit Daten geachtet werden muss | Die S. müssen die Leitfragen beantworten (für eine ggf. Diskussion im Plenum). | EA |
+| Ca. 20 min. | Einführung zum Thema ethische Aspekte im Forschungsprozess. <br>Erläuterung von ethischen Aspekten, die bei der Datenerhebung und -verarbeitung beachtet werden müssen. <br>Unterstreichung eines verantwortlichen Umgangs mit Forschungsdaten. | Die S. können skizzieren(1), auf welche ethischen Aspekte beim Umgang mit Daten geachtet werden muss. | Die S. müssen die Leitfragen beantworten (für eine ggf. Diskussion im Plenum). | EA |
 | Ca. 10 min. | Einführung und Definition der CARE-Prinzipien. | Die S. können die CARE-Prinzipien beschreiben(1). | Infotext und optionales Quiz | EA |
 
 ---
@@ -54,19 +54,19 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. | Begrüßung u. Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
-| Ca. 20 min. | Besprechung der zuvor beantworteten Leitfragen. | Die S. können kritisch beurteilen(6), auf welche ethischen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden sollte. | Wissenspool <br>Diskussion zur Beantwortung der Leitfragen, die zuhause bearbeitet wurden. | PL |
+| Ca. 20 min. | Besprechung der zuvor beantworteten Leitfragen. | Die S. können kritisch beurteilen(6), auf welche ethischen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden sollte. | Wissenspool <br>Diskussion zur Beantwortung der Leitfragen, die in der Vorbereitung bearbeitet wurden. | PL |
 
 #### Arbeitsphase
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 60 min. | Gruppenarbeit <br>Die S. müssen anhand von Beispielen relevante ethische Aspekte hervorheben. <br>In ihren Gruppen, und anschließend im PL, sollen sie Leitfragen beantworten (unten in der Liste notiert). | Die S. sind in der Lage, die wichtigsten ethischen Aspekte im Umgang mit Daten für ein Beispiel einzuordnen(4). | L. teilt die S. in Gruppen ein. Die Beispiele werden von L. vorgegeben. <br>Nach der Bearbeitung leitet L. eine offene Diskussion ein und bittet die Gruppen, ihre Arbeit vorzustellen. <br>Die S. müssen folgendes beantworten: <br>Wurde bei der Datenerhebung gegen ethische Prinzipien verstoßen? <br>Begründen: Warum oder warum nicht? <br>Würde die Nachnutzung dieser Daten gegen ethische Prinzipien verstoßen? Woran erkennen Sie das? | GA / PL |
+| Ca. 60 min. | Gruppenarbeit: <br>Die S. müssen anhand von Beispielen relevante ethische Aspekte hervorheben. <br>Die S. beantworten in der Gruppe Fragen, die im Anschluss im Plenum diskutiert werden. | Die S. sind in der Lage, die wichtigsten ethischen Aspekte im Umgang mit Daten für ein Beispiel einzuordnen(4). | L. teilt die S. in Gruppen ein. Die Beispiele werden von L. vorgegeben. <br>Nach der Bearbeitung leitet L. eine offene Diskussion ein und bittet die Gruppen, ihre Arbeit vorzustellen. <br>Die S. sollten folgendes beantworten: <br>Wurde bei der Datenerhebung gegen ethische Prinzipien verstoßen? <br>Begründen: Warum oder warum nicht? <br>Würde die Nachnutzung dieser Daten gegen ethische Prinzipien verstoßen? Woran erkennen Sie das? | GA / PL |
 
 #### Abschluss
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 5. min. | Offene Fragen / Unklarheiten klären Ausblick auf und Arbeitsauftrag für nächste Präsenzveranstaltung | L. erklärt Erwartungen für nächste Stunde. <br>L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
+| Ca. 5. min. | Offene Fragen / Unklarheiten klären. Ausblick auf und Arbeitsauftrag für nächste Präsenzveranstaltung | L. erklärt Erwartungen für nächste Stunde. <br>L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 
 ## Präsenzphase / Erläuterungen
 
