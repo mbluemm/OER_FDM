@@ -206,7 +206,7 @@ finden Sie in § 2 UrhG. Generell stellt das Bundesministerium der Justiz und da
 zur Nachsicht nahezu das gesamte aktuelle Bundesrecht kostenlos im Internet zur Verfügung. Näheres
 dazu finden Sie auf deren Seite „Gesetze im Internet“. <!-- hier Link einfügen -->
 
-<img align="right" width="12%" alt="Icon_Datentyp_Survey" src="../medien/icons/G-0057_BUW_Icon_Datentyp_Survey.svg?autoSizes=true">
+<!-- <img align="right" width="12%" alt="Icon_Datentyp_Survey" src="../medien/icons/G-0057_BUW_Icon_Datentyp_Survey.svg?autoSizes=true"> -->
 
 Qualitative Forschungsdaten, wie beispielsweise Sprachwerke (qualitative Interviews oder längere
 Texte) können urheberrechtlich geschützte Formulierungen, Strukturen und Gedankenführungen
