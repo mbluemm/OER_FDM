@@ -26,12 +26,11 @@ Informationen ohne Gewähr auf Richtigkeit und Vollständigkeit
 
 ::: info Lernziele
 
-<img src="../medien/icons/0016_THK_gesetzliche_Vorschriften.svg?autoSizes=true"
-     alt="Icon_gesetzliche Vorschriften"
-     style="float: left; margin-right: 10px; width: 10%;" />
-     
+<img align="right" width="15%" alt="Icon_gesetzliche Vorschriften" src="../medien/icons/0016_THK_gesetzliche_Vorschriften.svg?autoSizes=true">
+
 In diesem Themenblock bekommen Sie eine Einleitung zu den wichtigsten rechtlichen Aspekten, die
-Sie im FDM beachten müssen. Aspekte zu Datenschutz, mitunter Anonymisierung und Pseudonymisierung, zum Urheberrecht, zur Nachnutzung von Daten und zu Lizenzierungen werden hier vorgestellt.
+Sie im FDM beachten müssen. Aspekte zu Datenschutz, mitunter Anonymisierung und Pseudonymisierung, 
+zum Urheberrecht, zur Nachnutzung von Daten und zu Lizenzierungen werden hier vorgestellt.
 :::
 
 <!-- Abbildung 0054_THK_Recht und Video von Medienagentur einfügen -->
@@ -44,7 +43,7 @@ Unter Anderem sind Hinweise zur Befolgung von rechtlichen und ethischen Aspekten
 zur Sicherung guter wissenschaftlicher Praxis“ der Deutschen Forschungsgemeinschaft (DFG 2022)
 festgehalten. An diese angelehnt, gibt es institutsinterne Richtlinien zu guter wissenschaftlicher Praxis
 und für den Umgang mit wissenschaftlichem Fehlverhalten, wie sie in diesem Falle die TH Köln
-verabschiedet hat. <!-- hier Link einfügen -->
+verabschiedet hat.
 Diese Richtlinie hält beispielsweise fest, dass die TH Köln und ihre Forschenden beim FDM ethische
 Belange sowie rechtliche Vorgaben zu Datenschutz, Urheberrecht und Geheimhaltung oder von
 Dritten beachten. Jede:r Student:in der TH Köln ist in der wissenschaftlichen Arbeit somit zu deren
@@ -79,8 +78,8 @@ Quelle: Digitalbevaringdk Lovgivning_DigitalBevaring
 
 <img align="right" width="12%" alt="Icon_DSGVO" src="../medien/icons/0031_THK_DSGVO.svg?autoSizes=true">
 
-Die EU-Grundrechtecharta und das deutsche Grundgesetz gewähren jedem Menschen ein Recht auf
-den Schutz der ihn betreffenden personenbezogenen Daten (Forschungsdaten.info 2024d). Sobald dieser
+"Die EU-Grundrechtecharta und das deutsche Grundgesetz gewähren jedem Menschen ein Recht auf
+den Schutz der ihn betreffenden personenbezogenen Daten" (Forschungsdaten.info 2024d). Sobald dieser
 Personenbezug entfällt, bzw. betroffene Personen nicht (mehr) identifiziert werden können, greift das
 Datenschutzrecht nicht und diese Daten können grundsätzlich verarbeitet werden (Depping 2023).
 Das Themengebiet Datenschutz ist insbesondere bei der eigenen Erhebung von Daten relevant.
@@ -126,22 +125,22 @@ Bei einer Pseudonymisierung werden Daten, durch die betroffene Personen identifi
 können, durch Pseudonyme ausgetauscht (z. B. Namen werden gegen Nummern ausgetauscht). Bei
 möglicher Re-identifizierung der ursprünglichen Daten greift der Datenschutz weiterhin. Nur bei
 sicherer Trennung der Pseudonyme und der identifizierbaren Daten kann der Datenschutz entfallen.
-Mehr Information dazu finden Sie unter „Rechtliche Aspekte des Forschungsdatenmanagements“.
+Mehr Information dazu finden Sie unter „Rechtliche Aspekte des Forschungsdatenmanagements“ von Depping 2023.
 
-Beispiele für Forschungsdaten mit Personenbezug (Forschungsdaten.info 2024e):
+<img align="right" width="15%" alt="Icon_Beispiel" src="../medien/icons/0001_THK_Beispiel.svg?autoSizes=true">
 
-<img align="right" width="12%" alt="Icon_Beispiel" src="../medien/icons/0001_THK_Beispiel.svg?autoSizes=true">
-
-- Name von Probanden
-- E-Mail-Adresse
-- Anschrift oder Telefonnummer
-- Matrikelnummer von Studierenden
-- Usernamen auf Onlineplattformen oder andere Online-Kennungen
-- Besonders sensible Datenkategorien (in Artikel 9. DSGVO):
-    o Genetische oder biometrische Daten
-    o Gesundheitsdaten
-    o Sexuelle Orientierung
-    o Religiöse Ansichten
+> Beispiele für Forschungsdaten mit Personenbezug:
+> - Name von Probanden
+> - E-Mail-Adresse
+> - Anschrift oder Telefonnummer
+> - Matrikelnummer von Studierenden
+> - Usernamen auf Onlineplattformen oder andere Online-Kennungen
+> - Besonders sensible Datenkategorien (in Artikel 9. DSGVO):
+>   - Genetische oder biometrische Daten
+>   - Gesundheitsdaten
+>   - Sexuelle Orientierung
+>   - Religiöse Ansichten
+> -- (Forschungsdaten.info 2024e)
 
 Bei der Verarbeitung von personenbezogenen Daten sind die in Artikel 5, DSGVO genannten
 Datenverarbeitungsgrundsätze zu beachten:
@@ -156,12 +155,13 @@ Datenverarbeitungsgrundsätze zu beachten:
 - Integrität und Vertraulichkeit,
 - Rechenschaftspflicht.
 
-## Praktische Tipps
+<!-- ## Praktische Tipps
 
 <img align="right" width="12%" alt="Icon_Idee" src="../medien/icons/0020_THK_Idee.svg?autoSizes=true">
 
 Hier finden Sie eine Auflistung von zusammengefassten praktischen Tipps, an die es stark empfohlen ist, sich bei der Arbeit mit Daten aus rechtlichen Gründen zu halten. <!-- Link?? -->
 Quelle: Forschungsdaten.info 2023
+-->
 
 ## Einführung zum Thema Urheberrecht
 
@@ -204,7 +204,7 @@ Werken (inkl. Forschungsdaten) sind (§ 2 Abs. 2 UrhG):
 Mehr Information zu geschützten Werken, beispielsweise in der Literatur, Wissenschaft und Kunst,
 finden Sie in § 2 UrhG. Generell stellt das Bundesministerium der Justiz und das Bundesamt für Justiz
 zur Nachsicht nahezu das gesamte aktuelle Bundesrecht kostenlos im Internet zur Verfügung. Näheres
-dazu finden Sie auf deren Seite „Gesetze im Internet“. <!-- hier Link einfügen -->
+dazu finden Sie auf deren Seite „Gesetze im Internet“ [https://wissenschaftliche-integritaet.de](https://www.gesetze-im-internet.de/).
 
 <!-- <img align="right" width="12%" alt="Icon_Datentyp_Survey" src="../medien/icons/G-0057_BUW_Icon_Datentyp_Survey.svg?autoSizes=true"> -->
 
@@ -217,7 +217,6 @@ urheberrechtlicher Schutz ausgeschlossen.
 
 Auf quantitativen Forschungsdaten hingegen, wie beispielsweise Messergebnisse oder statistische
 Daten, besteht bei den Erhebungen grundsätzlich kein urheberrechtlicher Schutz.
-
 (Krähwinkel, Langner, Lipp, et al., 2022, Abschnitt 9.4.2)
 
 Bei Forschungsdaten, die nicht urheberrechtlich geschützt sind, fehlt es an rechtlichen Bestimmungen.
@@ -225,8 +224,7 @@ Bei Forschungsdaten, die nicht urheberrechtlich geschützt sind, fehlt es an rec
 Die Prüfung erfolgt im Einzelfall.
 :::
 
-Im Folgenden sind Beispiele von Werken, die *nicht* urheberrechtlich geschützt sind, aufgeführt (Kreutzer &
-Fischer 2023):
+Im Folgenden sind Beispiele von Werken, die *nicht* urheberrechtlich geschützt sind, aufgeführt (Kreutzer & Fischer 2023):
 
 <img align="right" width="12%" alt="Icon_Idee" src="../medien/icons/0020_THK_Idee.svg?autoSizes=true">
 
@@ -270,7 +268,7 @@ angegeben werden.
 
 ::: warning Hinweis:
 Falls keine Lizenz existiert, dürfen urheberrechtlich geschützte Daten nur mit ausdrücklicher
-Zustimmung der Urheber:innen nachgenutzt werden.(Kreutzer & Fischer 2023)
+Zustimmung der Urheber:innen nachgenutzt werden (Kreutzer & Fischer 2023).
 :::
 
 ## Leitfragen und Aufgaben
