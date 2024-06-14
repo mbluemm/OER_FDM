@@ -10,8 +10,6 @@ aside: true
 
 # Ethische Aspekte
 
-<!-- G-0093_BUW_Icon_Respekt einfügen -->
-
 :::info Zitation:
 Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 11_LE_Ethische-Aspekte. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/11_LE_Ethische-Aspekte.html
 :::
@@ -27,9 +25,12 @@ Informationen ohne Gewähr auf Richtigkeit und Vollständigkeit.
 :::
 
 ::: info Lernziele
+
+<img align="right" width="10%" alt="Icon_Respekt" src="../medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true">
+
 In diesem Themenblock bekommen Sie eine Einleitung zu den wichtigsten ethischen Aspekten, die
-Sie im FDM beachten müssen. Hier lernen Sie über die CARE-Prinzipien und wie Sie
-verantwortungsvoll mit Daten, insbesondere sensiblen Daten, umgehen müssen.
+Sie im FDM beachten müssen. Hier werden sowohl die CARE-Prinzipien als auch der
+verantwortungsvolle Umgang mit Daten, insbesondere sensiblen Daten, thematisiert.
 :::
 
 ## Ethische Aspekte
@@ -46,36 +47,33 @@ muss. Dies ist insbesondere bei der Forschung an Menschen (bereits bei Befragung
 Quelle: Digitalbevaringdk Links2_DigitalBevaring
 
 <!-- Abbildung 0062_THK_Ethik einfügen --> 
-<!-- 0031_THK_DSGVO neben unteren Absatz einfügen --> 
 
-Ein ethischer Umgang mit Daten ist während des gesamten Datenlebenszyklus des (Forschungs-
-)Projekts Pflicht, um zu gewährleisten, dass Subjekte, aber auch Forschende, geschützt werden. Ein
+<img align="right" width="15%" alt="Icon_DSGVO" src="../medien/icons/0031_THK_DSGVO.svg?autoSizes=true">
+
+Ein ethischer Umgang mit Daten ist bei (Forschungs-)Projekten während des gesamten Datenlebenszyklus Pflicht, 
+um zu gewährleisten, dass Subjekte, aber auch Forschende, geschützt werden. Ein
 Missbrauch der Daten muss, insbesondere beim Teilen und Publizieren, verhindert werden. Hier spielt
-die Anonymisierung von Daten eine kritische Rolle. Wichtig zu beachten ist, dass nicht nur der
-Entscheidung der Ethikkommission hier zu befolgen ist, sondern auch die Regeln zur
+die Anonymisierung von Daten eine wichtige Rolle. Daher sollte beachtet werden, dass nicht nur der
+Entscheidung der Ethikkommission zu befolgen ist, sondern auch die Regeln zur
 datenschutzrechtlichen Zulässigkeit der Verarbeitung (Art. 9 DSGVO), etwa im Bezug aufs Speichern
 und Löschen der Daten, befolgt werden müssen.
 
 ### Ein verantwortungsvoller Umgang mit Daten
 
 berücksichtigt:
-<!-- 0008_THK_GWP , 031_THK_DSGVO , G-0093_BUW_Icon_Respekt neben unteren Absatz einfügen --> 
-- Die Regeln der guten wissenschaftlichen Praxis (Forschungsdaten.info 2023a), inkl.:
-    
-    o Transparenz des Forschungsprozesses
-    
-    o Veröffentlichung
-    
-    o Beachtung von und Einhaltung der FAIR-Prinzipien.
-- Datenschutz, insbesondere
-    
-    o Im Umgang mit sensiblen Daten
-    
-    o Beim Schutz von Persönlichkeitsrechten
-    
-    o Bei der Bewahrung von Betriebsgeheimnissen
+
+<img align="right" width="10%" alt="Icon_GWP" src="../medien/icons/0008_THK_GWP.svg?autoSizes=true">
+
+- Die Regeln der guten wissenschaftlichen Praxis (Forschungsdaten.info 2023a), inkl. Transparenz des Forschungsprozesses, Veröffentlichung und die Beachtung von und Einhaltung der FAIR-Prinzipien.
+
+<img align="right" width="10%" alt="Icon_DSGVO" src="../medien/icons/031_THK_DSGVO.svg?autoSizes=true">
+
+- Datenschutz, insbesondere im Umgang mit sensiblen Daten, beim Schutz von Persönlichkeitsrechten und bei der Bewahrung von Betriebsgeheimnissen
+
+<img align="right" width="10%" alt="Icon_Respekt" src="../medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true">
+
 - Ethikrichtlinien
-- Ethische Implikationen und Risiken – ggf. Ethikkommission einbinden/ Ethikantrag stellen
+- Ethische Implikationen und Risiken (ggf. Ethikkommission einbinden/Ethikantrag stellen)
 
 
 ### Sensible Daten
@@ -84,19 +82,16 @@ Insbesondere beim Umgang mit Daten in den folgenden Szenarien, ist eine ethische
 Pflicht (Forschungsdaten.info 2023a):
 
 - Studien oder Forschung an und mit Menschen (Befragungen, Studien, medizinische
-    Forschung).
-- Studien, Projekte, Forschung, die personenbezogene Daten sammeln und archivieren.
-- Forschung, bei der Proben wie etwa Gewebe von Menschen entnommen werden, sowie bei
-    Forschung an menschlichen Stammzellen (selbst wenn diese nicht extra entnommen werden).
-- Tierversuche.
-- Umweltrelevante Forschung.
-- Austausch von Wissen und Technologie mit Drittländern.
-- Sicherheitsrelevante Forschung (Dual Use (DFG 2023)), bei der Potential zum Missbrauch der
+    Forschung)
+- Studien, Projekte, Forschung, die personenbezogene Daten sammeln und archivieren
+- Forschung, bei der Proben, wie etwa Gewebe von Menschen, entnommen werden sowie bei
+    Forschung an menschlichen Stammzellen (selbst wenn diese nicht extra entnommen werden)
+- Tierversuche
+- umweltrelevante Forschung
+- Austausch von Wissen und Technologie mit Drittländern
+- Sicherheitsrelevante Forschung (Dual Use (DFG 2023) <!-- verlinkung? --> ), bei der Potential zum Missbrauch der
     Forschungsergebnisse besteht oder bei der ein anderweitiges besonderes Gefahrenpotenzial
     besteht.
-
-Falls Sie das Thema Ethik, im Zusammenhang mit Daten wie beispielsweise in der künstlichen
-Intelligenz, interessiert, können wir folgenden Podcast zum Thema „Ethik & KI – Verantwortung der Data Scientists“ empfehlen.
 
 <!-- Abbildung 0061_THK_Personenbezogene_Daten einfügen --> 
 
@@ -106,7 +101,7 @@ In Ergänzung zu den FAIR-Prinzipien, wurden als Antwort
 auf ethische Fragestellungen, die CARE-Prinzipien entworfen. Die CARE-Prinzipien wurden während
 der International Data Week und dem parallel stattfindenden Research Data Alliance Plenary in 2018
 in Botswana entworfen und von der Global Indigenous Data Alliance veröffentlicht.
-<!-- Abbildung 0057_THK_CARE einfügen --> 
+<!-- Abbildung von https://www.gida-global.org/care einfügen --> 
 CARE steht dabei für Collective Benefit, Authority to Control, Responsibility und Ethics [Kollektiver Nutzen, Kontrolle über die Daten, Verantwortung, Ethik]
 
 ::: tip Collective Benefit
@@ -137,7 +132,7 @@ Die CARE-Prinzipien dienen insbesondere dazu, Forschende dafür zu sensibilisier
 Rahmen von Open Data und Open Science, die Interessen und individuellen und kollektiven Rechte
 zur Selbstbestimmung indigener Bevölkerungsgruppen zu bewahren.
 
-<!-- G-0093_BUW_Icon_Respekt neben die beiden Absätze einfügen --> 
+<img align="left" width="10%" alt="Icon_Respekt" src="../medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true">
 
 Die CARE-Prinzipien sind menschen- und zweckorientiert und spiegeln die entscheidende Rolle von
 Daten bei der Förderung indigener Innovation und Selbstbestimmung wider. Deshalb treffen die
@@ -155,15 +150,18 @@ englischen Fassung oder in der deutschen Fassung.
 
 ## Leitfragen und Aufgaben
 
-<!-- 0025_THK_Fragezeichen -->
 <!-- Quiz von FDII-Kurs, Aufgabe 2 einfügen) -->
 
 ### Lektüre
+
+<img align="left" width="10%" alt="Icon_Buch" src="../medien/icons/0038_THK_Buch.svg?autoSizes=true">
 
 Carroll, S. R., Hudson, M., Chapman, J. et al. (2019, 1. September). Die CARE-Prinzipien für
 indigene Data Governance. [https://doi.org/10.5281/zenodo.5995059](https://doi.org/10.5281/zenodo.5995059).
 
 ### Leitfragen
+
+<img align="left" width="10%" alt="Icon_Fragezeichen" src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
 
 1. Kennen Sie Beispiele in denen Forschende in ethische Dilemmata geraten sind? Benennen
     Sie diese.
@@ -173,13 +171,16 @@ indigene Data Governance. [https://doi.org/10.5281/zenodo.5995059](https://doi.o
     kann?
 
 ### Aufgabe
- <!-- 0034_THK_Aufgabe -->
+
+<img align="left" width="10%" alt="Icon_Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
+
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ## Weiterführende Materialen und Quellen
 
-<!-- G-0044_BUW_Icon_Findability -->
+<img align="right" width="15%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
+
 ### Literatur
 
 Carroll, S.R., Herczog, E., Hudson, M. et al. (2021). Operationalizing the CARE and FAIR Principles
