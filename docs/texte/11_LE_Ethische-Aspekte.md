@@ -68,7 +68,7 @@ berücksichtigt:
 
 - Die Regeln der guten wissenschaftlichen Praxis (Forschungsdaten.info 2023a), inkl. Transparenz des Forschungsprozesses, Veröffentlichung und die Beachtung von und Einhaltung der FAIR-Prinzipien.
 
-<img align="left" width="6%" alt="Icon_DSGVO" src="../medien/icons/031_THK_DSGVO.svg?autoSizes=true">
+<img align="left" width="6%" alt="Icon_DSGVO" src="../medien/icons/0031_THK_DSGVO.svg?autoSizes=true">
 
 - Datenschutz, insbesondere im Umgang mit sensiblen Daten, beim Schutz von Persönlichkeitsrechten und bei der Bewahrung von Betriebsgeheimnissen
 
