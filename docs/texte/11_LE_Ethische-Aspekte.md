@@ -26,9 +26,9 @@ Informationen ohne Gewähr auf Richtigkeit und Vollständigkeit.
 
 ::: info Lernziele
 
-<img src="../medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true"
+<!-- <img src="../medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true"
      alt="Icon_Respekt"
-     style="float: left; margin-right: 20px; width: 20%;" />
+     style="float: left; margin-right: 20px; width: 20%;" /> -->
 
 In diesem Themenblock bekommen Sie eine Einleitung zu den wichtigsten ethischen Aspekten, die
 Sie im FDM beachten müssen. Hier werden sowohl die CARE-Prinzipien als auch der
@@ -72,7 +72,7 @@ berücksichtigt:
 
 - Datenschutz, insbesondere im Umgang mit sensiblen Daten, beim Schutz von Persönlichkeitsrechten und bei der Bewahrung von Betriebsgeheimnissen
 
-<img align="left" width="6%" alt="Icon_Respekt" src="../medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true">
+<!-- <img align="left" width="6%" alt="Icon_Respekt" src="../medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true"> -->
 
 - Ethikrichtlinien
 - Ethische Implikationen und Risiken (ggf. Ethikkommission einbinden/Ethikantrag stellen)
