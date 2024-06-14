@@ -62,15 +62,15 @@ und Löschen der Daten, befolgt werden müssen.
 
 berücksichtigt:
 
-<img align="right" width="10%" alt="Icon_GWP" src="../medien/icons/0008_THK_GWP.svg?autoSizes=true">
+<img align="left" width="6%" alt="Icon_GWP" src="../medien/icons/0008_THK_GWP.svg?autoSizes=true">
 
 - Die Regeln der guten wissenschaftlichen Praxis (Forschungsdaten.info 2023a), inkl. Transparenz des Forschungsprozesses, Veröffentlichung und die Beachtung von und Einhaltung der FAIR-Prinzipien.
 
-<img align="right" width="10%" alt="Icon_DSGVO" src="../medien/icons/031_THK_DSGVO.svg?autoSizes=true">
+<img align="left" width="6%" alt="Icon_DSGVO" src="../medien/icons/031_THK_DSGVO.svg?autoSizes=true">
 
 - Datenschutz, insbesondere im Umgang mit sensiblen Daten, beim Schutz von Persönlichkeitsrechten und bei der Bewahrung von Betriebsgeheimnissen
 
-<img align="right" width="10%" alt="Icon_Respekt" src="../medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true">
+<img align="left" width="6%" alt="Icon_Respekt" src="../medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true">
 
 - Ethikrichtlinien
 - Ethische Implikationen und Risiken (ggf. Ethikkommission einbinden/Ethikantrag stellen)
@@ -132,7 +132,7 @@ Die CARE-Prinzipien dienen insbesondere dazu, Forschende dafür zu sensibilisier
 Rahmen von Open Data und Open Science, die Interessen und individuellen und kollektiven Rechte
 zur Selbstbestimmung indigener Bevölkerungsgruppen zu bewahren.
 
-<img align="left" width="10%" alt="Icon_Respekt" src="../medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true">
+<img align="right" width="10%" alt="Icon_Respekt" src="../medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true">
 
 Die CARE-Prinzipien sind menschen- und zweckorientiert und spiegeln die entscheidende Rolle von
 Daten bei der Förderung indigener Innovation und Selbstbestimmung wider. Deshalb treffen die
