@@ -54,19 +54,19 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. | Begrüßung u. Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
-| Ca.  15 min. | Diskussion im PL Erfahrungsaustausch | Die S. können kritisch beurteilen(6), auf welche Aspekte sie bei kollaborativem Arbeiten mit Daten achten müssen. | Hier soll eine Verbindung zum Studium hergestellt werden.  Folgende Fragen sollen in die Diskussion einfließen:  Wie empfinden S. „kollaboratives Arbeiten“ im Studium?  Was sind die Vor- und Nachteile?  Was würden sie gerne verbessern? | PL |
+| Ca.  15 min. | Diskussion im Plenum | Die S. können kritisch beurteilen(6), auf welche Aspekte sie bei kollaborativem Arbeiten mit Daten achten müssen. | Erfahrungsaustausch | PL |
 
 #### Arbeitsphase
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 50 min. | Vorstellung der Tools durch S. <br> Abschließend 5-10 Min. Reflexionsphase im Plenum | Die S. sind in der Lage, unterschiedliche Tools zum kollaborativen Arbeiten anhand von vorgegebenen Aspekten zu bewerten (6). | Vorstellung der Tools (aufbauend auf die Aufgabe von der Online-Phase) im Plenum oder als Gallery Walk bzw. alternativ Marktplatz-Methode | GA / PL |
+| Ca. 50 min. | Vorstellung der Tools durch S. <br> Abschließend 5-10 Min. Reflexionsphase im Plenum | Die S. sind in der Lage, unterschiedliche Tools zum kollaborativen Arbeiten anhand von vorgegebenen Aspekten zu bewerten (6). | Vorstellung der Tools (aufbauend auf die Aufgabe von der Online-Phase) im Plenum oder als Gallery Walk / Marktplatz-Methode | GA / PL |
 
 #### Abschluss
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 20. min. | Offene Fragen / Unklarheiten klärenAbschluss/Reflexion | L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen.  L. beendet die Vorlesung |  | PL |
+| Ca. 20. min. | Offene Fragen / Unklarheiten klären. Abschluss/Reflexion | L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen.  L. beendet das Seminar |  | PL |
 
 ## Präsenzphase / Erläuterung
 
@@ -74,7 +74,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 Begrüßung
 
-(ca. 15 Min.) Diskussion im Plenum, mit expliziter Verbindung zum Studium. Mögliche Fragen für eine Diskussion:
+(ca. 15 Min.) Diskussion im Plenum mit expliziter Verbindung zum Studium. Mögliche Fragen für eine Diskussion:
 
 - Wie empfinden die S. „kollaboratives Arbeiten“ im Studium?
 - Was sind die Vor- und Nachteile?
@@ -87,8 +87,8 @@ Begrüßung
 ===
 
 Aufbauend auf die Aufgabe aus der Online-Phase, stellen die S. hier individuell ihre jeweils recherchierten Tools vor.
+Dies kann als Kurzpräsentation, Marktplatz oder Gallery Walk erfolgen.
 
-- Dies kann als Kurzpräsentation, Marktplatz oder Gallery Walk erfolgen.
 - Diskussion über Vor- und Nachteile jeder Plattform
 - Ort des Servers / der Firma
 - Datenschutz
@@ -96,32 +96,29 @@ Aufbauend auf die Aufgabe aus der Online-Phase, stellen die S. hier individuell 
 - Wie lässt sich zusammenarbeiten?
 - Auf welchen Endgeräten lässt sich das Tool bedienen?
 - Lizenzen
-- Abschließende Reflexion im Plenum (ca. 5-10 Min.)
+
+Abschließende Reflexion im Plenum (ca. 5-10 Min.)
 
 ### Abschluss
 
 (ca. 20 Min.)
 
-L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind
+L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind.
 
-L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung
-
-ODER
-
-Abschlussreflexion
+Ggf. Abschlussreflexion des Seminars
 
 ## Aufgabe
 
-Tools und Plattformen für eine kollaborative Arbeit mit Daten
+Tools und Plattformen für eine kollaborative Arbeit mit Daten:
 
-Die S. wählen jeweils ein Tool oder Plattform, tragen ihre Wahl in einer Liste ein und recherchieren die folgenden Aspekte:
+Die S. wählen jeweils ein Tool oder Plattform, tragen im Vorfeld ihre Wahl in einer Liste ein und recherchieren die folgenden Aspekte:
 
-- Vor- / Nachteile des Tools/der Plattform
-- Ort des Servers / der Firma
+- Vor-/Nachteile des Tools/der Plattform
+- Ort des Servers/der Firma
 - Datenschutz
 - Wo wird was gespeichert?
 - Zugriffsbedingungen
-- Wie und welchen Tools lässt sich zusammenarbeiten?
+- Wie und mit welchen Tools lässt sich zusammenarbeiten?
 - Auf welchen Endgeräten lässt sich das Tool bedienen?
 - Lizenzen
 
@@ -136,9 +133,8 @@ Die S. wählen jeweils ein Tool oder Plattform, tragen ihre Wahl in einer Liste 
 - sciebo
 - SciFlow
 - Citavi
-- Weitere:
-
-[https://forschungsdaten.info/themen/organisieren-und-aufbereiten/kollaboratives-arbeiten/tools-fuer-die-organisation-wissenschaftlicher-datenarbeit/](https://forschungsdaten.info/themen/organisieren-und-aufbereiten/kollaboratives-arbeiten/tools-fuer-die-organisation-wissenschaftlicher-datenarbeit/) ,
+- Weitere unter:
+[https://forschungsdaten.info/themen/organisieren-und-aufbereiten/kollaboratives-arbeiten/tools-fuer-die-organisation-wissenschaftlicher-datenarbeit/](https://forschungsdaten.info/themen/organisieren-und-aufbereiten/kollaboratives-arbeiten/tools-fuer-die-organisation-wissenschaftlicher-datenarbeit/),
 
 [https://forschungsdaten.info/praxis-kompakt/tools/](https://forschungsdaten.info/praxis-kompakt/tools/) und
 
