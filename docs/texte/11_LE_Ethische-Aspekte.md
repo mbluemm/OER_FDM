@@ -66,7 +66,7 @@ berücksichtigt:
 
 <img align="left" width="6%" alt="Icon_GWP" src="../medien/icons/0008_THK_GWP.svg?autoSizes=true">
 
-- Die Regeln der guten wissenschaftlichen Praxis (Forschungsdaten.info 2023a), inkl. Transparenz des Forschungsprozesses, Veröffentlichung und die Beachtung von und Einhaltung der FAIR-Prinzipien.
+- Die Regeln der guten wissenschaftlichen Praxis, inkl. Transparenz des Forschungsprozesses, Veröffentlichung und die Beachtung von und Einhaltung der FAIR-Prinzipien.
 
 <img align="left" width="6%" alt="Icon_DSGVO" src="../medien/icons/0031_THK_DSGVO.svg?autoSizes=true">
 
@@ -81,19 +81,20 @@ berücksichtigt:
 ### Sensible Daten
 
 Insbesondere beim Umgang mit Daten in den folgenden Szenarien, ist eine ethische Verantwortung
-Pflicht (Forschungsdaten.info 2023a):
+Pflicht:
 
-- Studien oder Forschung an und mit Menschen (Befragungen, Studien, medizinische
+> - Studien oder Forschung an und mit Menschen (Befragungen, Studien, medizinische
     Forschung)
-- Studien, Projekte, Forschung, die personenbezogene Daten sammeln und archivieren
-- Forschung, bei der Proben, wie etwa Gewebe von Menschen, entnommen werden sowie bei
+> - Studien, Projekte, Forschung, die personenbezogene Daten sammeln und archivieren
+> - Forschung, bei der Proben, wie etwa Gewebe von Menschen, entnommen werden sowie bei
     Forschung an menschlichen Stammzellen (selbst wenn diese nicht extra entnommen werden)
-- Tierversuche
-- umweltrelevante Forschung
-- Austausch von Wissen und Technologie mit Drittländern
-- Sicherheitsrelevante Forschung (Dual Use (DFG 2023) <!-- verlinkung? --> ), bei der Potential zum Missbrauch der
+> - Tierversuche
+> - umweltrelevante Forschung
+> - Austausch von Wissen und Technologie mit Drittländern
+> - Sicherheitsrelevante Forschung (Dual Use (DFG 2023) <!-- verlinkung? --> ), bei der Potential zum Missbrauch der
     Forschungsergebnisse besteht oder bei der ein anderweitiges besonderes Gefahrenpotenzial
     besteht.
+> -- (Forschungsdaten.info 2023a)
 
 <!-- Abbildung 0061_THK_Personenbezogene_Daten einfügen --> 
 
@@ -145,7 +146,7 @@ Disziplinen mit ethischen Anforderungen an die Daten zu (GIDA o. D.; Carroll 201
 > Machtverhältnisse oder historisch bedingter Ungleichheit das Selbstbestimmungsrecht indigener
 Personen und Personengruppen missachtet wird.“
 >
-> -- (Forschungsdaten.info 2023b).
+> -- (Forschungsdaten.info 2023b)
 
 Mehr zum Thema CARE-Prinzipien und was dabei beachtet werden muss finden Sie in GIDAs
 englischen Fassung oder in der deutschen Fassung.
