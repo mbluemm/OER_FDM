@@ -134,7 +134,7 @@ Die CARE-Prinzipien dienen insbesondere dazu, Forschende dafür zu sensibilisier
 Rahmen von Open Data und Open Science, die Interessen und individuellen und kollektiven Rechte
 zur Selbstbestimmung indigener Bevölkerungsgruppen zu bewahren.
 
-<img align="right" width="10%" alt="Icon_Respekt" src="../medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true">
+<!-- <img align="right" width="10%" alt="Icon_Respekt" src="../medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true"> -->
 
 Die CARE-Prinzipien sind menschen- und zweckorientiert und spiegeln die entscheidende Rolle von
 Daten bei der Förderung indigener Innovation und Selbstbestimmung wider. Deshalb treffen die
