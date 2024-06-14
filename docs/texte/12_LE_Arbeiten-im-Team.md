@@ -45,19 +45,15 @@ Arbeiten mit Daten, insbesondere bezüglich des FDM, beachtet werden sollte.
 
 <img width="15%" align="right" alt="Icon_froehliche_Person" src="../medien/icons/0022_THK_froehliche_Person.svg?autoSizes=true">
 
-- Hohe Bedeutung von Teamarbeit bei der Datenverarbeitung und -analyse
-
-Eine Zusammenarbeit bietet folgende Vorteile:
 - Interdisziplinarität und breiteres, gesteigertes Fachwissen von unterschiedlichen Beteiligten
 - Effizienzsteigerung, unter Anderem durch Verteilung von Arbeitsaufträgen
 - Nutzung von Synergien
     - Einbringung persönlicher Stärken und Fähigkeiten
     - Die Kombination von technischem Know-how, kreativen Ansätzen und fachlichem Verständnis führt oft zu innovativen Lösungen,  
       die allein schwer zu erreichen wären.
-- Kreativere Lösungsfindung, bessere Entscheidungsfindung, durch Ideenaustausch und diskursive Prozesse
+- Kreativere Lösungsfindung, bessere Entscheidungsfindung durch Ideenaustausch und diskursive Prozesse
 - Bessere Fehlererkennung und -korrektur
-
-Das gegenseitige Überprüfen sowie das gemeinsame Diskutieren trägt dazu bei, Genauigkeit und Verlässlichkeit der Datenarbeit zu erhöhen.
+- Das gegenseitige Überprüfen sowie das gemeinsame Diskutieren trägt dazu bei, Genauigkeit und Verlässlichkeit der Datenarbeit zu erhöhen.
 
 ## Welche Herausforderungen müssen beim kollaborativen Arbeiten gemeistert werden?
 
