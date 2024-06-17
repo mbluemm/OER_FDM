@@ -51,8 +51,8 @@ Die S. wissen nicht,
 
 | Zeit | Inhalt | Ziele | Methoden / Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 15 min. | Einführung zum Thema Daten finden <br> Form und Funktion von Metasuchmaschinen, Datenportalen und Repositorien <br>Qualitätsmerkmale von Repositorien | Die S. können erläutern(2), was ein Repositorium ist und können verschiedene Arten und dessen Qualitätsmerkmale benennen(1). | Infotexte zu den Inhalten, inkl. Grafiken. <br>S. notieren sich Antworten zur ersten Leitfrage. | EA |
-| Ca. 15 min. | Einführung zum Thema Daten nachnutzen. <br>Detaillierte Definition von Kriterien, die bei der Datennachnutzung zu beachten sind. <br>Erläuterung des Themas Zitieren. <br>Definition von Aspekten, die für eine Zitation von Datensätzen bei der Nachnutzung beachtet werden müssen. <br> CC-Lizenzen | Die S. können aufführen(1), wo sie nach (welchen) Datensätzen suchen können. <br>Die S. können benennen(1), auf welche Aspekte sie bei der Datennachnutzung achten müssen (zugänglich, zitierfähig, erschlossen usw.). | Infotexte zu den Inhalten, inkl. Grafiken. <br>S. notieren sich Antworten zur zweiten Leitfrage. | EA |
+| Ca. 15 min. | Einführung zum Thema 'Daten finden'. <br> Form und Funktion von Metasuchmaschinen, Datenportalen und Repositorien <br>Qualitätsmerkmale von Repositorien | Die S. können erläutern(2), was ein Repositorium ist und können verschiedene Arten und dessen Qualitätsmerkmale benennen(1). | Infotexte zu den Inhalten, inkl. Grafiken. <br>S. notieren sich Antworten zur ersten Leitfrage. | EA |
+| Ca. 15 min. | Einführung zum Thema 'Daten nachnutzen'. <br>Detaillierte Definition von Kriterien, die bei der Datennachnutzung zu beachten sind. <br>Erläuterung des Themas 'Zitieren'. <br>Definition von Aspekten, die für eine Zitation von Datensätzen bei der Nachnutzung beachtet werden müssen. <br> CC-Lizenzen | Die S. können aufführen(1), wo sie nach (welchen) Datensätzen suchen können. <br>Die S. können benennen(1), auf welche Aspekte sie bei der Datennachnutzung achten müssen (zugänglich, zitierfähig, erschlossen usw.). | Infotexte zu den Inhalten, inkl. Grafiken. <br>S. notieren sich Antworten zur zweiten Leitfrage. | EA |
 | Ca. 5 min. | Definition von PID und deren Merkmalen <br>Erläuterung der Relevanz von PIDs im Forschungsprozess. | Die S. können beschreiben(1), was PIDs sind und deren Nutzen und Funktionen erläutern(2) sowie Beispiele für verschiedene PIDs benennen(1). | Infotexte zu den Inhalten, inkl. Grafiken, auch mit Beispielen (Screenshots). <br>Beispiele von PIDs (von Datensätzen/Forschenden) <br>Optional: <br>Die S. bearbeiten eine Single-Choice-Quiz für die Beschreibung eines PIDs <br> | EA |
 
 ---
@@ -65,13 +65,13 @@ Die S. wissen nicht,
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. | Begrüßung und Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
-| Ca. 15 min. | Diskussionsrunde <br> GGf. Reflexion der S. zum Thema, ob Daten in einem Repositorium suchen und finden in ihrem Studium eine Rolle spielt (spielen könnte). | Die S. können Vor- und Nachteile verschiedener Repositorien sowie der Nachnutzung von Daten gegenüberstellen (5). | L. eröffnet eine Diskussion im PL der zwei beantworteten Leitfragen im Lernportfolio. <br>L. kann sich auf die weiterführenden Fragen zur Leitung der Diskussion unten in der Liste berufen. | PL |
+| Ca. 15 min. | Diskussionsrunde <br> Ggf. Reflexion der S. zum Thema, ob Daten in einem Repositorium suchen und finden in ihrem Studium eine Rolle spielt (spielen könnte). | Die S. können Vor- und Nachteile verschiedener Repositorien sowie der Nachnutzung von Daten gegenüberstellen (5). | L. eröffnet eine Diskussion im PL der zwei beantworteten Leitfragen im Lernportfolio. <br>L. kann sich auf die weiterführenden Fragen zur Leitung der Diskussion unten in der Liste berufen. | PL |
 
 #### Arbeitsphase
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 15 min. | Einzelarbeit zum Thema CC-Lizenzen: <br>BY <br>BY SA <br>BY SA ND <br>BY NC <br>BY NC SA <br>BY NC ND | Die S. können die Creative-Commons-Lizenzen unterscheiden(4). | Einzelarbeit: <br>L. bereitet vorab die Aufgabe mit Angabe der sechs CC-Lizenzen vor. <br>Die S. tragen individuell Definitionen, Kriterien und Beispiele für diese CC-Lizenzen ein. <br>Anschließend wird dies im Plenum diskutiert. | EA / PL |
+| Ca. 15 min. | Einzelarbeit zum Thema CC-Lizenzen: <br>BY <br>BY SA <br>BY ND <br>BY NC <br>BY NC SA <br>BY NC ND | Die S. können die Creative-Commons-Lizenzen unterscheiden(4). | Einzelarbeit: <br>L. bereitet vorab die Aufgabe mit Angabe der sechs CC-Lizenzen vor. <br>Die S. tragen individuell Definitionen, Kriterien und Beispiele für diese CC-Lizenzen ein. <br>Anschließend wird dies im Plenum diskutiert. | EA / PL |
 | Ca. 50 min. | Gruppenarbeit: <br>Die S. müssen anhand eines Beispielthemas einen Datensatz finden und bestimmte Kriterien dieses Datensatzes hervorheben. <br>Die S. beantworten in ihren Gruppen drei Leitfragen (s. Lehreinheit für Studierende) und diskutieren diese danach im Plenum. | Die S. sind in der Lage anhand eines Beispielszenarios, einen nachnutzbaren Datensatz aus einem Repositorium auszuwählen(6), <br>diesen auf Charakteristiken (wie PIDs, Lizenzen, Metadaten etc.) zu untersuchen(4) und ihn unter Anleitung korrekt zu zitieren. | Gruppenarbeit: <br>Die L. teilt die S. in Gruppen ein. Das Thema und ein Beispielprojekt (Fachbereich/Datensatztyp) wird von der L. vorgegeben. <br>Die Gruppen können die Aufgabe nur erledigen, indem sie zusammenarbeiten <br>Danach leitet die L. eine offene Diskussion ein und bittet die Gruppen, ihre Arbeit vorzustellen. <br>Die S. überlegen sich Antworten zu der Frage,<br><ul><li>welchen Datensatz sie wo, weshalb und wie gefunden haben</li><li> und auf welche Aspekte sie geachtet haben.</li><li>Die S. erstellen eine Zitation des Datensatzes.</li><li>Die S. beantworten die drei Leitfragen erst in der GA, dann im PL.</li></ul> | GA / PL |
 
 #### Abschluss
@@ -101,7 +101,7 @@ Mögliche weiterführende Fragen:
 (ca. 15 Min.) Einzelarbeit zum Thema CC-Lizenzen.
 
 - L. erstellt vorab eine Übersicht zum Thema CC-Lizenzen. Hier müssen die S. die jeweiligen Definitionen, Kriterien und Beispiele pro Lizenz eintragen.
-- Als Hilfsmittel können die S. die Informationen zum Thema auf LiaScript nutzen.
+- Als Hilfsmittel können die S. die Informationen zum Thema in den Lerneinheiten nutzen.
 
 (ca. 50 Min.) Gruppenarbeit
 ===
