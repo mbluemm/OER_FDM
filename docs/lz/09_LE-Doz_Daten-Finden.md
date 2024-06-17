@@ -114,7 +114,6 @@ Die Gruppen setzen sich zusammen und bearbeiten die Aufgabe. Dabei achten sie au
 - auf welche Aspekte sie geachtet haben.
 
 Die S. erstellen eine Zitation des Datensatzes.
-Die S. beantworten die drei Leitfragen (s. Lehreinheit für Studierende) für die GA vor Ort.
 
 Nach der Gruppenarbeit bittet L. jede Gruppe ihre Arbeit und die Ergebnisse vorzutragen. Dabei soll jede Gruppe die oben definierten Aspekte beantworten. Im Anschluss werden Beiträge zu den drei Leitfragen im PL gesammelt und diskutiert.
 
