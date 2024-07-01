@@ -8,5 +8,3 @@ node_modules
 .DS_Store
 cache
 docs/.vitepress/dist
-.DS_Store
-.DS_Store
