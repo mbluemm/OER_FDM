@@ -20,7 +20,7 @@ hero:
       link: /texte/01_LE_Forschungsdaten.md
     - theme: alt
       text: Lehreinheiten für Dozierende
-      link: /lz/02_LE-Doz_Forschungsdaten.md
+      link: /lz/02_LE-Doz_Forschungsdatenmanagement.md
 
 features:
   - icon: 🪼 
