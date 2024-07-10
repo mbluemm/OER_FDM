@@ -30,11 +30,6 @@ dabei zu beachten sind.
 
 ## Daten und Dateien bei der Speicherung strukturieren und ordnen
 
-<a title="Jørgen Stamp
-, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:HvadErDigitalBevaring_DigitalBevaring.png"><img width="512" alt="HvadErDigitalBevaring DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/HvadErDigitalBevaring_DigitalBevaring.png/512px-HvadErDigitalBevaring_DigitalBevaring.png"></a>
-
-Quelle: Digitalbevaringdk HvadErDigitalBevaring DigitalBevaring
-
 <!-- mit Abbildung 0051_THK_Datenchaos ersetzen --> 
 
 Bei jeglicher Arbeit mit Daten und Dateien ist bei der Speicherung (Ablage) der Daten/Dateien eine

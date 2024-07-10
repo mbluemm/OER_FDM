@@ -258,7 +258,7 @@ Namensnennung-Keine Bearbeitung
 
 :::info CC BY-ND
 
-<img src="../medien/icons/CC_BY_ND.png"
+<img src="../medien/lizenzen/CC_BY_ND.png"
      alt="Icon_CC_BY_ND"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -270,7 +270,7 @@ Namensnennung-Nicht kommerziell
 
 :::info CC BY-NC
 
-<img src="../medien/icons/CC-BY-NC.png"
+<img src="../medien/lizenzen/CC-BY-NC.png"
      alt="Icon_CC-BY_NC"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -283,7 +283,7 @@ Weitergabe unter gleichen Bedingungen
 
 :::info CC BY-NC-SA
 
-<img src="../medien/icons/CC-BY-NC-SA.png"
+<img src="../medien/lizenzen/CC-BY-NC-SA.png"
      alt="Icon_CC-BY_NC_SA"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -295,7 +295,7 @@ Bearbeitung
 
 :::info CC BY-NC-ND
 
-<img src="../medien/icons/CC-BY-NC-ND.png"
+<img src="../medien/lizenzen/CC-BY-NC-ND.png"
      alt="Icon_CC-BY_NC_ND"
      style="float: left; margin-right: 20px; width: 20%;" />
 

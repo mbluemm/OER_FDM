@@ -3,16 +3,16 @@
 
 layout: home
 icon: 
-  src: 'medien/assets/logo_TH_Koeln.svg'
+  src: '/logos/logo_TH_Koeln.svg'
 title: FDM Basiskurs
 titleTemplate: Lerneinheiten, Lehreinheiten, Kursmaterialien
 lastUpdated: true
 
 hero:
   name: "FDM - Basiskurs"
-  tagline: The best things in life aren't things!
+  tagline: Eine wissenschaftliche Stude hat ergeben ... es ist halt so!
   image:
-    src: 'medien/assets/logo_TH_Koeln.svg'
+    src: '/logos/logo_TH_Koeln.svg'
     alt: TH Köln
   actions:
     - theme: brand
@@ -20,7 +20,7 @@ hero:
       link: /texte/01_LE_Forschungsdaten.md
     - theme: alt
       text: Lehreinheiten für Dozierende
-      link: /lz/02_LE-Doz_Forschungsdatenmanagement.md
+      link: /konzepte/01_LE-Doz_Forschungsdaten.md
 
 features:
   - icon: 🪼 

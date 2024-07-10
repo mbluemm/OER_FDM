@@ -231,10 +231,6 @@ Standards. Zur Dokumentation von Forschungsdaten gehört auch die Angabe von Que
 Inhaberschaft und Berechtigung zur Nutzung und Veröffentlichung (mehr dazu im Kapitel
 “Dokumentation von Daten”).
 
-<!-- SB: bleibt drinnen? -->
-<a title="Jørgen Stamp
-, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Forside_DigitalBevaring.png"><img width="256" alt="Forside DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Forside_DigitalBevaring.png/512px-Forside_DigitalBevaring.png"></a>
-
 ### Leitlinien für das wissenschaftliche Arbeiten
 
 Weitere Hinweise zur Befolgung der GWP sind in den „Leitlinien zur Sicherung guter

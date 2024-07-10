@@ -138,10 +138,6 @@ besonders mit Blick auf zukünftiges Verständnis, äußerst ratsam. Um die Bear
 Wiederauffindbarkeit der Daten zu erleichtern, werden bei der Speicherung und Sicherung sinnvolle
 Dateinamen verwendet, Versionskontrolle beachtet und zusätzliche Metadaten eingefügt. 
 
-<a title="Jørgen Stamp
-, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:International_DigitalBevaring.png"><img width="256" alt="International DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/International_DigitalBevaring.png"></a>
-Quelle: Digitalbevaringdk2021 International_DigitalBevaring
-
 ### Daten aufbewahren und bereitstellen
 
 <!-- G-0018_BUW_Icon_Archivierung ; 0009_THK_Veroeffentlichen -->
@@ -161,10 +157,6 @@ dass die Daten leicht auffindbar und wiederverwendbar sind. Repositorien, die de
 erfüllen beide Anforderungen. Um eine vorbildliche wissenschaftliche Praxis zu gewährleisten, wird empfohlen, 
 (Roh)Daten für einen Zeitraum von zehn Jahren verfügbar zu halten, wie es in den Leitlinien 
 der Deutschen Forschungsgemeinschaft (Deutsche Forschungsgemeinschaft 2022) festgelegt ist.
-
-<a title="Jørgen Stamp
-, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:VidenOm_DigitalBevaring.png"><img width="512" alt="VidenOm DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/VidenOm_DigitalBevaring.png/512px-VidenOm_DigitalBevaring.png"></a>
-Quelle: Digitalbevaringdk 2021 VidenOm_DigitalBevaring
 
 ## Leitfragen und Aufgaben
 

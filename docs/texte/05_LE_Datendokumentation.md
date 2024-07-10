@@ -52,10 +52,6 @@ wenn man seine Arbeiten an Andere weitergeben möchte oder kollaborativ an einer
 
 <!-- Abbildung 0050_THK_Kollaboratives_Arbeiten einfügen -->
 
-<a title="Jørgen Stamp
-, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:PreservationPlan_DigitalPreservation.png"><img width="256" alt="PreservationPlan DigitalPreservation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PreservationPlan_DigitalPreservation.png/256px-PreservationPlan_DigitalPreservation.png"></a>
-Quelle: ResearchDataRepositories PreservationPlan DigitalPreservation von Jørgen Stamp
-
 Im besten Fall wird eine Dokumentation der Daten am Anfang des Projekts begonnen, wenn noch
 keine Daten gesammelt wurden, da somit schon zu Beginn wichtige Entscheidungen gefällt werden
 und Prozesse strukturierter umgesetzt werden können. Eine Dokumentation kann sehr verschieden

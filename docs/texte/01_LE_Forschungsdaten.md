@@ -60,7 +60,6 @@ zeigt, dass Forschungsdaten weit über herkömmliche Vorstellungen von Datensamm
 hinausgehen.
 
 <!--<img align="left" width="15%" alt="Icon_Datentyp_Survey" src="/medien/icons/G-0057_BUW_Icon_Datentyp_Survey.svg?autoSizes=true">-->
-<img align="left" width="15%" alt="Icon_Dummy" src="../medien/dummies/icons8-baby-yoda-64.png?autoSizes=true">
 <img width="15%" align="left" alt="Icon_Datentyp_Bild" src="../medien/icons/G-0053_BUW_Icon_Datentyp_Bild.svg?autoSizes=true">
 <img width="15%" align="left" alt="Icon_Datentyp_AV" src="../medien/icons/G-0054_BUW_Icon_Datentyp_AV.svg?autoSizes=true">
 <img align="left" width="15%" alt="Icon_Datentyp_Objekte" src="../medien/icons/0004_THK_Datentyp_Objekte.svg?autoSizes=true">
@@ -118,9 +117,9 @@ Vorlesung in mehr Detail eingeführt und ist der Grundstein dieses Kurses.
 
 ### Leitfragen
 
-<img src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
+<!-- <img src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
      alt="Icon_Fragezeichen"
-     style="float: left; margin-right: 10px; width: 15%;" />
+     style="float: left; margin-right: 10px; width: 15%;" /> -->
 
 - Wie kann der Begriff Forschungsdaten definiert werden?
 - Welche Arten von Forschungsdaten haben Sie bislang kennengelernt bzw. vielleicht schon selbst genutzt?
@@ -157,7 +156,7 @@ rekonstruiert werden. Um zu verhindern, dass dieser unvollständige Datensatz zu
 
 Eine Visualisierung der zwischen 1970 und 2016 in unterschiedlichen Regionen verübten terroristischen Attentate veranschaulicht, welche Folgen der Verlust von Forschungsdaten langfristig haben kann.
 
-![Abbildung 1:](/medien/abbildungen/GTD_Attentate_Region.svg)
+![Abbildung 1:](/medien/thk/GTD_Attentate_Region.svg)
 Abbildung 1: Übersicht über die zwischen 1970 und 2016 in den unterschiedlichen Regionen verübten terroristischen Attentate. Sina Bock[^5]
 
 Auf der GTD-Webseite werden weitere Visualisierungen angeboten, die sich als Grundlage für eine kritische Auseinandersetzung mit der Erhebung, Analyse, Interpretation und Visualisierung von Forschungsdaten eignen. Die 2020 GTD Heat Map[^6] zeigt beispielsweise die geographische Verteilung von weltweit verübten Anschlägen im Jahr 2020. Die Intensität der Attentate in diesem Jahr, wird mit Hilfe einer Farbskala visualisiert. Die Einfärbung repräsentiert die Anzahl der Menschen, die bei dem jeweiligen Attentat verletzt oder getötet wurden.
