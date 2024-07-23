@@ -57,7 +57,7 @@ Herkunft einzelner Daten).
      style="float: left; margin-right: 20px; width: 10%;" />
 
 (Wieder-)Auffindbarkeit: Metadaten ermöglichen es, Forschungsdaten effizient zu finden. Wenn
-nach Daten zu einem bestimmten Thema gesucht wird, helfen Metadaten, die relevanten Datensätze
+nach Daten zu einem bestimmten Thema gesucht wird, helfen Metadaten die relevanten Datensätze
 zu identifizieren.
 
 Nachvollziehbarkeit: Metadaten dokumentieren den Prozess, wie Daten erhoben, verarbeitet und
@@ -107,35 +107,36 @@ von Daten.
 
 **Bibliografische Metadaten** dienen der Zitation von Daten und somit der Auffindbarkeit. 
 Durch die Beschreibung können die Daten zudem thematisch eingeordnet werden.  
-<!-- das folgende in Textfeld -->
+
+::: tip bibliografisch
+
 - Titel
-- Autor*innen
-- Beschreibung / Abstract
-- Keywords
-    o Titel: „Untersuchung der Auswirkungen von Klimawandel auf Artenvielfalt in
-       tropischen Regenwäldern“
-    o Zusammenfassung: Kurze Beschreibung des Forschungsziels und der Methoden.
-    o Stichwörter: „Klimawandel“, „Artenvielfalt“, „Regenwald“, „Ökologie“.
+- Autor:innen
+- Beschreibung/Abstract
+- Stichwörter/Keywords
+    - Autorin: Dr. Anna Müller
+    -  Titel: „Untersuchung der Auswirkungen von Klimawandel auf Artenvielfalt in tropischen Regenwäldern“
+    - Beschreibung/Abstract: Kurze Beschreibung des Forschungsziels und der Methoden.
+    o Stichwörter/Keywords: „Klimawandel“, „Artenvielfalt“, „Regenwald“, „Ökologie“.
+:::
 
 **Administrative Metadaten** sind für die Verwaltung und langfristige Aufbewahrung der Daten notwendig.
-<!-- das folgende in Textfeld SB: ?Textfeld? -->
 
 ::: tip administrativ
 
-- Dateityp
-- Dateiformat
+- Erstellungsdatum
 - Standort
 - Nutzungsbedingungen
 - Lizenzen
 - Zugriffsrecht
-    o Autor: Dr. Anna Müller
-    o Erstellungsdatum: 15. Juni 2023
-    o Rechte: Urheberrecht bei Dr. Anna Müller, Datenzugriff nur für autorisierte Forscher.
+    - Erstellungsdatum: 15. Juni 2023
+    - Standort: TH Köln
+    - Rechte: CC BY SA NC, Urheberrecht bei Dr. Anna Müller, Datenzugriff nur für autorisierte Forscher.
 :::
 
 ### Fachspezifische Metadaten
 
-**Prozessmetadaten / Kontextuelle Metadaten**
+**Prozessmetadaten/Kontextuelle Metadaten**
 
 umfassen die einzelnen Schritte der Enstehung und Verarbeitung der Daten, inklusive der verwendeten Methoden und Hilfsmitteln.
 
@@ -145,13 +146,11 @@ umfassen die einzelnen Schritte der Enstehung und Verarbeitung der Daten, inklus
 - Methodik
 - Arbeitsschritte
 
-    o Projekt: Langzeitstudie zur Artenvielfalt in tropischen Regenwäldern (Projektcode:RAINBIO)
+    - Projekt: Langzeitstudie zur Artenvielfalt in tropischen Regenwäldern (Projektcode:RAINBIO)
     
-    o Methodik: Systematische Stichprobenentnahme und Artenidentifikation
+    - Methodik: Systematische Stichprobenentnahme und Artenidentifikation
     
-    o Arbeitsschritte: Erhebung von Daten während der Regenzeit, in verschiedenen
-
-- Höhenlagen.
+    - Arbeitsschritte: Erhebung von Daten während der Regenzeit, in verschiedenen Höhenlagen.
 :::
 
 **Strukturelle Metadaten**: stellen Informationen zur Datenstruktur dar.
@@ -161,11 +160,11 @@ umfassen die einzelnen Schritte der Enstehung und Verarbeitung der Daten, inklus
 - Felder
 - Relationen
 
-    o Dateiformat: CSV (Comma-Separated Values)
+    - Dateiformat: CSV (Comma-Separated Values)
 
-    o Felder: „Artname“, „Lebensraum“, „Anzahl der beobachteten Individuen“
+    - Felder: „Artname“, „Lebensraum“, „Anzahl der beobachteten Individuen“
     
-    o Relationen: Verknüpfung von Artbeobachtungen mit geografischen Koordinaten.
+    - Relationen: Verknüpfung von Artbeobachtungen mit geografischen Koordinaten.
 :::
 
 **Technische Metadaten** umfassen Informationen zur technischen Infrastruktur. Die technischen
@@ -177,13 +176,13 @@ Metadaten werden in vielen Fällen automatisch generiert.
 - (Auflösung)
 - Hardware/Software
     
-    o Dateigröße: 2.5 MB
+    - Dateigröße: 2.5 MB
     
-    o Dateiformat: JPG (Bilddatei)
+    - Dateiformat: JPG (Bilddatei)
     
-    o Auflösung: 1920x1080 Pixel
+    - Auflösung: 1920x1080 Pixel
     
-    o Aufnahmegerät: Canon EOS 5D Mark IV
+    - Aufnahmegerät: Canon EOS 5D Mark IV
 :::
 
 „**Inhaltsbeschreibende bzw. deskriptive Metadaten** variieren je nach Fachdisziplin und Methode. Sie bieten weitere Informationen zum Inhalt und der Datenerhebung.“
@@ -198,7 +197,7 @@ standardisiert, dokumentiert. Sogenannte Metadatenstandards bedeuten also eine e
 standardisierte Art und Weise der Dokumentation. Ähnliche Datensätze werden dadurch inhaltlich und
 strukturell gleichförmig beschrieben. Außerdem dienen sie dazu, dass Forschergruppen auch untereinander Daten austauschen und verstehen können (Biernacka, Buchholz, Danker et al., 2021).
 
-Nachfolgend sind exemplarisch einige Metadatenstandards aus unterschiedlichen verschiedener Disziplinen aufgelistet:
+Nachfolgend sind exemplarisch einige Metadatenstandards aus unterschiedlichen Disziplinen aufgelistet:
 
 | Wissenschaftsdisziplin| Name des/der Standards | 
 | -------- | ------ |
