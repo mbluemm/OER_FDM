@@ -59,9 +59,8 @@ aussehen.[^1] Je nach Projektgröße und Datenvielfalt kann eine solche Dokument
 wenigen Absätzen und mehreren Seiten umfassen.
 
 ::: tip
-Bei einer Datendokumentation handelt sich um ein living document! (Forschungs-) Projekte sind
-Prozesse. Nicht alle Fragen können zu Beginn eines Forschungsprojektes geklärt werden. Forschung ist ergebnisoffen, daher müssen
-Antworten während der Bearbeitungszeit ergänzt, angepasst und aktualisiert werden.
+Bei einer Datendokumentation handelt sich um ein living document! Forschung ist ergebnisoffen, daher müssen
+Antworten während der Bearbeitungszeit ergänzt, angepasst und aktualisiert werden. Zudem können nicht alle Fragen bereits zu Beginn eines Forschungsprojektes geklärt werden.
 :::
 
 Die nachfolgenden Leitfragen helfen, einer ausführlichen Projektdokumentation im Studienkontext
@@ -73,7 +72,7 @@ am besten?” können so geklärt und festgehalten werden.
 
 ## Checkliste zur Datendokumentation
 
-Die Checkliste zur Datendokumentation finden Sie in dem Moodle-Kurs als herunterladbare Datei.
+<!-- Die Checkliste zur Datendokumentation finden Sie unter folgendem Link als herunterladbare Datei. -->
 
 ## Leitfragen und Aufgaben
 
