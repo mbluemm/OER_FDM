@@ -48,7 +48,8 @@ Auch im FDM sollte aus den folgenden Gründen darauf geachtet werden:
 - Je größer die Datenmenge ist, umso wichtiger ist ein gutes Datenmanagement.
 - Der aktuellste Forschungsstand ist schnell identifizierbar.
 - Die Nachnutzung der Daten und die Interpretierbarkeit der Daten wird vereinfacht und langfristig
-    sichergestellt.
+    sichergestellt. <!-- "Die Nachnutzung der Daten und die Interpretierbarkeit der Daten wird vereinfacht und langfristig
+    sichergestellt." Zitat von https://www.tu-chemnitz.de/ub/dokumente/open_access/fdm/2021_02_26_ZfwN_FDM.pdf -->
 
     o Daten bleiben zugänglich und leicht auffindbar, was eine längere Suche vermeidet,
     
@@ -98,7 +99,8 @@ Aspekte beachtet sein:
     o und klar ersichtlich und für Dritte nachvollziehbar.
 
 - Für eine gute Übersicht sollten Verzeichnisstrukturen auf Servern identisch zu denen auf den lokalen
-Rechnern sein.
+Rechnern sein. <!-- "Für eine gute Übersicht sollten Verzeichnisstrukturen auf Servern identisch zu denen auf den lokalen
+Rechnern sein."  Zitat von https://edoc.hu-berlin.de/handle/18452/19967.2 -->
 
 * unverarbeitete Originaldaten
 
@@ -128,7 +130,7 @@ Dateien können nach unterschiedlichen Konventionen benannt werden. Damit Dateie
 - das jeweilige Erstellungsdatum enthalten*
     o Datumsformat: JJJJ-MM-TT[^2] <!-- ist die Empfehlung so gut? oder ohne Bindestriche? oder mehr Alternativen aufzeigen? --> 
     o Datumsangabe: Am Anfang des Dateinamens; chronologische Sortierung
-       z.B. „2023-05-17_Projekt_Erdnussbutter“
+       z. B. „2023-05-17_Projekt_Erdnussbutter“
 - Rückschlüsse auf den Inhalt der Dateien ermöglichen
     o deskriptive Informationen ordnen die Datei ihrem Kontext zu
 - auch von Außenstehenden nachvollziehbar sein
@@ -203,7 +205,7 @@ Felder
 - Status: z.B. ENTWURF
 - Dokumententyp: z.B. Anschreiben, Interviewleitfaden, Konzept, Liste, ...
 - Autor:in: Urheber:in des Dokumentes
-- Inhalt: Thema / Inhalt des Dokuments
+- Inhalt: Thema/Inhalt des Dokuments
 - Version: Bei versionierten Dokumenten wird die Version bei jeder Änderung hochgezählt z.B.
     _v1, _v2, ...
 <!-- Eigentlich wird sich doch für Unter- ODER Bindestriche entschieden und nicht gemixt. Datumsangabe checken, ob das so unserer Norm entspricht...--> 
