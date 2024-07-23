@@ -27,7 +27,7 @@ Außerdem lernen Sie über Vor- und Nachteile verschiedener Speichermedien sowie
 Datenformate.
 :::
 
-(forschungsdaten.info 2023e; forschungsdaten.info 2023f).
+(Forschungsdaten.info 2023e; Forschungsdaten.info 2023f).
 
 <!-- Video von Medienagentur einfügen -->
 
@@ -43,11 +43,11 @@ oder aufgrund veralteter Software nicht mehr lesbar sind oder versehentlich gel�
 <!-- 0008_THK_GWP und G-0020_BUW_Icon_Nachnutzung neben oberen Absatz ergänzen -->
 
 Backup- und Datensicherungsmaßnahmen sind unerlässlich: Forschungsdaten müssen vor
-unbefugtem Zugriff (z. B. Cyber/Hackerangriffe) und Datenverlust (z. B. technische Fehler/Brand)
+unbefugtem Zugriff (z. B. Cyber-/Hackerangriffe) und Datenverlust (z. B. technische Fehler/Brand)
 geschützt werden. Insbesondere sensible, personenbezogene Daten müssen durch
 Pseudonymisierung oder Anonymisierung besonders geschützt werden (Weiner et al. 2020).
 
-Vor- und Nachteile von Speichermedien finden Sie unter (forschungsdaten.info 2023f). <!-- verlinken? -->
+Vor- und Nachteile von Speichermedien finden Sie unter (Forschungsdaten.info 2023f). <!-- verlinken? -->
 
 <!-- hier Datenspeicherlösungen wie G-0035_BUW_Icon_USB_Stick , G-0037_BUW_Icon_CD , G-0039_BUW_Icon_SD-Karte , 0011_THK_Speicher_Cloud , 0012_THK_Speicher_PC , 0013_THK_Speicher_Festplatte einfügen -->
 
@@ -69,7 +69,7 @@ Darüber hinaus ist es wichtig, die 3 - 2 - 1 - Regel zu beachten. Gleichermaße
 <!-- 0027_THK_Ordnerstruktur , 0006_THK_Organisieren , 0029_THK_Dateibenennung -->
 
 ![](https://)
-Abbildung: forschungsdaten.info 2023e
+Abbildung: Forschungsdaten.info 2023e
 <!-- gegen 0064_THK_3-2-1-Regel eintauschen --> 
 
 ## Empfehlungen zur Datensicherung
@@ -78,25 +78,22 @@ Abbildung: forschungsdaten.info 2023e
 
 Es ist hilfreich (VerbundFDB 2018):
 
-- alle fünf Jahre die alten externen Speichermedien mit neueren auszutauschen.
-- notwendige Softwareanwendungen in die Backup-Strategie einzubeziehen.
-- eine regelmäßige Kontrolle der Daten und Dateien durchzuführen (z. B. einmal jährlich,
-    stichprobenartig).
-- einen geeigneten Ablageort für Daten und Dateien zu wählen, der
-    o über ausreichend Speicherkapazität verfügt,
-    o allen beteiligten und berechtigten Personen Zugriff ermöglicht und
-    o Zugriff durch Unbefugte verhindert.
-- offene W-LAN-Verbindungen zu vermeiden.
-- gute Virus- und Malwarescanner zu verwenden.
-- DSGVO-konforme Clouddienste, wie etwa die Cloud-Speicherlösung sciebo, zu wählen
-    (https://hochschulcloud.nrw/).[^1]
+> - alle fünf Jahre die alten externen Speichermedien mit neueren auszutauschen.
+> - notwendige Softwareanwendungen in die Backup-Strategie einzubeziehen.
+> - eine regelmäßige Kontrolle der Daten und Dateien durchzuführen (z. B. einmal jährlich, stichprobenartig).
+> - einen geeigneten Ablageort für Daten und Dateien zu wählen, der
+>    - über ausreichend Speicherkapazität verfügt,
+>    - allen beteiligten und berechtigten Personen Zugriff ermöglicht und
+>    - Zugriff durch Unbefugte verhindert.
+> - offene W-LAN-Verbindungen zu vermeiden.
+> - gute Virus- und Malwarescanner zu verwenden.
+> - DSGVO-konforme Clouddienste, wie etwa die Cloud-Speicherlösung sciebo, zu wählen (https://hochschulcloud.nrw/).[^1]
 
 ::: tip
 Kostenlose Clouddienste (bspw. Google Drive, Dropbox, OneDrive) sollten nicht verwendet
-werden, da deren Serverstandorte nicht in Deutschland, sondern in Amerika liegen. In Amerika sind aufgrund des USA PATRIOT Acts (2001) die eigenen Daten vor einem Zugriff Dritter nicht geschützt.
+werden, da deren Serverstandorte nicht in Deutschland, sondern in Amerika liegen. In Amerika sind aufgrund des USA PATRIOT Acts (2001) die eigenen Daten vor einem Zugriff Dritter nicht geschützt (Krähwinkel, Langner, Lipp et al. 2022).
 :::
 
-(Krähwinkel, Langner, Lipp et al. 2022)
 
 [^1]: Hier empfiehlt es sich zu prüfen, wie lange auf die Hochschuldienste zugegriffen werden kann.
 
@@ -104,33 +101,26 @@ werden, da deren Serverstandorte nicht in Deutschland, sondern in Amerika liegen
 <!-- sollte das nicht rausgelöscht werden? Und wenn nicht, wie einbinden? -->
 ### Was ist ein gutes Passwort?
 
-Die Daten (Dateien und Ordner) sollten wo es möglich ist, beispielsweise bei sensiblen Daten, mit
-einem Passwort geschützt sein.
-Für einen Überblick von sicheren Passwörtern kann Passwortmanagement-Software helfen.
+Die Daten (Dateien und Ordner) sollten wo es möglich ist, mit
+einem Passwort geschützt sein (insbesondere bei sensiblen Daten).
+Für einen Überblick von sicheren Passwörtern kann eine Passwortmanagement-Software helfen.
 
 ### Beispiele für Passwortregel
 
 Universitäten und Hochschulen haben interne Leitlinien zum Umgang mit Forschungsdaten erstellt,
-wie beispielsweise die Leitlinie der Technischen Hochschule Köln (Sauther-Patrascu und Dmitrieva
-2021 ), in der zum Thema Sicherung von Daten folgendes zusammengefasst ist:
+wie beispielsweise die Leitlinie der Technischen Hochschule Köln (Präsidium der TH Köln, 2021), in der zum Thema Sicherung von Daten folgendes zusammengefasst ist:
 
-Die Sicherung von Daten wird meistens als ein Backup oder eine Sicherungskopie bezeichnet und
-dient der Wiederherstellung der ursprünglichen Daten im Falle eines Datenverlusts.
+> Die Sicherung von Daten wird meistens als ein Backup oder eine Sicherungskopie bezeichnet und
+> dient der Wiederherstellung der ursprünglichen Daten im Falle eines Datenverlusts.
 
-- Bei einem Backup oder einer Datensicherung werden alle für ein Projekt relevanten Daten
-    gespeichert.
-Die Archivierung von Daten bedeutet sowohl die systematische Sicherung ausgewählter Daten für
-einen unbegrenzten Zeitraum als auch der Erhalt und die Betreuung dieser Daten über geeignete
-Verfahren.
+> - Bei einem Backup oder einer Datensicherung werden alle für ein Projekt relevanten Daten gespeichert.
+> Die Archivierung von Daten bedeutet sowohl die systematische Sicherung ausgewählter Daten für
+> einen unbegrenzten Zeitraum als auch der Erhalt und die Betreuung dieser Daten über geeignete
+> Verfahren.
 
-Die Langzeitarchivierung (LZA) ist ein Verfahren, das Forschungsdaten für einen unbestimmten
-Zeitraum (i.d.R. > 10 Jahre ab Projektende), über technologische und soziokulturelle Veränderungen
-hinaus, verfügbar und interpretierbar hält.
-
-Frage: Glauben Sie es wäre für künftige Studierende hilfreich an dieser Stelle noch Informationen zum
-Erstellen von sicheren Passwörtern sowie zur Verwaltung von Passwörtern zu erhalten?
-[https://forschungsdaten.info/themen/speichern-und-rechnen/passworthilfen/](https://forschungsdaten.info/themen/speichern-und-rechnen/passworthilfen/)
-
+> Die Langzeitarchivierung (LZA) ist ein Verfahren, das Forschungsdaten für > einen unbestimmten
+> Zeitraum (i.d.R. > 10 Jahre ab Projektende), über technologische und > soziokulturelle Veränderungen
+> hinaus, verfügbar und interpretierbar hält.
 
 ## Datenformate
 
@@ -140,7 +130,7 @@ Damit Daten langfristig nachnutzbar sind und einfacher geteilt werden können, s
 werden, dass zum einen so wenig unterschiedliche Datenformate wie möglich verwendet werden, zum
 anderen die Daten in:
 
-- offenen, d.h. nicht herstellerspezifisch,
+- offenen, d.h. nicht herstellerspezifischen,
 - standardisierten,
 - langlebigen,
 - weit verbreiteten,
@@ -152,7 +142,7 @@ einigen Jahren noch Software und Hardware gibt, die die Daten lesen können. Auc
 Formate möglichst verlustfrei konvertiert werden können.
 
 Unter den oben genannten Aspekten eignen sich folgende Formate:
-
+<!-- anders darstellen? Die einzelnen Formate sind visuell kaum voneinander abgegrenzt --> 
 |  Dateityp | Empfohlenes Format[^2]  |
 |---|---|
 | Text  | .pdf/a .txt .xml |
