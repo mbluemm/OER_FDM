@@ -46,7 +46,7 @@ Arbeiten mit Daten, insbesondere bezüglich des FDM, beachtet werden sollte.
 <img width="15%" align="right" alt="Icon_froehliche_Person" src="../medien/icons/0022_THK_froehliche_Person.svg?autoSizes=true">
 
 - Interdisziplinarität und breiteres, gesteigertes Fachwissen von unterschiedlichen Beteiligten
-- Effizienzsteigerung, unter Anderem durch Verteilung von Arbeitsaufträgen
+- Effizienzsteigerung, u. a. durch Verteilung von Arbeitsaufträgen
 - Nutzung von Synergien
     - Einbringung persönlicher Stärken und Fähigkeiten
     - Die Kombination von technischem Know-how, kreativen Ansätzen und fachlichem Verständnis führt oft zu innovativen Lösungen,  
@@ -59,11 +59,10 @@ Arbeiten mit Daten, insbesondere bezüglich des FDM, beachtet werden sollte.
 
 <img width="15%" align="right" alt="Icon_nachdenkende_Person" src="../medien/icons/0023_THK_nachdenkende_Person.svg?autoSizes=true">
 
-- Gemeinsame Organisation und zeitgleichen Bearbeitung von Daten / Dateien
+- Gemeinsame Organisation und zeitgleichen Bearbeitung von Daten/Dateien
 - Klärung der Verantwortlichkeiten und Zuständigkeiten
 - Verteilung und Einhaltung von Deadlines und ToDos
-- Unterschiedliches methodisches Vorgehen und unterschiedliche Arbeitsabläufe / -
-    gewohnheiten
+- Unterschiedliches methodisches Vorgehen und unterschiedliche Arbeitsabläufe/-gewohnheiten
 - Festlegung von Standards in der Struktur (Ordnerstrukturen, Dateibenennung, Metadaten,
     Dateiformate)
 - Auswahl eines gemeinsamen Speichers (Datensicherheit, Datenschutz, Zugriff, Transfer von
@@ -83,7 +82,7 @@ Ordner- und Dateistrukturen sowie der Vergabe von Metadaten.
 Ein weiterer wichtiger Aspekt ist die Arbeitsteilung und Kommunikation. Für eine effektive Arbeitsaufteilung sind Besprechungen nötig, 
 bei denen nicht nur Aufgaben(bereiche), sondern auch Verantwortlichkeiten verbindlich festgelegt werden. Die Festlegung von Rollen ist dabei ebenfalls hilfreich. Mithilfe einer guten Kommunikation lassen sich Missverständnisse und Doppelarbeit vermeiden.
 
-Um die Kommunikation, die Organisation und die Datenbearbeitung im Team zu erleichtern gibt es zahlreiche Tools (s. Quellen).
+Um die Kommunikation, die Organisation und die Datenbearbeitung im Team zu erleichtern, gibt es zahlreiche Tools (s. Quellen).
     
 <img width="15%" align="right" alt="Icon_Zugriffsrechte" src="../medien/icons/0019_THK_Zugriffsrechte.svg?autoSizes=true">
    
@@ -104,12 +103,12 @@ bereiten Sie eine Kurzpräsentation vor (5 Min.).
 Recherchieren Sie für die Kurzpräsentation folgende
 Aspekte:
 
-- Vor- / Nachteile des Tools/der Plattform
-- Ort des Servers / der Firma
+- Vor-/Nachteile des Tools/der Plattform
+- Ort des Servers/der Firma
 - Datenschutz
 - Wo wird was gespeichert?
 - Zugriffsbedingungen
-- Wie lässt sich zusammenarbeiten (synchrone / asynchrone Kommunikation,
+- Wie lässt sich zusammenarbeiten (synchrone/asynchrone Kommunikation,
     Nutzerfreundlichkeit)?
 - Auf welchen Endgeräten lässt sich das Tool/die Plattform nutzen?
 - Lizenzen
