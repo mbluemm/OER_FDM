@@ -13,7 +13,7 @@ bibliography: references.bib
 # Was sind Forschungsdaten?
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 01_LE_Forschungsdaten. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/01_LE_Forschungsdaten.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 01_LE_Forschungsdaten. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/01_LE_Forschungsdaten.html
 :::
 
 [[toc]]
@@ -48,11 +48,11 @@ Zitierbarkeit und zur weiteren Verarbeitung aufbewahrt werden können. Forschung
 nur isolierte Informationen, sondern vielmehr Bausteine, die zur Entwicklung von neuem Wissen und
 zur Unterstützung von Forschungsarbeiten beitragen.
 
-<img align="left" width="15%" alt="Icon_Datentypen_Messung" margin-right="10px" src="../medien/icons/G-0049_BUW_Icon_Datentypen_Messung.svg?autoSizes=true">
-<img align="left" width="15%" alt="Icon_Erhebung" src="../medien/icons/G-0016_BUW_Icon_Erhebung.svg?autoSizes=true">
-<img align="left" width="15%" alt="Icon_Datentypen_Sensor" src="../medien/icons/G-0050_BUW_Icon_Datentypen_Sensor.svg?autoSizes=true">
-<img align="left" width="15%" alt="Icon_Analyse" src="../medien/icons/G-0017_BUW_Icon_Analyse.svg?autoSizes=true">
-<img align="center" width="15%" alt="Icon_Datentyp_Text" src="../medien/icons/G-0055_BUW_Icon_Datentyp_Text.svg?autoSizes=true">
+<img align="left" width="15%" alt="Icon_Datentypen_Messung" margin-right="10px" src="/medien/icons/G-0049_BUW_Icon_Datentypen_Messung.svg?autoSizes=true">
+<img align="left" width="15%" alt="Icon_Erhebung" src="/medien/icons/G-0016_BUW_Icon_Erhebung.svg?autoSizes=true">
+<img align="left" width="15%" alt="Icon_Datentypen_Sensor" src="/medien/icons/G-0050_BUW_Icon_Datentypen_Sensor.svg?autoSizes=true">
+<img align="left" width="15%" alt="Icon_Analyse" src="/medien/icons/G-0017_BUW_Icon_Analyse.svg?autoSizes=true">
+<img align="center" width="15%" alt="Icon_Datentyp_Text" src="/medien/icons/G-0055_BUW_Icon_Datentyp_Text.svg?autoSizes=true">
 
 Digitale Forschungsdaten präsentieren sich in verschiedenen Formen, darunter Texte, Bilder,
 Audiodateien, Videoclips und interaktive Visualisierungen. Diese Vielfalt an Formaten und Disziplinen
@@ -60,15 +60,15 @@ zeigt, dass Forschungsdaten weit über herkömmliche Vorstellungen von Datensamm
 hinausgehen.
 
 <!--<img align="left" width="15%" alt="Icon_Datentyp_Survey" src="/medien/icons/G-0057_BUW_Icon_Datentyp_Survey.svg?autoSizes=true">-->
-<img width="15%" align="left" alt="Icon_Datentyp_Bild" src="../medien/icons/G-0053_BUW_Icon_Datentyp_Bild.svg?autoSizes=true">
-<img width="15%" align="left" alt="Icon_Datentyp_AV" src="../medien/icons/G-0054_BUW_Icon_Datentyp_AV.svg?autoSizes=true">
-<img align="left" width="15%" alt="Icon_Datentyp_Objekte" src="../medien/icons/0004_THK_Datentyp_Objekte.svg?autoSizes=true">
-<img width="15%" align="center" alt="Icon_Datentyp-Audiodateien" src="../medien/icons/0002_THK_Datentyp-Audiodateien.svg?autoSizes=true">
+<img width="15%" align="left" alt="Icon_Datentyp_Bild" src="/medien/icons/G-0053_BUW_Icon_Datentyp_Bild.svg?autoSizes=true">
+<img width="15%" align="left" alt="Icon_Datentyp_AV" src="/medien/icons/G-0054_BUW_Icon_Datentyp_AV.svg?autoSizes=true">
+<img align="left" width="15%" alt="Icon_Datentyp_Objekte" src="/medien/icons/0004_THK_Datentyp_Objekte.svg?autoSizes=true">
+<img width="15%" align="center" alt="Icon_Datentyp-Audiodateien" src="/medien/icons/0002_THK_Datentyp-Audiodateien.svg?autoSizes=true">
 
 In diesem Kurs werden die Begriffe „Daten“ und „Dateien“ häufiger verwendet. Für den fortlaufenden Kurs sind sie wie folgt definiert:
 
 ::: tip Daten
-<img src="../medien/icons/0032_THK_Datensatz.svg?autoSizes=true"
+<img src="/medien/icons/0032_THK_Datensatz.svg?autoSizes=true"
      alt="Icon_Datensatz"
      style="float: left; margin-right: 10px; width: 10%;" />
 
@@ -76,7 +76,7 @@ Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfa
 :::
 
 ::: tip Dateien
-<img src="../medien/icons/0028_THK_OrdnerPC.svg?autoSizes=true"
+<img src="/medien/icons/0028_THK_OrdnerPC.svg?autoSizes=true"
      alt="Icon_OrdnerPC"
      style="float: left; margin-right: 10px; width: 10%;" />
 Eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeicherte und zugreifbare Menge von Daten“.
@@ -90,7 +90,7 @@ Eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeiche
 Es gibt Primärdaten und Sekundärdaten[^1]
 
 ::: tip Primärdaten
-<img src="../medien/icons/G-0094_BUW_a_Icon_Primaerdaten.svg?autoSizes=true"
+<img src="/medien/icons/G-0094_BUW_a_Icon_Primaerdaten.svg?autoSizes=true"
      alt="Icon_Primaerdaten"
      style="float: left; margin-right: 10px; width: 15%;" />
 
@@ -99,7 +99,7 @@ Es gibt Primärdaten und Sekundärdaten[^1]
 :::
 
 ::: tip Sekundärdaten
-<img src="../medien/icons/G-0094_BUW_b_Icon_Sekundaerdaten.svg?autoSizes=true"
+<img src="/medien/icons/G-0094_BUW_b_Icon_Sekundaerdaten.svg?autoSizes=true"
      alt="Icon_Sekundaerdaten"
      style="float: left; margin-right: 10px; width: 15%;" />
 
@@ -120,7 +120,7 @@ Einheit detaillierter eingeführt und ist der Grundstein dieses Kurses.
 
 ### Leitfragen
 
-<!-- <img src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
+<!-- <img src="/medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
      alt="Icon_Fragezeichen"
      style="float: left; margin-right: 10px; width: 15%;" /> -->
 
@@ -129,7 +129,7 @@ Einheit detaillierter eingeführt und ist der Grundstein dieses Kurses.
 
 ### Aufgabe
 
-<img src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
+<img src="/medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
      alt="Icon_Aufgabe"
      style="float: left; margin-right: 10px; width: 15%;" />
 
@@ -138,7 +138,7 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ### Lektüre
 
-<img src="../medien/icons/0038_THK_Buch.svg?autoSizes=true"
+<img src="/medien/icons/0038_THK_Buch.svg?autoSizes=true"
      alt="Icon_Buch"
      style="float: left; margin-right: 20px; width: 15%;" />
 
@@ -146,7 +146,7 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ## Weiterführende Materialen und Quellen
 <!-- sollte Beispiel nicht gesondert über Leitfragen und Aufgaben aufgeführt werden? Auch noch Beispiel der BUW mit der Bergkette einfügen (KF) -->
-<img src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
+<img src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
      alt="Icon_Findability"
      style="float: left; margin-right: 20px; width: 10%;" />
 

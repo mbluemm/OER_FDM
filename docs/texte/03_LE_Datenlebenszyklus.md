@@ -11,7 +11,7 @@ aside: true
 # Datenlebenszyklus
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 03_LE_Datenlebenszyklus. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/03_LE_Datenlebenszyklus.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 03_LE_Datenlebenszyklus. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/03_LE_Datenlebenszyklus.html
 :::
 
 [[toc]]
@@ -56,7 +56,10 @@ G-0018_BUW_Icon_Archivierung
 Der folgende Datenlebenszyklus kann als Leitfaden für den Umgang mit Daten dienen, beginnend mit
 der Planung und endend mit der Aufbewahrung.
 
+
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVKbjs3EE=/?moveToViewport=-38630,-25373,69911,43607&embedId=529249252723" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+
 Quelle: Arbeitskompass zum Thema FDM, Katharina Fritsch.
 
 <!-- durch 0039_THK_Arbeitskompass, wenn interaktive Abbildung von Medienagentur vorliegt -->
@@ -162,7 +165,7 @@ der Deutschen Forschungsgemeinschaft (Deutsche Forschungsgemeinschaft 2022) fest
 
 ### Leitfragen
 
-<img src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
+<img src="/medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
      alt="Icon_Fragezeichen"
      style="float: left; margin-right: 10px; width: 15%;" />
 

@@ -12,7 +12,7 @@ aside: true
 
 ::: info Zitation:
 Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_09_Finden.
-Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_09_Finden.html
+FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/VL_09_Finden.html
 :::
 
 <!-- in der VL noch ggf. Abbildungen 0045_THK_Rechercheergebnisse; 0048_THK_Zitieren; 0056_THK_Zugriffsrechte; 0058_THK_PID; 0060_THK_Recherche;0059_THK_Qualitätskontrolle ergänzen --> 
@@ -24,10 +24,10 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 
 ::: info
 
-<img src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
+<img src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
      alt="Icon_Findability"
      style="float: left; margin-right: 10px; width: 10%;" />
-<img src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
+<img src="/medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
      alt="Icon_Nachnutzung"
      style="float: left; margin-right: 10px; width: 10%;" />
      
@@ -52,7 +52,7 @@ inklusive Tutorials angeführt, die das Finden von Datensätzen auf den jeweilig
 
 ## Metasuchmaschinen und Datenportale
 
-<img width="15%" align="right" alt="Icon_Suchmaschine" src="../medien/icons/0035_THK_Suchmaschine.svg?autoSizes=true">
+<img width="15%" align="right" alt="Icon_Suchmaschine" src="/medien/icons/0035_THK_Suchmaschine.svg?autoSizes=true">
 
 In diesem Abschnitt werden Ihnen einige Metasuchmaschinen und Datenportale vorgestellt. "Eine
 Metasuchmaschine ist ein System, das Informationen von anderen Suchmaschinen nutzt, um eine
@@ -60,7 +60,7 @@ vollständige und angemessene Antworten auf eine Frage zu geben" (Arimetrics 202
 Datenportale erleichtern den Zugang zu und die Wiederverwendung von Informationen des
 öffentlichen Sektors" (European Commission 2022).
 
-<img src="../medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
+<img src="/medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
      alt="Icon_Beispiel"
      style="float: left; margin-right: 10px; width: 18%;" />
      
@@ -68,17 +68,17 @@ Beispiele für Metasuchmaschinen und Datenportale:
 
 - [DataCite Commons](https://commons.datacite.org/)  → unterstützt die Suche in registrierten Datensätzen
 
-    - [Tutorial](https://www.youtube.com/watch?v=XXEMEhEnrGs&list=PLNfmVgA6BeiRmsql_nfMWz_jsVxUf3_GZ&index=8), englisch (3:26 Min.)
+- [Tutorial](https://www.youtube.com/watch?v=XXEMEhEnrGs&list=PLNfmVgA6BeiRmsql_nfMWz_jsVxUf3_GZ&index=8), englisch (3:26 Min.)
 
 - [BASE](https://www.base-search.net/) → Suchmaschine für wissenschaftliche Webdokumente
     
-    - [Tutorial](https://www.youtube.com/watch?v=cu4JYtyAXQo), deutsch (3:10 Min.)
+- [Tutorial](https://www.youtube.com/watch?v=cu4JYtyAXQo), deutsch (3:10 Min.)
     
-    - unter „Suchergebnis eingrenzen“ → „Dokumentart“:„Forschungsdaten“; „Nachnutzung“:„Open Access“
+- unter „Suchergebnis eingrenzen“ → „Dokumentart“:„Forschungsdaten“; „Nachnutzung“:„Open Access“
       
 - [Google Dataset Search](https://datasetsearch.research.google.com/) → durchsucht laut Google Millionen von Datensätzen in tausenden Repositorien
        
-    - [Tutorial](https://www.youtube.com/watch?v=XWWGHsF0k3w), englisch (3:28Min.)
+- [Tutorial](https://www.youtube.com/watch?v=XWWGHsF0k3w), englisch (3:28Min.)
 
 - [govdata](https://www.govdata.de/) → bietet Zugang zu offenen Daten von Bundes-, Landes- und Kommunalverwaltungen in Deutschland
 
@@ -86,7 +86,7 @@ Beispiele für Metasuchmaschinen und Datenportale:
 
 ## Repositorien
 
-<img align="right" width="20%" alt="Icon__Repositorium" src="../medien/icons/G-0034_BUW_Icon_Repositorium.svg?autoSizes=true">
+<img align="right" width="20%" alt="Icon__Repositorium" src="/medien/icons/G-0034_BUW_Icon_Repositorium.svg?autoSizes=true">
 
 Neben Metasuchmaschinen und Datenportalen sind sogenannte Repositorien im Forschungsprozess
 die bevorzugten Webseiten zur kategorisierten und langfristigen Suche nach qualitativ hochwertigen
@@ -97,7 +97,7 @@ Datensätzen.
 > organisieren, um die Auffindbarkeit und Zugänglichkeit der Daten zu sichern.“
 > -- (forschungsdaten.org, 2015).
 
-<img src="../medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
+<img src="/medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
      alt="Icon_Beispiel"
      style="float: left; margin-right: 10px; width: 18%;" />
      
@@ -123,7 +123,7 @@ Datensätzen zur Nachnutzung im Forschungsprozess eignen. Doch auch Repositorien
 sich qualitativ und inhaltlich. Folgend sind einige Merkmale aufgelistet, die darauf hinweisen, ob es
 sich um ein qualitatives Repositorium eignet (TKFDM o.D.):
 
-<img align="right" width="25%" alt="Icon__Qualitätskontrolle" src="../medien/icons/0024_THK_Qualitätskontrolle.svg?autoSizes=true">
+<img align="right" width="25%" alt="Icon__Qualitätskontrolle" src="/medien/icons/0024_THK_Qualitaetskontrolle.svg?autoSizes=true">
 
 - PID für Datensätze
 - PID für Autoren
@@ -152,7 +152,7 @@ zertifiziert werden, wenn:
 >   
 ## Persistente Identifikatoren (PID)
 
-<img align="right" width="15%" alt="Icon__PID" src="../medien/icons/0021_THK_PID.svg?autoSizes=true">
+<img align="right" width="15%" alt="Icon__PID" src="/medien/icons/0021_THK_PID.svg?autoSizes=true">
 
 Eines der Qualitätsmerkmale eines Repositoriums sind Persistente Idenfikatoren. Doch was bedeutet
 das? "Ein Persistenter Identifikator (Persistent Identifier; PID) ist eine konstante Internet-Adresse für
@@ -174,7 +174,7 @@ während des Forschungsprozesses und zur Publikation von Forschungsdaten verwend
 
 ## Wichtige Aspekte bei der Nachnutzung von Daten
 
-<img align="right" width="15%" alt="Icon__Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
+<img align="right" width="15%" alt="Icon__Nachnutzung" src="/medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
 
 Um bereits erhobene und publizierte Daten nach wissenschaftlichen Standards nachzunutzen, sind
 einige Aspekte zu beachten.
@@ -203,7 +203,7 @@ international gültig.
 
 ::: info CC BY
 
-<img src="../medien/icons/CC-BY.png"
+<img src="/medien/lizenzen/CC-BY.png"
      alt="Icon_CC-BY"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -218,7 +218,7 @@ der Urheber des Originals genannt wird.
 
 ::: info CC BY-SA
 
-<img src="../medien/icons/CC-BY-SA.png"
+<img src="/medien/lizenzen/CC-BY-SA.png"
      alt="Icon_CC-BY-SA"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -236,7 +236,7 @@ werden.
 
 ::: info CC BY-ND
 
-<img src="../medien/icons/CC_BY_ND.png"
+<img src="/medien/lizenzen/CC_BY_ND.png"
      alt="Icon_CC_BY_ND"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -251,7 +251,7 @@ der Urheber genannt wird.
 
 ::: info CC BY-NC
 
-<img src="../medien/icons/CC-BY-NC.png"
+<img src="/medien/lizenzen/CC-BY-NC.png"
      alt="Icon_CC-BY_NC"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -264,7 +264,7 @@ wie CC BY – zusätzlich mit der Einschränkung
 
 ::: info CC BY-NC-SA
 
-<img src="../medien/icons/CC-BY-NC-SA.png"
+<img src="/medien/lizenzen/CC-BY-NC-SA.png"
      alt="Icon_CC-BY_NC_SA"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -277,7 +277,7 @@ Einschränkung „nur nicht kommerziell“
 
 ::: info CC BY-NC-ND
 
-<img src="../medien/icons/CC-BY-NC-ND.png"
+<img src="/medien/lizenzen/CC-BY-NC-ND.png"
      alt="Icon_CC-BY_NC_ND"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -340,7 +340,7 @@ platzsparender – mit einem Hyperlink
 
 ## Mögliche Zitation von Datensätzen 
 
-<img align="right" width="12%" alt="Icon_Zitieren" src="../medien/icons/0015_THK_Zitieren.svg?autoSizes=true">
+<img align="right" width="12%" alt="Icon_Zitieren" src="/medien/icons/0015_THK_Zitieren.svg?autoSizes=true">
 
 > - Urheber (Veröffentlichungsdatum): Titel. Publikationsagent. Identifikator
 > oder
@@ -377,7 +377,7 @@ platzsparender – mit einem Hyperlink
 <!-- Quiz von BUW hinzufügen https://moodle.uni-wuppertal.de/mod/book/view.php?id=471681&chapterid=4552#mod_book-chapter -->
 ### Leitfragen 
 
-<img align="left" width="10%" alt="Icon_Fragezeichen" src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
+<img align="left" width="10%" alt="Icon_Fragezeichen" src="/medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
      
 1. Wie kann nach Forschungsdaten recherchiert werden?
 2. Welche Möglichkeiten/Initiativen gibt es, die Nachnutzung von Forschungsdaten zu
@@ -386,14 +386,14 @@ platzsparender – mit einem Hyperlink
 
 ### Aufgabe: 
 
-<img align="left" width="10%" alt="Icon_Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
+<img align="left" width="10%" alt="Icon_Aufgabe" src="/medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio
 
 ## Weiterführende Materialen und Quellen 
 
-<img align="right" width="15%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
+<img align="right" width="15%" alt="Icon_Findability" src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 
 ### Literatur
 

@@ -11,7 +11,7 @@ aside: true
 # Ethische Aspekte
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 11_LE_Ethische-Aspekte. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/11_LE_Ethische-Aspekte.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 11_LE_Ethische-Aspekte. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/11_LE_Ethische-Aspekte.html
 :::
 
 [[toc]]
@@ -26,7 +26,7 @@ Informationen ohne Gewähr auf Richtigkeit und Vollständigkeit.
 
 ::: info Lernziele
 
-<!-- <img src="../medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true"
+<!-- <img src="/medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true"
      alt="Icon_Respekt"
      style="float: left; margin-right: 20px; width: 20%;" /> -->
 
@@ -50,7 +50,7 @@ Quelle: Digitalbevaringdk Links2_DigitalBevaring
 
 <!-- Abbildung 0062_THK_Ethik einfügen --> 
 
-<img align="right" width="15%" alt="Icon_DSGVO" src="../medien/icons/0031_THK_DSGVO.svg?autoSizes=true">
+<img align="right" width="15%" alt="Icon_DSGVO" src="/medien/icons/0031_THK_DSGVO.svg?autoSizes=true">
 
 Ein ethischer Umgang mit Daten ist bei (Forschungs-)Projekten während des gesamten Datenlebenszyklus Pflicht, 
 um zu gewährleisten, dass Subjekte, aber auch Forschende, geschützt werden. Ein
@@ -64,15 +64,15 @@ und Löschen der Daten, befolgt werden müssen.
 
 berücksichtigt:
 
-<img align="left" width="6%" alt="Icon_GWP" src="../medien/icons/0008_THK_GWP.svg?autoSizes=true">
+<img align="left" width="6%" alt="Icon_GWP" src="/medien/icons/0008_THK_GWP.svg?autoSizes=true">
 
 - die Regeln der Guten wissenschaftlichen Praxis, inkl. Transparenz des Forschungsprozesses, Veröffentlichung und die Beachtung von und Einhaltung der FAIR-Prinzipien.
 
-<img align="left" width="6%" alt="Icon_DSGVO" src="../medien/icons/0031_THK_DSGVO.svg?autoSizes=true">
+<img align="left" width="6%" alt="Icon_DSGVO" src="/medien/icons/0031_THK_DSGVO.svg?autoSizes=true">
 
 - den Datenschutz, insbesondere im Umgang mit sensiblen Daten, beim Schutz von Persönlichkeitsrechten und bei der Bewahrung von Betriebsgeheimnissen.
 
-<!-- <img align="left" width="6%" alt="Icon_Respekt" src="../medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true"> -->
+<!-- <img align="left" width="6%" alt="Icon_Respekt" src="/medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true"> -->
 
 - Ethikrichtlinien.
 - ethische Implikationen und Risiken (ggf. Ethikkommission einbinden/Ethikantrag stellen).
@@ -134,7 +134,7 @@ Die CARE-Prinzipien dienen insbesondere dazu, Forschende dafür zu sensibilisier
 Rahmen von Open Data und Open Science, die Interessen und individuellen und kollektiven Rechte
 zur Selbstbestimmung indigener Bevölkerungsgruppen zu bewahren.
 
-<!-- <img align="right" width="10%" alt="Icon_Respekt" src="../medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true"> -->
+<!-- <img align="right" width="10%" alt="Icon_Respekt" src="/medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true"> -->
 
 Die CARE-Prinzipien sind menschen- und zweckorientiert und spiegeln die entscheidende Rolle von
 Daten bei der Förderung indigener Innovation und Selbstbestimmung wider. Aus diesem Grund sind die CARE-Prinzipien besonders relevant in Disziplinen wie Anthropologie, Sozialwissenschaften und anderen Bereichen, die spezifische ethische Anforderungen an die Handhabung von Daten stellen. (GIDA o. D.; Carroll 2019).
@@ -154,14 +154,14 @@ englischen Fassung oder in der deutschen Fassung. --> <!-- hier ist die Verlinku
 
 ### Lektüre
 
-<img align="left" width="10%" alt="Icon_Buch" src="../medien/icons/0038_THK_Buch.svg?autoSizes=true">
+<img align="left" width="10%" alt="Icon_Buch" src="/medien/icons/0038_THK_Buch.svg?autoSizes=true">
 
 Carroll, S. R., Hudson, M., Chapman, J. et al. (2019, 1. September). Die CARE-Prinzipien für
 indigene Data Governance. [https://doi.org/10.5281/zenodo.5995059](https://doi.org/10.5281/zenodo.5995059).
 
 ### Leitfragen
 
-<img align="left" width="10%" alt="Icon_Fragezeichen" src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
+<img align="left" width="10%" alt="Icon_Fragezeichen" src="/medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
 
 1. Kennen Sie Beispiele, in denen Forschende in ethische Dilemmata geraten sind? Benennen Sie diese.
 2. In welchen Disziplinen/Forschungsbereichen können Ihrer Meinung nach ethische
@@ -171,14 +171,14 @@ indigene Data Governance. [https://doi.org/10.5281/zenodo.5995059](https://doi.o
 
 ### Aufgabe
 
-<img align="left" width="10%" alt="Icon_Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
+<img align="left" width="10%" alt="Icon_Aufgabe" src="/medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ## Weiterführende Materialen und Quellen
 
-<img align="right" width="15%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
+<img align="right" width="15%" alt="Icon_Findability" src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 
 ### Literatur
 

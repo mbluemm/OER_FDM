@@ -11,7 +11,7 @@ aside: true
 # Metadaten
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 06_LE_Metadaten. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/06_LE_Metadaten.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 06_LE_Metadaten. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/06_LE_Metadaten.html
 :::
 
 [[toc]]
@@ -46,13 +46,13 @@ Aspekte rund um die Daten festzuhalten. Je länger man die Metadaten-Erstellung 
 eher läuft man Gefahr, dass einige Informationen nicht mehr rekonstruiert werden können (bspw. die
 Herkunft einzelner Daten).
 
-<img src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true"
+<img src="/medien/icons/0005_THK_Metadaten.svg?autoSizes=true"
      alt="Icon_Metadaten"
      style="float: left; margin-right: 20px; width: 10%;" />
 
 ## Wozu dienen Metadaten?
 
-<img src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true"
+<img src="/medien/icons/0005_THK_Metadaten.svg?autoSizes=true"
      alt="Icon_Metadaten"
      style="float: left; margin-right: 20px; width: 10%;" />
 
@@ -97,7 +97,7 @@ von Daten.
 
 ## Arten von Metadaten
 <!-- Icon_Rechercheergebnisse
-<img src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true"
+<img src="/medien/icons/0005_THK_Metadaten.svg?autoSizes=true"
      alt="Icon_Metadaten"
      style="float: left; margin-right: 20px; width: 10%;" />
 
@@ -216,7 +216,7 @@ Nachfolgend sind exemplarisch einige Metadatenstandards aus unterschiedlichen Di
 
 ### Leitfragen
 
-<img src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
+<img src="/medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
      alt="Icon_Fragezeichen"
      style="float: left; margin-right: 10px; width: 15%;" />
 
@@ -226,7 +226,7 @@ Nachfolgend sind exemplarisch einige Metadatenstandards aus unterschiedlichen Di
 
 ### Aufgabe
 
-<img src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
+<img src="/medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
      alt="Icon_Aufgabe"
      style="float: left; margin-right: 10px; width: 15%;" />
 
@@ -235,7 +235,7 @@ reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ## Weiterführende Materialen und Quellen
 
-<img src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
+<img src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
      alt="Icon_Findability"
      style="float: left; margin-right: 20px; width: 10%;" />
 

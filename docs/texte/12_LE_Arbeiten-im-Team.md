@@ -11,7 +11,7 @@ aside: true
 # Kollaboratives Arbeiten
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 12_LE_Arbeiten-im-Team. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/12_LE_Arbeiten-im-Team.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 12_LE_Arbeiten-im-Team. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/12_LE_Arbeiten-im-Team.html
 :::
 
 [[toc]]
@@ -21,9 +21,9 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 <!-- hier noch Video von Medienagentur sowie im Skript Abbildungen 0050_THK_Kollaboratives_Arbeiten ; 052_THK_Wiederverwendbarkeit ; 0053_THK_Tools einfügen -->
 
 ::: info Lernziele
-<!-- <img src="../medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
+<img src="/medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
      alt="Icon_Zusammenarbeit"
-     style="float: left; margin-right: 10px; width: 10%;" /> -->
+     style="float: left; margin-right: 10px; width: 10%;" />
      
 In diesem Themenblock lernen Sie die Relevanz und Vorteile von kollaborativer Arbeit mit Daten
 kennen, aber auch mögliche Herausforderungen. Ebenso wird thematisiert, was beim kollaborativen
@@ -43,7 +43,7 @@ Arbeiten mit Daten, insbesondere bezüglich des FDM, beachtet werden sollte.
 
 ## Warum ist eine kollaborative Arbeit von Vorteil?
 
-<img width="15%" align="right" alt="Icon_froehliche_Person" src="../medien/icons/0022_THK_froehliche_Person.svg?autoSizes=true">
+<img width="15%" align="right" alt="Icon_froehliche_Person" src="/medien/icons/0022_THK_froehliche_Person.svg?autoSizes=true">
 
 - Interdisziplinarität und breiteres, gesteigertes Fachwissen von unterschiedlichen Beteiligten
 - Effizienzsteigerung, u. a. durch Verteilung von Arbeitsaufträgen
@@ -57,7 +57,7 @@ Arbeiten mit Daten, insbesondere bezüglich des FDM, beachtet werden sollte.
 
 ## Welche Herausforderungen müssen beim kollaborativen Arbeiten gemeistert werden?
 
-<img width="15%" align="right" alt="Icon_nachdenkende_Person" src="../medien/icons/0023_THK_nachdenkende_Person.svg?autoSizes=true">
+<img width="15%" align="right" alt="Icon_nachdenkende_Person" src="/medien/icons/0023_THK_nachdenkende_Person.svg?autoSizes=true">
 
 - Gemeinsame Organisation und zeitgleichen Bearbeitung von Daten/Dateien
 - Klärung der Verantwortlichkeiten und Zuständigkeiten
@@ -70,21 +70,21 @@ Arbeiten mit Daten, insbesondere bezüglich des FDM, beachtet werden sollte.
 
 ## Welche FDM-Aspekte müssen beim kollaborativen Arbeiten mit Daten beachtet werden?
 
-<img width="10%" align="right" alt="Icon_Planung" src="../medien/icons/G-0015_BUW _Icon_Planung.svg?autoSizes=true">
-<img width="10%" align="right" alt="Icon_Organisieren" src="../medien/icons/0006_THK_Organisieren.svg?autoSizes=true">
+<img width="10%" align="right" alt="Icon_Planung" src="/medien/icons/G-0015_BUW _Icon_Planung.svg?autoSizes=true">
+<img width="10%" align="right" alt="Icon_Organisieren" src="/medien/icons/0006_THK_Organisieren.svg?autoSizes=true">
      
 Beim kollaborativen Arbeiten mit Daten sollte eine kooperative Arbeitsweise und eine koordinierte Planung des FDMs erfolgen.
 Dazu gehört die Daten systematisch zu strukturieren und zu verwalten, etwa in Form von Dateinamen, 
 Ordner- und Dateistrukturen sowie der Vergabe von Metadaten. 
 
-<!-- <img width="15%" align="right" alt="Icon_Zusammenarbeit" src="../medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"> -->
+<!-- <img width="15%" align="right" alt="Icon_Zusammenarbeit" src="/medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"> -->
     
 Ein weiterer wichtiger Aspekt ist die Arbeitsteilung und Kommunikation. Für eine effektive Arbeitsaufteilung sind Besprechungen nötig, 
 bei denen nicht nur Aufgaben(bereiche), sondern auch Verantwortlichkeiten verbindlich festgelegt werden. Die Festlegung von Rollen ist dabei ebenfalls hilfreich. Mithilfe einer guten Kommunikation lassen sich Missverständnisse und Doppelarbeit vermeiden.
 
 Um die Kommunikation, die Organisation und die Datenbearbeitung im Team zu erleichtern, gibt es zahlreiche Tools (s. Quellen).
     
-<img width="15%" align="right" alt="Icon_Zugriffsrechte" src="../medien/icons/0019_THK_Zugriffsrechte.svg?autoSizes=true">
+<img width="15%" align="right" alt="Icon_Zugriffsrechte" src="/medien/icons/0019_THK_Zugriffsrechte.svg?autoSizes=true">
    
 Beim kollaborativen Arbeiten mit Daten müssen auch Datenschutzaspekte beachtet werden, 
 um persönliche Informationen und sensible Daten zu schützen. Die Berücksichtigung der DSGVO und von ethischen Aspekten ist
@@ -94,7 +94,7 @@ Dazu ist es hilfreich, die Daten nach Vertraulichkeit zu kategorisieren.
 
 ## Aufgabe
 
-<img align="right" width="10%" alt="Icon_Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
+<img align="right" width="10%" alt="Icon_Aufgabe" src="/medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
 
 Wählen Sie jeweils ein beliebiges Tool/eine beliebige Plattform für eine kollaborative Arbeit mit Daten, 
 tragen Sie sich in die Auswahlliste ein und
@@ -117,7 +117,7 @@ Aspekte:
 
 ### Literatur
 
-<img align="right" width="15%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
+<img align="right" width="15%" alt="Icon_Findability" src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 
 Die unten angegebenen Quellen dienen auch als weiterführende Literatur.
 
