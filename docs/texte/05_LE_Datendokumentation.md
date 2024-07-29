@@ -22,7 +22,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 In diesem Themenblock lernen Sie, was die Dokumentation von Daten beinhaltet, welchen Nutzen
 diese hat und welche Informationen in einer Dokumentation enthalten sein können. Außerdem wird
 Ihnen eine Checkliste zur Dokumentation von Daten an die Hand gegeben, die alle relevanten
-Aspekte für Studierende abdeckt und die Sie zukünftig für wichtige Forschungsarbeiten ausfüllen
+Aspekte für Studierende abdeckt und die Sie zukünftig für Forschungsarbeiten ausfüllen
 können.
 :::
 
