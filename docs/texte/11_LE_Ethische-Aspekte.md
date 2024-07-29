@@ -93,7 +93,7 @@ Pflicht:
 > - Austausch von Wissen und Technologie mit Drittländern
 > - Sicherheitsrelevante Forschung (Dual Use (DFG 2023) <!-- verlinkung? --> ), bei der Potential zum Missbrauch der
     Forschungsergebnisse besteht oder bei der ein anderweitiges besonderes Gefahrenpotenzial
-    besteht.
+    besteht."
 > -- (Forschungsdaten.info 2023a)
 
 <!-- Abbildung 0061_THK_Personenbezogene_Daten einfügen --> 
@@ -137,7 +137,7 @@ zur Selbstbestimmung indigener Bevölkerungsgruppen zu bewahren.
 <!-- <img align="right" width="10%" alt="Icon_Respekt" src="/medien/icons/G-0093_BUW_Icon_Respekt.svg?autoSizes=true"> -->
 
 Die CARE-Prinzipien sind menschen- und zweckorientiert und spiegeln die entscheidende Rolle von
-Daten bei der Förderung indigener Innovation und Selbstbestimmung wider. Aus diesem Grund sind die CARE-Prinzipien besonders relevant in Disziplinen wie Anthropologie, Sozialwissenschaften und anderen Bereichen, die spezifische ethische Anforderungen an die Handhabung von Daten stellen. (GIDA o. D.; Carroll 2019).
+Daten bei der Förderung indigener Innovation und Selbstbestimmung wider. Aus diesem Grund sind die CARE-Prinzipien besonders relevant in Disziplinen wie Anthropologie, Sozialwissenschaften und anderen Bereichen, die spezifische ethische Anforderungen an die Handhabung von Daten stellen (GIDA o. D.; Carroll 2019).
 
 > „Mit Beachtung der CARE-Prinzipien soll u. a. verhindert werden, dass aufgrund unterschiedlicher
 > Machtverhältnisse oder historisch bedingter Ungleichheit das Selbstbestimmungsrecht indigener
