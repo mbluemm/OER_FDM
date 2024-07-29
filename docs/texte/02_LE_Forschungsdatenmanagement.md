@@ -222,11 +222,11 @@ Organisation, Dokumentation und Verwaltung von Daten. Ein strukturiertes FDM ste
 
 ## Was ist Gute wissenschaftliche Praxis?
 
-> Gute wissenschaftliche Praxis (GWP) erfordert strenge Sorgfalt bei der Gewinnung und Auswertung
+> "Gute wissenschaftliche Praxis (GWP) erfordert strenge Sorgfalt bei der Gewinnung und Auswertung
 > von Daten und beinhaltet die eindeutige und nachvollziehbare Dokumentation des
 > Entstehungskontextes und der benutzten Werkzeuge und Verfahren nach fachspezifischen
 > Standards. Zur Dokumentation von Forschungsdaten gehört auch die Angabe von Quellen,
-> Inhaberschaft und Berechtigung zur Nutzung und Veröffentlichung.
+> Inhaberschaft und Berechtigung zur Nutzung und Veröffentlichung."
 >
 > -- (Präsidium der TH Köln 2021)
 
