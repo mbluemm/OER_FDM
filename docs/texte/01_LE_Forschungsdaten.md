@@ -66,7 +66,7 @@ hinausgehen.
 <img align="left" width="15%" alt="Icon_Datentyp_Objekte" src="/medien/icons/0004_THK_Datentyp_Objekte.svg?autoSizes=true">
 <img width="15%" align="center" alt="Icon_Datentyp-Audiodateien" src="/medien/icons/0002_THK_Datentyp-Audiodateien.svg?autoSizes=true">
 
-In diesem Kurs werden die Begriffe „Daten“ und „Dateien“ häufiger verwendet. Für den fortlaufenden Kurs sind sie wie folgt definiert:
+In diesem Kurs werden die Begriffe „Daten“ und „Dateien“ häufiger verwendet. Für den fortlaufenden Kurs sind sie wie folgt definiert[^1]:
 
 ::: tip Daten
 <img src="/medien/icons/0032_THK_Datensatz.svg?autoSizes=true"
@@ -82,13 +82,13 @@ Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfa
      style="float: left; margin-right: 10px; width: 10%;" />
 Eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeicherte und zugreifbare Menge von Daten“.
 :::
-
-> -- (Quele: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften, [Daten](https://www.dwds.de/wb/Daten) und [Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023.)
+---
+[^1]: Quele: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften, [Daten](https://www.dwds.de/wb/Daten) und [Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023
 
 ## Welche Datentypen gibt es?
 
 <!-- Differenzierung von Daten (Medientyp, Datenformat...) aus BUW-Kurs ergänzen: https://moodle.uni-wuppertal.de/mod/book/view.php?id=471662&chapterid=4506#mod_book-chapter -->
-Es gibt Primärdaten und Sekundärdaten[^1]
+Es gibt Primärdaten und Sekundärdaten[^2]
 
 ::: tip Primärdaten
 <img src="/medien/icons/G-0094_BUW_a_Icon_Primaerdaten.svg?autoSizes=true"
@@ -107,8 +107,8 @@ Es gibt Primärdaten und Sekundärdaten[^1]
 > - sind Daten, die aus Primärdaten durch Verarbeitungsschritte hervorgehen.
 > - Es handelt sich um abgeleitete oder prozessierte Daten, die im Rahmen der Primärdatenverarbeitung als Ergebnis z. B. als Publikation anfallen.
 :::
-
-> -- (Präsidium der TH Köln 2021, S. 8.)
+---
+[^2]: Quelle: Präsidium der TH Köln 2021, S. 8.
 
 ## Die Relevanz von Forschungsdaten
 
