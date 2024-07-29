@@ -101,7 +101,7 @@ Datensätzen.
 > möglichst dauerhaft – anhand der Anforderungen der jeweiligen Nutzergruppe – speichern und
 > organisieren, um die Auffindbarkeit und Zugänglichkeit der Daten zu sichern.“
 > 
-> -- (forschungsdaten.org 2015).
+> -- (forschungsdaten.org 2015)
 
 <img src="/medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
      alt="Icon_Beispiel"
