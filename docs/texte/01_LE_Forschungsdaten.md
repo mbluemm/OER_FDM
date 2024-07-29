@@ -30,7 +30,10 @@ In diesem Themenblock geht es darum, den Begriff „Forschungsdaten“ zu defini
 
 Forschungsdaten sind (digitale) Daten, die im Rahmen wissenschaftlicher Untersuchungen beispielsweise durch Digitalisierung, Quellenforschungen, Experimente oder Messungen gesammelt, generiert oder analysiert werden. Diese Daten spielen eine essenzielle Rolle bei der Erstellung von
 Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlichen Argumentationen.
-<!-- das Zitat ist kein voller Satz
+Forschungsdaten sind nicht
+nur isolierte Informationen, sondern vielmehr Bausteine, die zur Entwicklung von neuem Wissen und
+zur Unterstützung von Forschungsarbeiten beitragen.
+<!-- das Zitat ist kein voller Satz:
 > Dokumente in digitaler Form, bei denen es sich nicht um wissenschaftliche Veröffentlichungen handelt und die im Laufe von wissenschaftlichen Forschungstätigkeiten erfasst oder erzeugt und als Nachweise im Rahmen des Forschungsprozesses verwendet werden oder die in der Forschungsgemeinschaft allgemein für die Validierung von Forschungsfeststellungen und -ergebnissen als notwendig erachtet werden.
 > -- Richtlinie (EU) 2019/1024 des Europäischen Parlaments und des Rates, vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors, Art. 2, Abs. 9
 -->
@@ -44,9 +47,7 @@ Textanalysen oder historische Aufzeichnungen. Auch in den Geisteswissenschaften 
 Forschungsdaten eine wichtige Rolle, sei es in Form von literarischen Texten, Kunstwerken,
 Archivmaterial oder linguistischen Daten. In den Geistes- und Kulturwissenschaften werden solche
 Daten als Forschungsdaten verstanden, die maschinenlesbar und zum Zwecke der Archivierung,
-Zitierbarkeit und zur weiteren Verarbeitung aufbewahrt werden können. Forschungsdaten sind nicht
-nur isolierte Informationen, sondern vielmehr Bausteine, die zur Entwicklung von neuem Wissen und
-zur Unterstützung von Forschungsarbeiten beitragen.
+Zitierbarkeit und zur weiteren Verarbeitung aufbewahrt werden können. 
 
 <img align="left" width="15%" alt="Icon_Datentypen_Messung" margin-right="10px" src="/medien/icons/G-0049_BUW_Icon_Datentypen_Messung.svg?autoSizes=true">
 <img align="left" width="15%" alt="Icon_Erhebung" src="/medien/icons/G-0016_BUW_Icon_Erhebung.svg?autoSizes=true">
@@ -72,7 +73,7 @@ In diesem Kurs werden die Begriffe „Daten“ und „Dateien“ häufiger verwe
      alt="Icon_Datensatz"
      style="float: left; margin-right: 10px; width: 10%;" />
 
-Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfahren o.Ä. gewonnene Informationen“
+Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfahren o. Ä. gewonnene Informationen“
 :::
 
 ::: tip Dateien
@@ -82,7 +83,7 @@ Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfa
 Eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeicherte und zugreifbare Menge von Daten“.
 :::
 
-> in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften, [Daten](https://www.dwds.de/wb/Daten) und [Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023.
+> -- (Quele: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften, [Daten](https://www.dwds.de/wb/Daten) und [Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023.)
 
 ## Welche Datentypen gibt es?
 
@@ -107,7 +108,7 @@ Es gibt Primärdaten und Sekundärdaten[^1]
 > - Es handelt sich um abgeleitete oder prozessierte Daten, die im Rahmen der Primärdatenverarbeitung als Ergebnis z. B. als Publikation anfallen.
 :::
 
-> -- Präsidium der TH Köln, 2021, S. 8.
+> -- (Präsidium der TH Köln 2021, S. 8.)
 
 ## Die Relevanz von Forschungsdaten
 
@@ -145,7 +146,7 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
  Forschungsdaten.org. (2015, 8. Oktober). Forschungsdaten. Zugriff am 18.10.2023, von [https://www.forschungsdaten.org/index.php/Forschungsdaten](https://www.forschungsdaten.org/index.php/Forschungsdaten).
 
 ## Weiterführende Materialen und Quellen
-<!-- sollte Beispiel nicht gesondert über Leitfragen und Aufgaben aufgeführt werden? Auch noch Beispiel der BUW mit der Bergkette einfügen (KF) -->
+<!-- KF: sollte Beispiel nicht gesondert über Leitfragen und Aufgaben aufgeführt werden? + Hinführung zum Beispiel, da hier nicht klar ist, wieso das hier aufgeführt wird -->
 <img src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
      alt="Icon_Findability"
      style="float: left; margin-right: 20px; width: 10%;" />
