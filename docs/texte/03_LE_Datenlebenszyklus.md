@@ -68,7 +68,7 @@ Quelle: Arbeitskompass zum Thema FDM, Katharina Fritsch.
 
 <!-- G-0015_BUW _Icon_Planung -->
 
-Zu Beginn des Forschungsvorhabens oder Projekts steht die Planung an einschließlich der ersten
+Zu Beginn des Forschungsvorhabens oder Projekts steht die Planung an einschließlich der
 Erstellung einer ersten Dokumentation. Während des gesamten Projekts ist die kontinuierliche
 Dokumentation von großer Bedeutung. Es ist von grundlegender Wichtigkeit von Anfang
 an schriftlich festzuhalten, wie die Daten im Laufe des Projekts behandelt werden sollen, um für
@@ -120,7 +120,7 @@ einschließlich der einheitlichen Speicherung, Sicherung und Verwaltung der Date
 Erfassung und Erstellung von Metadaten und einer gründlichen Dokumentation. 
 Bei der Aufbewahrung und Sicherung von Daten ist es wichtig, 
 neben den klaren Dateinamen und einer geregelten Versionskontrolle aus vorherigen Phasen, 
-auch eine gut durchdachte Ordnerstruktur und die 3-2-1-Backup-Regel zu berücksichtigen.
+eine gut durchdachte Ordnerstruktur und die 3-2-1-Backup-Regel zu berücksichtigen.
 
 ### Mit Daten arbeiten: Aufbereiten und analysieren
 
@@ -130,7 +130,7 @@ Während der Datenverarbeitung erfolgt die praktische Bearbeitung von Daten, ink
 Aufbereitung, Analyse und Interpretation. In dieser Phase werden die Daten, die entweder selbst
 erstellt oder von anderen wiederverwendet wurden, aktiv verarbeitet. Dies kann durch Aktivitäten wie
 Dateneingabe, Digitalisierung, Konvertierung, Transkription oder Übersetzung erfolgen. Es ist auch
-wichtig, die Daten hier zu sichern, zu überprüfen, zu validieren und bei Bedarf zu reinigen und zu
+wichtig, die Daten zu sichern, zu überprüfen, zu validieren und bei Bedarf zu reinigen und zu
 anonymisieren. Bei der Datenverarbeitung können verschiedene Tools und
 Programmiersprachen hilfreich sein. Nach der quantitativen, qualitativen oder gemischten
 Analyse der bearbeiteten Daten werden diese interpretiert und bewertet. Die daraus hervorgehenden Ergebnisse werden dann wiederum in Form von verbalen
@@ -139,18 +139,18 @@ Erklärungen, Bewertungen und visuellen Darstellungen präsentiert.
 Auch in diesem Abschnitt ist eine sorgfältige Organisation und Dokumentation aller Schritte,
 besonders mit Blick auf zukünftiges Verständnis, äußerst ratsam. Um die Bearbeitung und
 Wiederauffindbarkeit der Daten zu erleichtern, werden bei der Speicherung und Sicherung sinnvolle
-Dateinamen verwendet, Versionskontrolle beachtet und zusätzliche Metadaten eingefügt. 
+Dateinamen verwendet und zusätzliche Metadaten eingefügt. 
 
 ### Daten aufbewahren und bereitstellen
 
 <!-- G-0018_BUW_Icon_Archivierung ; 0009_THK_Veroeffentlichen -->
 
-Bei der Aufbewahrung und Bereitstellung von Daten ist es wichtig, dass diese zugänglich, zitierfähig, qualitativ 
+Bei der Aufbewahrung und Bereitstellung von Daten ist es wichtig, dass diese zugänglich, zitierfähig
 und erschlossen sind (genauer unter dem Punk ["Daten erfassen"](#Daten-erfassen)). 
-Außerdem sollten in weit verbreiteten und nicht-proprietären Dateiformaten verfügbar sein.
+Außerdem sollten sie in weit verbreiteten und nicht-proprietären Dateiformaten verfügbar sein.
 
-Bei der Weitergabe und gemeinsamen Nutzung von Daten, sei es mit Kommilitonen für Studienprojekte oder zur Abgabe bei Lehrkräften, 
-ist es entscheidend, die Datenethik und rechtliche Aspekte im Auge zu behalten und Zugriffsrechte angemessen zu verwalten. 
+Bei der Weitergabe und gemeinsamen Nutzung von Daten, sei es mit Kommiliton:innen für Studienprojekte oder zur Abgabe bei Lehrkräften, 
+ist es entscheidend, die ethischen und rechtlichen Aspekte im Umgang mit Daten im Auge zu behalten und Zugriffsrechte angemessen zu verwalten. 
 
 Bei einer Publikation oder Langzeitarchivierung sind weitere Schritte erforderlich. Dazu gehört die Auswahl eines geeigneten Archivs, 
 wie beispielsweise eines Repositoriums, sowie die Definition der Urheberrechte und Festlegung von Zugriffsrechten für diejenigen, 
@@ -173,7 +173,7 @@ der Deutschen Forschungsgemeinschaft (Deutsche Forschungsgemeinschaft 2022) fest
 
 ### Aufgaben
 
-Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
+Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Frage.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 <!-- Aufgabe : Drag&Drop zu: Ordne die Stationen dem Datenlebenszyklus zu --> 

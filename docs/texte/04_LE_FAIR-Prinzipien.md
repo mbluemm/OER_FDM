@@ -36,9 +36,6 @@ sind.
 
 Die FAIR-Prinzipien stellen international anerkannte Leitlinien, um nachhaltige und wiederverwendbare Forschungsdaten zu gewährleisten.
 
----
-Quelle: Forschungsdaten.info, 2023b
-
 <img align="left" width="15%" alt="Icon_Leitlinien" src="/medien/icons/0007_THK_Leitlinien.svg?autoSizes=true">
 
 An der TH Köln sollen Studierende und Forschende ihre Daten FAIR aufbereiten. Ein Ziel ist, dass Forschungsdaten von Menschen und Maschinen ausgewertet werden können. Damit soll die Auffindbarkeit von Datensätzen und deren Wiederverwendbarkeit gewährleistet werden.
@@ -149,7 +146,7 @@ wiederverwendet und weiterverarbeitet werden können. Dafür sind mehrere Aspekt
 2. Nennen Sie Beispiele, in welchem Kontext die FAIR-Prinzipien in Ihrem Studium bereits angewendet wurden und zukünftigt angewendet werden können.
 
 ### Aufgabe
-
+<!-- Quiz "Wahr oder falsch" ergänzen (Aufgabe Train-the-Trainer, S. 33) -->
 <img src="/medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
      alt="Icon_Aufgabe"
      style="float: left; margin-right: 10px; width: 15%;" />

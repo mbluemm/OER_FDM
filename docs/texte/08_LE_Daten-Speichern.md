@@ -22,7 +22,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 ::: info Lernziele
 In diesem Themenblock lernen Sie die Speicherung von Daten und Dateien kennen, welche Aspekte 
-dabei im Forschungsprozess zu beachten sind und welchen Empfehlungen zu befolgen ist. 
+dabei im Forschungsprozess zu beachten sind und welchen Empfehlungen zu folgen ist. 
 Außerdem lernen Sie über Vor- und Nachteile verschiedener Speichermedien sowie unterschiedlicher
 Datenformate.
 :::
@@ -35,8 +35,8 @@ Datenformate.
 
 Im FDM ist eine sinnvolle Speicherung von Daten eine Voraussetzung für die Gute wissenschaftliche
 Praxis (GWP) und gewährleistet die Möglichkeit einer langfristigen Nachnutzbarkeit der Daten. Um
-möglichst zu verhindern, dass Daten beschädigt werden, verloren gehen oder veralten, ist es sinnvoll,
-bei der Speicherung von Daten und Dateien einige Aspekte zu beachten. So kann vorgebeugt
+möglichst zu verhindern, dass Daten beschädigt werden, verloren gehen oder veralten, sollten
+bei der Speicherung von Daten und Dateien einige Aspekte beachtet werden. So kann vorgebeugt
 werden, dass Daten bspw. aufgrund technischer Fehler etwa durch einen Schaden an der Festplatte
 oder aufgrund veralteter Software nicht mehr lesbar sind oder versehentlich gelöscht werden.
 
@@ -62,7 +62,10 @@ Dateien insbesondere darauf geachtet werden, dass diese:
 - in mehreren Kopien,
 - in weit verbreiteten Datenformaten,
 - von den Rohdaten getrennt,
-- strukturiert (zu einem festgelegten Zeitpunkt) und einheitlich erfolgt.
+- strukturiert (zu einem festgelegten Zeitpunkt) und
+- einheitlich
+
+erfolgt.
   
 Darüber hinaus ist es wichtig, die 3 - 2 - 1 - Regel zu beachten. Gleichermaßen sollte die Sicherung der Daten mit einer guten Ordner- und Dateistruktur, inklusive einer geeigneten Dateibenennung, einhergehen.
 
@@ -76,7 +79,7 @@ Abbildung: Forschungsdaten.info 2023e
 
 <!-- 0020_THK_Idee , G-0038_BUW_Icon_Diskette einfügen -->
 
-Es ist hilfreich (VerbundFDB 2018):
+Es ist hilfreich[1]:
 
 > - alle fünf Jahre die alten externen Speichermedien mit neueren auszutauschen.
 > - notwendige Softwareanwendungen in die Backup-Strategie einzubeziehen.
@@ -88,6 +91,8 @@ Es ist hilfreich (VerbundFDB 2018):
 > - offene W-LAN-Verbindungen zu vermeiden.
 > - gute Virus- und Malwarescanner zu verwenden.
 > - DSGVO-konforme Clouddienste, wie etwa die Cloud-Speicherlösung sciebo, zu wählen (https://hochschulcloud.nrw/).[^1]
+---
+[1]: Quelle: VerbundFDB 2018
 
 ::: tip
 Kostenlose Clouddienste (bspw. Google Drive, Dropbox, OneDrive) sollten nicht verwendet
@@ -98,7 +103,7 @@ werden, da deren Serverstandorte nicht in Deutschland, sondern in Amerika liegen
 [^1]: Hier empfiehlt es sich zu prüfen, wie lange auf die Hochschuldienste zugegriffen werden kann.
 
 ## Sicherer Passwortschutz
-<!-- sollte das nicht rausgelöscht werden? Und wenn nicht, wie einbinden? -->
+<!-- KF: sollte das nicht rausgelöscht werden? Und wenn nicht, wie einbinden? -->
 ### Was ist ein gutes Passwort?
 
 Die Daten (Dateien und Ordner) sollten wo es möglich ist, mit
@@ -106,7 +111,7 @@ einem Passwort geschützt sein (insbesondere bei sensiblen Daten).
 Für einen Überblick von sicheren Passwörtern kann eine Passwortmanagement-Software helfen.
 
 ### Beispiele für Passwortregel
-
+<!--  KF: hä? die Überschrift passt nicht zum Inhalt??? --> 
 Universitäten und Hochschulen haben interne Leitlinien zum Umgang mit Forschungsdaten erstellt,
 wie beispielsweise die Leitlinie der Technischen Hochschule Köln (Präsidium der TH Köln, 2021), in der zum Thema Sicherung von Daten folgendes zusammengefasst ist:
 
@@ -162,7 +167,7 @@ Dateiformate können folgendermaßen konvertiert werden:
 - sinnhaft → wesentliche Inhalte bleiben bestehen. 
 <!-- SB: ??-->
 Mehr zu empfohlenen Textformaten (u.A.) und Konvertierungen unter Formatinformation (pdf).
-Mehr zu geeigneten und ungeeigneten Datenformaten unter (Böker 2023b).
+Mehr zu geeigneten und ungeeigneten Datenformaten unter (Böker 2023b). <!-- KF: und hier meinerseits: ?? Einfach löschen?-->
 
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Lyd_Digitalisering.png"><img width="512" alt="Lyd Digitalisering" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lyd_Digitalisering.png/512px-Lyd_Digitalisering.png"></a>

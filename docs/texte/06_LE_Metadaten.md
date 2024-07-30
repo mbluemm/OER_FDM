@@ -37,11 +37,11 @@ die Struktur und die Bedeutung von Daten bieten. Auf diese Weise können die Dat
 verstanden, interpretiert und nachgenutzt werden.
 
 Dies ist nicht nur für den Fall, dass Dritte mit den Daten weiterarbeiten möchten, von Vorteil. Auch
-man selbst profitiert davon, da die Daten auch für einen selbst noch nach Jahren einfacher
+man selbst profitiert davon, da die Daten für einen selbst noch nach Jahren einfacher
 wiedergefunden und interpretiert werden können.
 
 Je mehr Daten anfallen und je komplexer diese sind, umso nötiger wird auch eine entsprechende
-Dokumentation. Dafür ist es wichtig, im besten Fall bereits bei der Erstellung von Daten, einige
+Dokumentation. Dafür ist es wichtig, im besten Fall bereits bei der Erstellung von Daten einige
 Aspekte rund um die Daten festzuhalten. Je länger man die Metadaten-Erstellung hinauszögert, umso
 eher läuft man Gefahr, dass einige Informationen nicht mehr rekonstruiert werden können (bspw. die
 Herkunft einzelner Daten).
@@ -117,7 +117,7 @@ Durch die Beschreibung können die Daten zudem thematisch eingeordnet werden.
     - Autorin: Dr. Anna Müller
     -  Titel: „Untersuchung der Auswirkungen von Klimawandel auf Artenvielfalt in tropischen Regenwäldern“
     - Beschreibung/Abstract: Kurze Beschreibung des Forschungsziels und der Methoden.
-    o Stichwörter/Keywords: „Klimawandel“, „Artenvielfalt“, „Regenwald“, „Ökologie“.
+    - Stichwörter/Keywords: „Klimawandel“, „Artenvielfalt“, „Regenwald“, „Ökologie“.
 :::
 
 **Administrative Metadaten** sind für die Verwaltung und langfristige Aufbewahrung der Daten notwendig.
@@ -188,14 +188,14 @@ Metadaten werden in vielen Fällen automatisch generiert.
 „**Inhaltsbeschreibende bzw. deskriptive Metadaten** variieren je nach Fachdisziplin und Methode. Sie bieten weitere Informationen zum Inhalt und der Datenerhebung.“
 
 ---
-[^1]: Aufzählungen und Beispiele nach: Böker, 2023a
+[^1]: Aufzählungen und Beispiele nach: Forschungsdaten.info 2024b
 
 ## Metadatenstandards
 
 Fächerübergreifende und fachspezifische Metadaten werden nach einem einheitlichen Schema, d. h.
 standardisiert, dokumentiert. Sogenannte Metadatenstandards bedeuten also eine einheitliche,
 standardisierte Art und Weise der Dokumentation. Ähnliche Datensätze werden dadurch inhaltlich und
-strukturell gleichförmig beschrieben. Außerdem dienen sie dazu, dass Forschergruppen auch untereinander Daten austauschen und verstehen können (Biernacka, Buchholz, Danker et al., 2021).
+strukturell gleichförmig beschrieben. Außerdem dienen sie dazu, dass Forschergruppen auch untereinander Daten austauschen und verstehen können (Biernacka, Buchholz, Danker et al. 2021).
 
 Nachfolgend sind exemplarisch einige Metadatenstandards aus unterschiedlichen Disziplinen aufgelistet:
 
@@ -209,7 +209,7 @@ Nachfolgend sind exemplarisch einige Metadatenstandards aus unterschiedlichen Di
 | Naturwissenschaften | CIF, CSMD, Darwin Core, EML, ICAT Schema Röntgenstrahlen-, Neutronen- und Myonenforschung |
 |Sozial- und Wirtschaftswissenschaften | DDI |
 
-(Krähwinkel, Langner, Lipp et al., 2022)
+(Quelle: Krähwinkel, Langner, Lipp et al. 2022)
 <!-- hier noch Beispiele von Metadaten einfügen (s. Beispielsammlung), Quiz einfügen --> 
 
 ## Leitfragen und Aufgaben

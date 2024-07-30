@@ -54,11 +54,16 @@ inklusive Tutorials angeführt, die das Finden von Datensätzen auf den jeweilig
 
 <img width="15%" align="right" alt="Icon_Suchmaschine" src="/medien/icons/0035_THK_Suchmaschine.svg?autoSizes=true">
 
-In diesem Abschnitt werden Ihnen einige Metasuchmaschinen und Datenportale vorgestellt. "Eine
-Metasuchmaschine ist ein System, das Informationen von anderen Suchmaschinen nutzt, um eine
-vollständige und angemessene Antworten auf eine Frage zu geben" (Arimetrics 2022). "Offene
-Datenportale erleichtern den Zugang zu und die Wiederverwendung von Informationen des
-öffentlichen Sektors" (European Commission 2022).
+In diesem Abschnitt werden Ihnen einige Metasuchmaschinen und Datenportale vorgestellt:
+> "Eine Metasuchmaschine ist ein System, das Informationen von anderen Suchmaschinen nutzt, um eine
+> vollständige und angemessene Antworten auf eine Frage zu geben."
+> 
+> -- (Arimetrics 2022) 
+
+>"Offene Datenportale erleichtern den Zugang zu und die Wiederverwendung von Informationen des
+> öffentlichen Sektors."
+>
+> -- (European Commission 2022)
 
 <img src="/medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
      alt="Icon_Beispiel"
@@ -95,7 +100,8 @@ Datensätzen.
 > „Digitale Forschungsdaten-Repositorien sind Informationsinfrastrukturen, die digitale Forschungsdaten
 > möglichst dauerhaft – anhand der Anforderungen der jeweiligen Nutzergruppe – speichern und
 > organisieren, um die Auffindbarkeit und Zugänglichkeit der Daten zu sichern.“
-> -- (forschungsdaten.org, 2015).
+> 
+> -- (forschungsdaten.org 2015)
 
 <img src="/medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
      alt="Icon_Beispiel"
@@ -126,7 +132,7 @@ sich um ein qualitatives Repositorium eignet (TKFDM o.D.):
 <img align="right" width="25%" alt="Icon__Qualitätskontrolle" src="/medien/icons/0024_THK_Qualitaetskontrolle.svg?autoSizes=true">
 
 - PID für Datensätze
-- PID für Autoren
+- PID für Autor:innen
 - Metadaten
 - Download- und Exportmöglichkeiten
 - Beschreibung/Dokumentation
@@ -148,15 +154,19 @@ zertifiziert werden, wenn:
 > - Die Daten in einem gebräuchlichen Format vorliegen.
 > - Die Daten zuverlässig sind.
 > - Die Daten über PIDs zitierbar sind.
-> -- (Forschungsdaten.info 2023b)
 >   
+> -- (Forschungsdaten.info 2023b)
+
 ## Persistente Identifikatoren (PID)
 
 <img align="right" width="15%" alt="Icon__PID" src="/medien/icons/0021_THK_PID.svg?autoSizes=true">
 
 Eines der Qualitätsmerkmale eines Repositoriums sind Persistente Idenfikatoren. Doch was bedeutet
-das? "Ein Persistenter Identifikator (Persistent Identifier; PID) ist eine konstante Internet-Adresse für
-digitale Objekte. Er stellt sicher, dass ein Datensatz dauerhaft auffindbar, abrufbar und zitierbar bleibt, auch wenn sich sein physischer Standort ändert" (Präsidium der TH Köln, 2021).
+das? 
+> "Ein Persistenter Identifikator (Persistent Identifier; PID) ist eine konstante Internet-Adresse für
+> digitale Objekte. Er stellt sicher, dass ein Datensatz dauerhaft auffindbar, abrufbar und zitierbar bleibt, auch wenn sich sein physischer Standort ändert"
+>
+> -- (Präsidium der TH Köln 2021).
 
 Bekannte Beispiele von PIDs sind:
 
@@ -167,10 +177,12 @@ Bekannte Beispiele von PIDs sind:
 <!-- Quelle?  bzw. hier noch Beispiele einfügen? -->
 ![](https://)
 
-Im Gegensatz zu anderen seriellen Identifikatoren (bspw. URL-Adressen) verweist ein PID auf das
-Objekt selbst und nicht auf seinen Standort im Internet. Die Forschungsdaten sollen mit PIDs
-versehen werden. Ein PID stellt sicher, dass Daten adressierbar und identifizierbar sind. Er kann
-während des Forschungsprozesses und zur Publikation von Forschungsdaten verwendet werden." (Präsidium der TH Köln, 2021).
+> "Im Gegensatz zu anderen seriellen Identifikatoren (bspw. URL-Adressen) verweist ein PID auf das
+> Objekt selbst und nicht auf seinen Standort im Internet. Die Forschungsdaten sollen mit PIDs
+> versehen werden. Ein PID stellt sicher, dass Daten adressierbar und identifizierbar sind. Er kann
+> während des Forschungsprozesses und zur Publikation von Forschungsdaten verwendet werden."
+>
+> -- (Präsidium der TH Köln 2021)
 
 ## Wichtige Aspekte bei der Nachnutzung von Daten
 
@@ -338,15 +350,15 @@ platzsparender – mit einem Hyperlink
 (Quelle: Forschungsdaten.info 2024)
 
 
-## Mögliche Zitation von Datensätzen 
+## Mögliche Zitation von Datensätzen
 
 <img align="right" width="12%" alt="Icon_Zitieren" src="/medien/icons/0015_THK_Zitieren.svg?autoSizes=true">
 
 > - Urheber (Veröffentlichungsdatum): Titel. Publikationsagent. Identifikator
 > oder
 > - Urheber (Veröffentlichungsdatum): Titel. Version. Publikationsagent. Genereller Ressourcentyp. Identifikator.
-> 
-> -- (Forschungsdaten.info 2024)
+
+> -- (Quelle: Forschungsdaten.info 2024)
 
 ### Beispielszenarien für die Zitation von Datensätzen 
 
@@ -438,4 +450,4 @@ Muuß-Merholz, J. (2021, 30. März). Die CC-Lizenzen im Überblick _–_ Welche 
 
 Präsidium der TH Köln. (2021). Leitlinie zum Umgang mit Forschungsdaten. Zugriff am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf)
 
-TKFDM (Thüringer Kompetenznetzwerks Forschungsdatenmanagement). o. D. Handreichung. Repositorien für Forschungsdaten. Zugriff am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://forschungsdaten-thueringen.de/files/material/Infomaterial/Handreichungen/handreichung_forschungsdatenrepositorien.pdf)
+TKFDM (Thüringer Kompetenznetzwerks Forschungsdatenmanagement). o. D. Handreichung. Repositorien für Forschungsdaten. Zugriff am 20. Oktober 2023, von [https://forschungsdaten-thueringen.de/files/material/Infomaterial/Handreichungen/handreichung_forschungsdatenrepositorien.pdf](https://forschungsdaten-thueringen.de/files/material/Infomaterial/Handreichungen/handreichung_forschungsdatenrepositorien.pdf)

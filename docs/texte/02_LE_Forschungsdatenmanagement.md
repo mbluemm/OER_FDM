@@ -17,7 +17,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 [[toc]]
 
 ## Lernziele
-<!-- Bei GWP einfügen: Mountains of Kong: https://moodle.uni-wuppertal.de/mod/page/view.php?id=471653 --> 
+
 ::: info Lernziele
 In diesem Themenblock wird der Begriff Forschungsdatenmanagement (FDM) und dessen Rolle in
 Forschungsprozessen erläutert. Ebenso wird thematisiert, wo FDM in der Forschungspraxis verortet
@@ -137,7 +137,7 @@ Viele Förderinstitutionen und Verlage fordern mittlerweile die
 Einhaltung bestimmter FDM-Richtlinien. Ein gutes FDM kann daher den Zugang zu Fördermitteln
 erleichtern und die Sichtbarkeit der Forschung erhöhen.
 
-## FDM in Open Science [^1]
+## FDM in Open Science
 
 <img src="/medien/icons/0014_THK_Open_Science.svg?autoSizes=true"
      alt="Icon_OpenScience"
@@ -191,7 +191,7 @@ wissenschaftlichen Diskussionen.
 
 - Qualität der Forschung verbessern
 - Forschungsförderung effizienter einsetzen
-- Bestandteil der Sicherung Guter wissenschaftlicher Praxis
+- Gute wissenschaftliche Praxis sicherstellen
 - Wissenstransfer verbessern
 
 <!-- <img src="/medien/icons/G-0133_BUW_Icon_Symbol-Qualität.svg?autoSizes=true"
@@ -222,12 +222,13 @@ Organisation, Dokumentation und Verwaltung von Daten. Ein strukturiertes FDM ste
 
 ## Was ist Gute wissenschaftliche Praxis?
 
-> Gute wissenschaftliche Praxis (GWP) erfordert strenge Sorgfalt bei der Gewinnung und Auswertung
+> "Gute wissenschaftliche Praxis (GWP) erfordert strenge Sorgfalt bei der Gewinnung und Auswertung
 > von Daten und beinhaltet die eindeutige und nachvollziehbare Dokumentation des
 > Entstehungskontextes und der benutzten Werkzeuge und Verfahren nach fachspezifischen
 > Standards. Zur Dokumentation von Forschungsdaten gehört auch die Angabe von Quellen,
-> Inhaberschaft und Berechtigung zur Nutzung und Veröffentlichung.
-> -- (Präsidium der TH Köln, 2021)
+> Inhaberschaft und Berechtigung zur Nutzung und Veröffentlichung."
+>
+> -- (Präsidium der TH Köln 2021)
 
 ### Leitlinien für das wissenschaftliche Arbeiten
 
@@ -240,7 +241,7 @@ Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 <img src="/medien/icons/0007_THK_Leitlinien.svg?autoSizes=true"
      alt="Icon_Leitlinien"
      style="float: left; margin-right: 10px; width: 15%;" />
-
+<!-- Bei GWP einfügen: Mountains of Kong: https://moodle.uni-wuppertal.de/mod/page/view.php?id=471653 --> 
 ## Leitfragen und Aufgaben
 
 ### Leitfragen
