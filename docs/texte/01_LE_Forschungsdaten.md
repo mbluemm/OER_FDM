@@ -30,7 +30,10 @@ In diesem Themenblock geht es darum, den Begriff „Forschungsdaten“ zu defini
 
 Forschungsdaten sind (digitale) Daten, die im Rahmen wissenschaftlicher Untersuchungen beispielsweise durch Digitalisierung, Quellenforschungen, Experimente oder Messungen gesammelt, generiert oder analysiert werden. Diese Daten spielen eine essenzielle Rolle bei der Erstellung von
 Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlichen Argumentationen.
-<!-- das Zitat ist kein voller Satz
+Forschungsdaten sind nicht
+nur isolierte Informationen, sondern vielmehr Bausteine, die zur Entwicklung von neuem Wissen und
+zur Unterstützung von Forschungsarbeiten beitragen.
+<!-- das Zitat ist kein voller Satz:
 > Dokumente in digitaler Form, bei denen es sich nicht um wissenschaftliche Veröffentlichungen handelt und die im Laufe von wissenschaftlichen Forschungstätigkeiten erfasst oder erzeugt und als Nachweise im Rahmen des Forschungsprozesses verwendet werden oder die in der Forschungsgemeinschaft allgemein für die Validierung von Forschungsfeststellungen und -ergebnissen als notwendig erachtet werden.
 > -- Richtlinie (EU) 2019/1024 des Europäischen Parlaments und des Rates, vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors, Art. 2, Abs. 9
 -->
@@ -44,9 +47,7 @@ Textanalysen oder historische Aufzeichnungen. Auch in den Geisteswissenschaften 
 Forschungsdaten eine wichtige Rolle, sei es in Form von literarischen Texten, Kunstwerken,
 Archivmaterial oder linguistischen Daten. In den Geistes- und Kulturwissenschaften werden solche
 Daten als Forschungsdaten verstanden, die maschinenlesbar und zum Zwecke der Archivierung,
-Zitierbarkeit und zur weiteren Verarbeitung aufbewahrt werden können. Forschungsdaten sind nicht
-nur isolierte Informationen, sondern vielmehr Bausteine, die zur Entwicklung von neuem Wissen und
-zur Unterstützung von Forschungsarbeiten beitragen.
+Zitierbarkeit und zur weiteren Verarbeitung aufbewahrt werden können. 
 
 <img align="left" width="15%" alt="Icon_Datentypen_Messung" margin-right="10px" src="/medien/icons/G-0049_BUW_Icon_Datentypen_Messung.svg?autoSizes=true">
 <img align="left" width="15%" alt="Icon_Erhebung" src="/medien/icons/G-0016_BUW_Icon_Erhebung.svg?autoSizes=true">
@@ -65,14 +66,14 @@ hinausgehen.
 <img align="left" width="15%" alt="Icon_Datentyp_Objekte" src="/medien/icons/0004_THK_Datentyp_Objekte.svg?autoSizes=true">
 <img width="15%" align="center" alt="Icon_Datentyp-Audiodateien" src="/medien/icons/0002_THK_Datentyp-Audiodateien.svg?autoSizes=true">
 
-In diesem Kurs werden die Begriffe „Daten“ und „Dateien“ häufiger verwendet. Für den fortlaufenden Kurs sind sie wie folgt definiert:
+In diesem Kurs werden die Begriffe „Daten“ und „Dateien“ häufiger verwendet. Für den fortlaufenden Kurs sind sie wie folgt definiert[^1]:
 
 ::: tip Daten
 <img src="/medien/icons/0032_THK_Datensatz.svg?autoSizes=true"
      alt="Icon_Datensatz"
      style="float: left; margin-right: 10px; width: 10%;" />
 
-Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfahren o.Ä. gewonnene Informationen“
+Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfahren o. Ä. gewonnene Informationen“
 :::
 
 ::: tip Dateien
@@ -82,11 +83,17 @@ Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfa
 Eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeicherte und zugreifbare Menge von Daten“.
 >> in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften, [Daten](https://www.dwds.de/wb/Daten) und [Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023.
 :::
+<<<<<<< HEAD
 
 ## Differenzierung von Daten[^1]
+=======
+---
+[^1]: Quele: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften, [Daten](https://www.dwds.de/wb/Daten) und [Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023
+>>>>>>> b0c61a8d13c099cc8a2073f5ca1b22b56f47fee0
 
 So verschieden wie die Forschungsgegenstände, Erkenntnisinteressen und Methoden in der Wissenschaft sind, so verschieden sind die Daten und die daraus gewonnenen Information, mit denen Wissenschaftlerinnen und Wissenschaftler arbeiten. Die Vielfalt der Perspektiven, aus denen man Daten je nach Struktur, Bearbeitungszustand oder Verwendungszweck betrachten kann, zeigt, dass die Begriffsbedeutung von &#39;Daten&#39; kontextabhängig ist und immer wieder aufs Neue eingeordnet wird.
 
+<<<<<<< HEAD
 [^1] aus dem Modul: Was sind Daten? | Universität Wuppertal - Moodle
 
 ### Wovon sprechen Menschen also, wenn sie von Daten sprechen?
@@ -185,6 +192,10 @@ Unterscheidung nach Verwendungszweck, z. B.:
 |Software Archivverwaltungssoftware (z. B. AtoM), Texterkennungssoftware (OCR)|Software für Patientenakten (z. B. Epic), medizinische Bildverarbeitungssoftware (z. B. OsiriX) |Software für technische Zeichnungen (z. B. AutoCAD) |Software für CAD-Modellierung (z. B. SolidWorks)|
 <!---->
 Es gibt Primärdaten und Sekundärdaten[^1]
+=======
+<!-- Differenzierung von Daten (Medientyp, Datenformat...) aus BUW-Kurs ergänzen: https://moodle.uni-wuppertal.de/mod/book/view.php?id=471662&chapterid=4506#mod_book-chapter -->
+Es gibt Primärdaten und Sekundärdaten[^2]
+>>>>>>> b0c61a8d13c099cc8a2073f5ca1b22b56f47fee0
 
 ::: tip Primärdaten
 <img src="/medien/icons/G-0094_BUW_a_Icon_Primaerdaten.svg?autoSizes=true"
@@ -202,8 +213,14 @@ Es gibt Primärdaten und Sekundärdaten[^1]
 
 > - sind Daten, die aus Primärdaten durch Verarbeitungsschritte hervorgehen.
 > - Es handelt sich um abgeleitete oder prozessierte Daten, die im Rahmen der Primärdatenverarbeitung als Ergebnis z. B. als Publikation anfallen.
+<<<<<<< HEAD
 > -- Präsidium der TH Köln, 2021, S. 8.
 :::
+=======
+:::
+---
+[^2]: Quelle: Präsidium der TH Köln 2021, S. 8.
+>>>>>>> b0c61a8d13c099cc8a2073f5ca1b22b56f47fee0
 
 ## Die Relevanz von Forschungsdaten
 
