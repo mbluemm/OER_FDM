@@ -13,7 +13,7 @@ bibliography: references.bib
 # Was sind Forschungsdaten?
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 01_LE_Forschungsdaten. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/01_LE_Forschungsdaten.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 01_LE_Forschungsdaten. <FDM@Studium.nrw> Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/01_LE_Forschungsdaten.html>
 :::
 
 [[toc]]
@@ -59,7 +59,7 @@ Audiodateien, Videoclips und interaktive Visualisierungen. Diese Vielfalt an For
 zeigt, dass Forschungsdaten weit über herkömmliche Vorstellungen von Datensammlungen
 hinausgehen.
 
-<!--<img align="left" width="15%" alt="Icon_Datentyp_Survey" src="/medien/icons/G-0057_BUW_Icon_Datentyp_Survey.svg?autoSizes=true">-->
+<!-- <img align="left" width="15%" alt="Icon_Datentyp_Survey" src="/medien/icons/G-0057_BUW_Icon_Datentyp_Survey.svg?autoSizes=true"> -->
 <img width="15%" align="left" alt="Icon_Datentyp_Bild" src="/medien/icons/G-0053_BUW_Icon_Datentyp_Bild.svg?autoSizes=true">
 <img width="15%" align="left" alt="Icon_Datentyp_AV" src="/medien/icons/G-0054_BUW_Icon_Datentyp_AV.svg?autoSizes=true">
 <img align="left" width="15%" alt="Icon_Datentyp_Objekte" src="/medien/icons/0004_THK_Datentyp_Objekte.svg?autoSizes=true">
@@ -80,13 +80,110 @@ Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfa
      alt="Icon_OrdnerPC"
      style="float: left; margin-right: 10px; width: 10%;" />
 Eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeicherte und zugreifbare Menge von Daten“.
+>> in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften, [Daten](https://www.dwds.de/wb/Daten) und [Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023.
 :::
 
-> in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften, [Daten](https://www.dwds.de/wb/Daten) und [Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023.
+## Differenzierung von Daten[^1]
 
-## Welche Datentypen gibt es?
+So verschieden wie die Forschungsgegenstände, Erkenntnisinteressen und Methoden in der Wissenschaft sind, so verschieden sind die Daten und die daraus gewonnenen Information, mit denen Wissenschaftlerinnen und Wissenschaftler arbeiten. Die Vielfalt der Perspektiven, aus denen man Daten je nach Struktur, Bearbeitungszustand oder Verwendungszweck betrachten kann, zeigt, dass die Begriffsbedeutung von &#39;Daten&#39; kontextabhängig ist und immer wieder aufs Neue eingeordnet wird.
 
-<!-- Differenzierung von Daten (Medientyp, Datenformat...) aus BUW-Kurs ergänzen: https://moodle.uni-wuppertal.de/mod/book/view.php?id=471662&chapterid=4506#mod_book-chapter -->
+[^1] aus dem Modul: Was sind Daten? | Universität Wuppertal - Moodle
+
+### Wovon sprechen Menschen also, wenn sie von Daten sprechen?
+
+Hier zeigen wir Ihnen eine kleine Übersicht über die Unterscheidungs- und Beschreibungsmerkmale von Daten, die sicherlich noch weiter ergänzt werden kann:
+
+Unterscheidung nach klassischen Medientyp, z. B.:
+
+| Medientyp|  Icon |
+| ------------- | :-----------: |
+|Text-Daten|<img align="center" width="100%" alt="Icon_Datentyp_Text" src="/medien/icons/G-0055_BUW_Icon_Datentyp_Text.svg?autoSizes=true">|
+|Audio-Daten|<img width="100%" align="center" alt="Icon_Datentyp-Audiodateien" src="/medien/icons/0002_THK_Datentyp-Audiodateien.svg?autoSizes=true">|
+|Bild-Daten|<img width="100%" align="left" alt="Icon_Datentyp_Bild" src="/medien/icons/G-0053_BUW_Icon_Datentyp_Bild.svg?autoSizes=true">|
+|Video-Daten|<img width="100%" align="left" alt="Icon_Datentyp_AV" src="/medien/icons/G-0054_BUW_Icon_Datentyp_AV.svg?autoSizes=true">|
+
+Unterscheidung nach Art und Herkunft, z. B.:
+
+| Herkunft |  Beschreibung | Icon
+| ------------- |-------| :-----------: |
+|Geo-Daten| numerische Daten Sensor-Daten | <img align="left" width="100%" alt="Icon_Datentypen_Sensor" src="/medien/icons/G-0050_BUW_Icon_Datentypen_Sensor.svg?autoSizes=true">|
+|Mess-Daten| |<img align="left" width="100%" alt="Icon_Datentypen_Messung" margin-right="10px" src="/medien/icons/G-0049_BUW_Icon_Datentypen_Messung.svg?autoSizes=true">|
+
+
+Unterscheidung nach physischer Form, z. B.:
+
+| Physische Form|
+| ------------- | 
+| analoge Daten |
+| digitale Daten |
+| physische Speicherform |
+| elektronische Speicherform |
+
+Unterscheidung nach Speicherformat, z. B.:
+
+| Dateiendung | Dateiformat |
+| ------------- | :-----------: |
+| .txt |Textdateien|
+| .docx |Microsoft Word-Dokumente|
+| .pdf |Portable Document Format|
+| .csv |Comma-Separated Values|
+| .xlsx |Microsoft Excel-Dokumente|
+| .jpg |Joint Photographic Experts Group|
+|.svg |Scalable Vector Graphics|
+| .png |Portable Network Graphics|
+| .gif |Graphics Interchange Format|
+| .wav |Waveform Audio File Format|
+| .mp3 |MPEG-1 Audio Layer 3|
+| .fla |Free Lossless Audio Codec|
+| .geojson |Geospatial JavaScript Object Notation|
+| .gpx |GPS Exchange Format|
+| .shapefile |Geodatenformat für Informationssysteme|
+| .csv |Comma-Separated Values|
+| .tsv |Tab-Separated Values|
+| .js |JavaScript Object|
+| .python |Quellcode Python|
+| .html/css |Quellcode für Webseiten|
+| .sql |Structured Query Language|
+| .xml |Extensible Markup Language|
+| .mets |Metadata Encoding and Transmission Standard|
+
+::: tip Info! 
+Datei-Formate legen fest, auf welche Art und Weise digitale Daten in Dokumenten organisiert, strukturiert und gespeichert werden.
+:::
+
+Unterscheidung nach der Verwendungszusammenhang, z. B.:
+
+| Verwendung | Beschreibung |
+| ------------- | :-----------: |
+|Primärdaten|Daten, die direkt, an erster Stelle, gesammelt werden.|
+|Sekundärdaten|Daten, die bereits vorhandenen sind.|
+
+Unterscheidung nach Verarbeitungsstand, z. B.:
+
+| Verarbeitungsstand | Beschreibung |
+| ------------- | :-----------: |
+|Rohdaten| Unbearbeitete, im Originalzustand vorliegende Daten.|
+|verarbeitete Daten| Daten, die durch Analyse, Bereinigung oder Transformation aus Rohdaten erstellt werde, wie z. B. eine tabellarische Aufbereitung.|
+|aggregierte Daten|Zusammengefasste oder gruppierte Daten zur Vereinfachung oder Übersichtlichkeit.|
+
+Unterscheidung nach Datentyp in der Programmierung, z. B.:
+
+|Integer (Ganzzahlen)|Float (Fließkommazahlen)| String (Zeichenkette)|Boolean (Boolesche Werte)|
+| ------------- | :-----------: |:-----------: |:-----------: |
+|repräsentiert ganze Zahlen, ohne Dezimalstellen| Darstellung von Dezimalzahlen mit Nachkommastellen |repräsentieren Text oder Zeichenketten | Datentypen, die nur zwei mögliche Werte haben: Wahr (True) oder Falsch (False).|
+|Beispiele sind 1, -5 und 100.| Beispielsweise: 3.76549034 |Beispiele sind "Hallo, Verwendung z. B. in Welt!" oder auch bedingten Anweisungen "12345". und logischen Ausdrücken|
+
+Unterscheidung nach Verwendungszweck, z. B.:
+
+|Fach |Geschichte| Medizin |Maschinenbau|
+| ------------- | :-----------: |:-----------: |:-----------: |
+|Datenbeschreibung |Archivdaten |Patientendaten| Konstruktionsdaten|
+|Verwendungszweck |historische Netzwerkforschung und Dokumentation|medizinische Versorgung und Forschung | technische Planung und Entwicklung|
+|Forschungsgegenstand | Historische Dokumente, Briefe,Tagebücher|Medizinische Aufzeichnungen, Laborergebnisse|Technische Zeichnungen, Computer-Aided-Design-Modelle (CAD)|
+|Medientyp |Text |Text und Zahlen |Grafiken und technische Notation|
+|Datei-Format |Digitalisierte Papiervorlagen (TIFF, JPEG2000)|Elektronische Patientenakte (EPA) |AutoCAD-Zeichnungen (DWG)|Austauschformat für 3-D-Modelle (STEP)
+|Software Archivverwaltungssoftware (z. B. AtoM), Texterkennungssoftware (OCR)|Software für Patientenakten (z. B. Epic), medizinische Bildverarbeitungssoftware (z. B. OsiriX) |Software für technische Zeichnungen (z. B. AutoCAD) |Software für CAD-Modellierung (z. B. SolidWorks)|
+<!---->
 Es gibt Primärdaten und Sekundärdaten[^1]
 
 ::: tip Primärdaten
@@ -105,9 +202,8 @@ Es gibt Primärdaten und Sekundärdaten[^1]
 
 > - sind Daten, die aus Primärdaten durch Verarbeitungsschritte hervorgehen.
 > - Es handelt sich um abgeleitete oder prozessierte Daten, die im Rahmen der Primärdatenverarbeitung als Ergebnis z. B. als Publikation anfallen.
-:::
-
 > -- Präsidium der TH Köln, 2021, S. 8.
+:::
 
 ## Die Relevanz von Forschungsdaten
 
@@ -120,9 +216,9 @@ Einheit detaillierter eingeführt und ist der Grundstein dieses Kurses.
 
 ### Leitfragen
 
-<!-- <img src="/medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
+<img src="/medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
      alt="Icon_Fragezeichen"
-     style="float: left; margin-right: 10px; width: 15%;" /> -->
+     style="float: left; margin-right: 10px; width: 15%;" />
 
 1. Wie kann der Begriff Forschungsdaten definiert werden?
 2. Welche Arten von Forschungsdaten haben Sie bislang kennengelernt bzw. vielleicht schon selbst genutzt?
