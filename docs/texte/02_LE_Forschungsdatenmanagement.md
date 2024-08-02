@@ -288,7 +288,7 @@ deutschen Wissenschaftsorganisationen. Potsdam: Deutsches GeoForschungsZentrum G
 
 Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827)
 
-Fliegner, A., Raatz, P., & Schick, E. (2022, Dezember 8). FDM-"Schiffbrüche" aus dem Forschungsalltag und was Sie daraus lernen können. Zenodo. https://doi.org/10.5281/zenodo.7377582
+Fliegner, A., Raatz, P., & Schick, E. (2022, Dezember 8). FDM-"Schiffbrüche" aus dem Forschungsalltag und was Sie daraus lernen können. Zenodo. [https://doi.org/10.5281/zenodo.7377582](https://doi.org/10.5281/zenodo.7377582)
 
 Forschungsdaten.info. (2023, 5. Mai). Was ist Forschungsdatenmanagement. 
 Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/informieren-
