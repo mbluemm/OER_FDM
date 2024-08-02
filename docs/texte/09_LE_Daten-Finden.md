@@ -12,11 +12,10 @@ aside: true
 
 ::: info Zitation:
 Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_09_Finden.
-FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/VL_09_Finden.html
+FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/VL_09_Finden.html>
 :::
 
-<!-- in der VL noch ggf. Abbildungen 0045_THK_Rechercheergebnisse; 0048_THK_Zitieren; 0056_THK_Zugriffsrechte; 0058_THK_PID; 0060_THK_Recherche;0059_THK_Qualitätskontrolle ergänzen --> 
-
+<!-- in der VL noch ggf. Abbildungen 0045_THK_Rechercheergebnisse; 0048_THK_Zitieren; 0056_THK_Zugriffsrechte; 0058_THK_PID; 0060_THK_Recherche;0059_THK_Qualitätskontrolle ergänzen -->
 
 [[toc]]
 
@@ -30,7 +29,7 @@ FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Vers
 <img src="/medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
      alt="Icon_Nachnutzung"
      style="float: left; margin-right: 10px; width: 10%;" />
-     
+
 In diesem Themenblock bekommen Sie eine Einführung in die Suche und Nachnutzung von Daten.
 Speziell wird darauf eingegangen, wo Sie nach Datensätzen
 suchen können und insbesondere worauf Sie (auch zur Einhaltung der Guten wissenschaftlichen
@@ -57,8 +56,8 @@ inklusive Tutorials angeführt, die das Finden von Datensätzen auf den jeweilig
 In diesem Abschnitt werden Ihnen einige Metasuchmaschinen und Datenportale vorgestellt:
 > "Eine Metasuchmaschine ist ein System, das Informationen von anderen Suchmaschinen nutzt, um eine
 > vollständige und angemessene Antworten auf eine Frage zu geben."
-> 
-> -- (Arimetrics 2022) 
+>
+> -- (Arimetrics 2022)
 
 >"Offene Datenportale erleichtern den Zugang zu und die Wiederverwendung von Informationen des
 > öffentlichen Sektors."
@@ -68,25 +67,17 @@ In diesem Abschnitt werden Ihnen einige Metasuchmaschinen und Datenportale vorge
 <img src="/medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
      alt="Icon_Beispiel"
      style="float: left; margin-right: 10px; width: 18%;" />
-     
+
 Beispiele für Metasuchmaschinen und Datenportale:
 
 - [DataCite Commons](https://commons.datacite.org/)  → unterstützt die Suche in registrierten Datensätzen
-
 - [Tutorial](https://www.youtube.com/watch?v=XXEMEhEnrGs&list=PLNfmVgA6BeiRmsql_nfMWz_jsVxUf3_GZ&index=8), englisch (3:26 Min.)
-
 - [BASE](https://www.base-search.net/) → Suchmaschine für wissenschaftliche Webdokumente
-    
 - [Tutorial](https://www.youtube.com/watch?v=cu4JYtyAXQo), deutsch (3:10 Min.)
-    
 - unter „Suchergebnis eingrenzen“ → „Dokumentart“:„Forschungsdaten“; „Nachnutzung“:„Open Access“
-      
 - [Google Dataset Search](https://datasetsearch.research.google.com/) → durchsucht laut Google Millionen von Datensätzen in tausenden Repositorien
-       
 - [Tutorial](https://www.youtube.com/watch?v=XWWGHsF0k3w), englisch (3:28Min.)
-
 - [govdata](https://www.govdata.de/) → bietet Zugang zu offenen Daten von Bundes-, Landes- und Kommunalverwaltungen in Deutschland
-
 - [European Union Open Data Portal](https://data.europa.eu/en) → macht offene Daten der EU zugänglich
 
 ## Repositorien
@@ -100,27 +91,27 @@ Datensätzen.
 > „Digitale Forschungsdaten-Repositorien sind Informationsinfrastrukturen, die digitale Forschungsdaten
 > möglichst dauerhaft – anhand der Anforderungen der jeweiligen Nutzergruppe – speichern und
 > organisieren, um die Auffindbarkeit und Zugänglichkeit der Daten zu sichern.“
-> 
+>
 > -- (forschungsdaten.org 2015)
 
 <img src="/medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
      alt="Icon_Beispiel"
      style="float: left; margin-right: 10px; width: 18%;" />
-     
+
 Beispiele für Repositorien:
 
 - [re3data](https://www.re3data.org/browse/by-subject/)
-    - Suche nach fachspezifischen Repositorien
-    - [Tutorial](https://www.youtube.com/watch?v=38_ETsB06I4), deutsch (2:59 Min.)
-    - [Tutorial](https://www.youtube.com/watch?v=cutUrqJqjp4), englisch, detaillierter (4:11 Min.)
+  - Suche nach fachspezifischen Repositorien
+  - [Tutorial](https://www.youtube.com/watch?v=38_ETsB06I4), deutsch (2:59 Min.)
+  - [Tutorial](https://www.youtube.com/watch?v=cutUrqJqjp4), englisch, detaillierter (4:11 Min.)
 - [DFG RIsources](https://risources.dfg.de/)
-    - Informationsportal zu wissenschaftlichen Forschungsinfrastrukturen
+  - Informationsportal zu wissenschaftlichen Forschungsinfrastrukturen
 - [Zenodo](https://zenodo.org/)
-    - disziplinübergreifende Suche
+  - disziplinübergreifende Suche
 - [EUDAT/B2Share](https://b2share.eudat.eu/)
-    - Plattform, die aus dem Horizon 2020 Förderungsprogramm der Europäischen Union entstanden ist
+  - Plattform, die aus dem Horizon 2020 Förderungsprogramm der Europäischen Union entstanden ist
 - [figshare](https://figshare.com/)
-    - besonders für visuelle Grafikdatensätze (Poster, Diagramme, Videos)
+  - besonders für visuelle Grafikdatensätze (Poster, Diagramme, Videos)
 
 ### Qualitätsmerkmale eines guten Repositoriums
 
@@ -154,7 +145,7 @@ zertifiziert werden, wenn:
 > - Die Daten in einem gebräuchlichen Format vorliegen.
 > - Die Daten zuverlässig sind.
 > - Die Daten über PIDs zitierbar sind.
->   
+>
 > -- (Forschungsdaten.info 2023b)
 
 ## Persistente Identifikatoren (PID)
@@ -162,7 +153,7 @@ zertifiziert werden, wenn:
 <img align="right" width="15%" alt="Icon__PID" src="/medien/icons/0021_THK_PID.svg?autoSizes=true">
 
 Eines der Qualitätsmerkmale eines Repositoriums sind Persistente Idenfikatoren. Doch was bedeutet
-das? 
+das?
 > "Ein Persistenter Identifikator (Persistent Identifier; PID) ist eine konstante Internet-Adresse für
 > digitale Objekte. Er stellt sicher, dass ein Datensatz dauerhaft auffindbar, abrufbar und zitierbar bleibt, auch wenn sich sein physischer Standort ändert"
 >
@@ -193,15 +184,15 @@ einige Aspekte zu beachten.
 
 Die Daten müssen...
 
-* zugänglich sein. Offene Daten/“Open Data” bzw. Daten mit offenen Lizenzen dürfen
+- zugänglich sein. Offene Daten/“Open Data” bzw. Daten mit offenen Lizenzen dürfen
 verwendet werden (z. B. Creative-Commons-Lizenzen).
-* zitierfähig und nachhaltig verfügbar sein. Das heißt, sie verfügen über alle notwendigen
+- zitierfähig und nachhaltig verfügbar sein. Das heißt, sie verfügen über alle notwendigen
 Informationen und über einen PID.
-* erschlossen sein. Metadaten und eine Dokumentation der Daten erleichtern die
+- erschlossen sein. Metadaten und eine Dokumentation der Daten erleichtern die
 Interpretation und Reproduzierbarkeit der Daten. Was wurde mit diesen Daten untersucht und
 als Ergebnis festgehalten? Was möchte ich untersuchen und wie unterscheidet sich das vom
 vorherigen Nutzen?
-* qualitativ sein. Dafür müssen sie in speziellen Datenformaten* verfügbar sein und
+- qualitativ sein. Dafür müssen sie in speziellen Datenformaten* verfügbar sein und
 folgendes erfüllen: Datenvollständigkeit und Datenrichtigkeit.
 
 *mehr dazu unter „Datenformaten“ in VL1 „Was ist FDM?“
@@ -211,7 +202,6 @@ vergeben. Sie regeln die Verwendung und Nachnutzung der Publikation von Dritten.
 Nutzungsrechte für Forschungsdaten vergeben. CC-Lizenzen sind international weit verbreitet,
 allerdings gibt es je nach Version der Lizenz nationale Anpassungen. Die aktuelle Version 4.0 ist
 international gültig.
-
 
 ::: info CC BY
 
@@ -235,7 +225,7 @@ der Urheber des Originals genannt wird.
      style="float: left; margin-right: 20px; width: 20%;" />
 
 *Namensnennung - Weitergabe unter gleichen Bedingungen*
-     
+
 Diese Lizenz erlaubt es Dritten, ein Werk zu
 verbreiten, zu verändern, zu verbessern und
 darauf aufzubauen, auch kommerziell, solange
@@ -281,7 +271,7 @@ wie CC BY – zusätzlich mit der Einschränkung
      style="float: left; margin-right: 20px; width: 20%;" />
 
 *Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen*
-     
+
 wie CC BY SA – zusätzlich mit der
 Einschränkung „nur nicht kommerziell“
 
@@ -302,12 +292,11 @@ Einschränkung „nur nicht kommerziell“
 Mehr über die Creative-Commons-Lizenzen unter der Creative Commons Liste der Lizenzen, Muuß-
 Merholz 2021 und FAQ 2021.
 
-
 ### Datensätze korrekt zitieren
 
 Die Herkunft nachgenutzter Datensätze muss, wie andere Quellen, die verwendet wurden, durch eine
-Angabe nachgewiesen, also zitiert, werden. Die absolute Ehrlichkeit in Bezug auf die eigenen und fremden Beiträge 
-ist eine grundlegende Voraussetzung für Gute wissenschaftliche Praxis. 
+Angabe nachgewiesen, also zitiert, werden. Die absolute Ehrlichkeit in Bezug auf die eigenen und fremden Beiträge
+ist eine grundlegende Voraussetzung für Gute wissenschaftliche Praxis.
 Nach wissenschaftlichen Standards verfügen auffindbare Datensätze i. d. R. über folgende Informationen:
 
 ::: info Urheber
@@ -342,13 +331,12 @@ Hier erscheint ein PID. Um direkt
 auf die Quelle des Objektes verweisen zu
 können, sollte der DOI-Name entweder mit der
 URL des Resolvers abgedruckt
-(http://doi.org/doi:10.4232/1.10770) oder –
+(<http://doi.org/doi:10.4232/1.10770>) oder –
 platzsparender – mit einem Hyperlink
 (doi:10.4232/1.10770) unterlegt werden.
 :::
 
 (Quelle: Forschungsdaten.info 2024)
-
 
 ## Mögliche Zitation von Datensätzen
 
@@ -360,17 +348,25 @@ platzsparender – mit einem Hyperlink
 
 > -- (Quelle: Forschungsdaten.info 2024)
 
-### Beispielszenarien für die Zitation von Datensätzen 
+### Beispielszenarien für die Zitation von Datensätzen
 
 - **Beispielszenario 1: Interaktive Mobilitätsstudie: Bike Sharing in Köln**
 
 [Quelle](https://av.tib.eu/media/35422)
 
+<!-- <iframe
+  id="BikeSharing"
+  title="Beispielszenario 1: Interaktive Mobilitätsstudie: Bike Sharing in Köln"
+  width="100%"
+  height="100%"
+  src="https://av.tib.eu/media/35422">
+</iframe> -->
+
 <!-- als iframe darstellen? -->
 
-- **Eser, Alexander (2018): Interaktive Mobilitätsstudie - Bike Sharing Köln. Kaufberater.io. Stummfilm. https://doi.org/10.5446/35422**
+- **Eser, Alexander (2018): Interaktive Mobilitätsstudie - Bike Sharing Köln. Kaufberater.io. Stummfilm. <https://doi.org/10.5446/35422>**
 
-- **Beispielszenario 2: Refill Stationen Coffee to-go in Bonn** 
+- **Beispielszenario 2: Refill Stationen Coffee to-go in Bonn**
 
 [Quelle](https://www.govdata.de/web/guest/suchen/-/details/refill-stationen-coffee-to-go)
 
@@ -378,32 +374,31 @@ platzsparender – mit einem Hyperlink
 
 - o.A. (2023, 02. Mai): Refill Stationen - Coffee to go. Open.NRW. Datensatz. Eingeschränkte Nutzung.
   
-- **Beispielszenario 3: Indikator Klimasensitive Vogelarten** 
+- **Beispielszenario 3: Indikator Klimasensitive Vogelarten**
 
 [Quelle](https://data.europa.eu/data/datasets/16f7a7a8-fc81-411d-bb06-11fd33805971?locale=de)
 
 <!-- als iframe darstellen? -->
-- o.A. (2021, 06. Oktober): Indikator Klimasensitive Vogelarten. Geoportal. Datensatz. https://data.europa.eu/data/datasets/16f7a7a8-fc81-411d-bb06-11fd33805971?locale=de
+- o.A. (2021, 06. Oktober): Indikator Klimasensitive Vogelarten. Geoportal. Datensatz. <https://data.europa.eu/data/datasets/16f7a7a8-fc81-411d-bb06-11fd33805971?locale=de>
 
 ## Leitfragen und Aufgaben
 <!-- Quiz von BUW hinzufügen https://moodle.uni-wuppertal.de/mod/book/view.php?id=471681&chapterid=4552#mod_book-chapter -->
-### Leitfragen 
+### Leitfragen
 
 <img align="left" width="10%" alt="Icon_Fragezeichen" src="/medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
-     
+
 1. Wie kann nach Forschungsdaten recherchiert werden?
 2. Welche Möglichkeiten/Initiativen gibt es, die Nachnutzung von Forschungsdaten zu
     begünstigen?
 
-
-### Aufgabe: 
+### Aufgabe
 
 <img align="left" width="10%" alt="Icon_Aufgabe" src="/medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio
 
-## Weiterführende Materialen und Quellen 
+## Weiterführende Materialen und Quellen
 
 <img align="right" width="15%" alt="Icon_Findability" src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 
@@ -421,7 +416,7 @@ Forschungsdaten.info. (2024, 6. März). Persistente Identifikatoren. Zugriff am
 Gerlach, R., Rex, J., Lang, K. et al. (2020). Fact Sheet: Research Data Repositories. Zenodo.
 [https://doi.org/10.5281/zenodo.3900922](https://doi.org/10.5281/zenodo.3900922)
 
-Lin, D., Crabtree, J., Dillo, I. et al. (2020) The TRUST Principles for digital repositories. Sci Data 7,144. [https://doi.org/10.1038/s41597- 020-0486-7](https://doi.org/10.1038/s41597- 020-0486-7)
+Lin, D., Crabtree, J., Dillo, I. et al. (2020) The TRUST Principles for digital repositories. Sci Data 7,144. [https://doi.org/10.1038/s41597- 020-0486-7](<https://doi.org/10.1038/s41597-> 020-0486-7)
 
 Pampel, H. & Elger, K. (2021). 5.6 Publikation und Zitierung von digitalen Forschungsdaten. In M.
 Putnings, H. Neuroth & J. Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (S. 521-536). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-028](https://doi.org/10.1515/9783110657807-028)
@@ -445,7 +440,7 @@ von [https://de.creativecommons.net/faqs/#h.opqkebeeaptr](https://de.creativecom
 Forschungsdaten.org. (2015, 15. September). Repositorium. Zugriff am 18.10.2023, von
 [https://www.forschungsdaten.org/index.php/Repositorium](https://www.forschungsdaten.org/index.php/Repositorium)
 
-Muuß-Merholz, J. (2021, 30. März). Die CC-Lizenzen im Überblick _–_ Welche Lizenz für welche Zwecke? wb-web. Zugriff am
+Muuß-Merholz, J. (2021, 30. März). Die CC-Lizenzen im Überblick *–* Welche Lizenz für welche Zwecke? wb-web. Zugriff am
 18.10.2023, von [https://wb-web.de/material/medien/die-cc-lizenzen-im-uberblick-welche-lizenz-fur-welche-zwecke-1.html](https://wb-web.de/material/medien/die-cc-lizenzen-im-uberblick-welche-lizenz-fur-welche-zwecke-1.html)
 
 Präsidium der TH Köln. (2021). Leitlinie zum Umgang mit Forschungsdaten. Zugriff am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf)

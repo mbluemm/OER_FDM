@@ -11,7 +11,7 @@ aside: true
 # Dokumentation von Daten
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 05_LE_Datendokumentation. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/05_LE_Datendokumentation.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 05_LE_Datendokumentation. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/05_LE_Datendokumentation.html>
 :::
 
 [[toc]]
@@ -26,7 +26,11 @@ Aspekte für Studierende abdeckt und die Sie zukünftig für Forschungsarbeiten 
 können.
 :::
 
-<!-- Icon 0010_THK_DMP_Dokumentation + Video von Medienagentur einfügen -->
+<!-- Video von Medienagentur einfügen -->
+
+<img src="/medien/icons/0010_THK_DMP_Dokumentation.svg?autoSizes=true"
+     alt="Icon_DMP_Dokumentation"
+     style="float: left; margin-right: 10px; width: 10%;" />
 
 ## Über Daten informieren und Daten dokumentieren
 
@@ -36,7 +40,7 @@ und bezüglich des Projektes beantwortet werden. Eine solche Dokumentation deckt
 Datenlebenszyklus ab und zeigt auf, welche Aspekte zu klären sind, damit die Daten verfügbar,
 nachnutzbar und nachvollziehbar bleiben.
 
-<!-- interaktiver DMP, wenn von Medienagentur erstellt, einfügen --> 
+<!-- interaktiver DMP, wenn von Medienagentur erstellt, einfügen -->
 
 Die Verschriftlichung sorgt für einen einheitlichen Umgang mit Daten und schafft eine verbindliche
 Grundlage. Sollte man zudem noch einmal auf vergangene Forschungsvorhaben zurückgreifen
@@ -50,7 +54,9 @@ sicher, dass Daten auch von Anderen einfacher verstanden und organisiert werden 
 wenn man seine Arbeiten an Andere weitergeben möchte oder kollaborativ an einer Studien-
 /Prüfungsleistung arbeitet.
 
-<!-- Abbildung 0050_THK_Kollaboratives_Arbeiten einfügen -->
+<img src="/medien/icons/0050_THK_Kollaboratives_Arbeiten.svg?autoSizes=true"
+     alt="Icon_Kollaboratives_Arbeiten"
+     style="float: left; margin-right: 10px; width: 10%;" />
 
 Im besten Fall wird eine Dokumentation der Daten am Anfang des Projekts begonnen, wenn noch
 keine Daten gesammelt wurden, da somit schon zu Beginn wichtige Entscheidungen gefällt werden

@@ -11,7 +11,7 @@ aside: true
 # FAIR-Prinzipien
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 04_LE_FAIR-Prinzipien. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/04_LE_FAIR-Prinzipien.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 04_LE_FAIR-Prinzipien. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/04_LE_FAIR-Prinzipien.html>
 :::
 
 [[toc]]
@@ -28,6 +28,7 @@ praktisch umgesetzt werden können und welche Vor- und Nachteile die Anwendung d
 ## FAIR-Prinzipien
 
 Forschungsdaten sollen FAIR sein, damit diese
+
 - Findable (Auffindbar), <img align="center" width="10%" alt="Icon_Findability" src="/medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 - Accessible (Zugänglich), <img align="center" width="10%" alt="Icon_Zugang" src="/medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true">
 - Interoperable (Interoperabel) <img align="center" width="10%" alt="Icon_Interoperability" src="/medien/icons/G-0046_BUW_Icon_Interoperability.svg?autoSizes=true"> und
@@ -56,13 +57,12 @@ Forschungsdaten sollten leicht auffindbar sein. Dies wird erreicht durch:
 
 <img align="right" width="15%" alt="Icon_Zugang" src="/medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true">
 
-- <img align="left" width="10%" alt="Icon_Zugriffsrechte" src="/medien/icons/0019_THK_Zugriffsrechte.svg?autoSizes=true"> 
+- <img align="left" width="10%" alt="Icon_Zugriffsrechte" src="/medien/icons/0019_THK_Zugriffsrechte.svg?autoSizes=true">
 
 Forschungsdaten sollten für alle Interessierten zugänglich sein. Dies erfordert klare Zugangsregeln und offene Lizenzen, die die Wiederverwendung ermöglichen. Forschungsdaten können in Forschungsdaten-Journalen oder Forschungsdatenzentren veröffentlicht werden.
 
-<br>
-
 <img align="left" width="12%" alt="Icon_gesetzliche_Vorschriften" src="/medien/icons/0016_THK_gesetzliche_Vorschriften.svg?autoSizes=true">
+
 Nicht alle Forschungsdaten sind für eine uneingeschränkte Veröffentlichung geeignet, insbesondere wenn es sich um sensible, personenbezogene Daten handelt oder wenn Rechte
 Dritter involviert sind.
 
@@ -77,7 +77,7 @@ können Hinweise zu den Urheber:innen in den Metadaten angegeben werden, um Inte
 
 <img align="right" width="15%" alt="Icon_Interoperability" src="/medien/icons/G-0046_BUW_Icon_Interoperability.svg?autoSizes=true">
 
-Interoperabilität wird unter anderem durch die Verwendung standardisierter Metadaten erreicht. Daten und Metadaten sollten daher eine formale, allgemein anwendbare Sprache verwenden. Dies erleichtert das Verständnis und die Interpretation der Daten sowohl für Menschen als auch für Maschinen. 
+Interoperabilität wird unter anderem durch die Verwendung standardisierter Metadaten erreicht. Daten und Metadaten sollten daher eine formale, allgemein anwendbare Sprache verwenden. Dies erleichtert das Verständnis und die Interpretation der Daten sowohl für Menschen als auch für Maschinen.
 
 ### Reusable (Wiederverwendbar)
 

@@ -11,7 +11,7 @@ aside: true
 # Was ist Forschungsdatenmanagement?
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 02_LE_Forschungsdatenmanagement. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://mbluemm.github.io/OER_FDM/texte/02_LE_Forschungsdatenmanagement.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 02_LE_Forschungsdatenmanagement. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://mbluemm.github.io/OER_FDM/texte/02_LE_Forschungsdatenmanagement.html>
 :::
 
 [[toc]]
@@ -51,7 +51,7 @@ Organisation und Sicherheit von Daten bei, sondern fördert auch die Transparenz
 und Zusammenarbeit in der wissenschaftlichen Forschung.
 
 Viele Forschungseinrichtungen haben bereits Leitlinien für das FDM herausgegeben, die als erster
-Schritt dazu dienen, einen strukturierten Umgang mit Forschungsdaten zu etablieren. 
+Schritt dazu dienen, einen strukturierten Umgang mit Forschungsdaten zu etablieren.
 
 <img width="15%" align="right" alt="Icon_Leitlinien" src="/medien/icons/0007_THK_Leitlinien.svg?autoSizes=true">
 
@@ -218,7 +218,6 @@ Organisation, Dokumentation und Verwaltung von Daten. Ein strukturiertes FDM ste
      alt="Icon_fröhliche_Person"
      style="align: center; width: 15%;" />
 
-[^1]: Fühles-Ubach und Heidkamp (2022)
 
 ## Was ist Gute wissenschaftliche Praxis?
 
@@ -241,7 +240,7 @@ Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 <img src="/medien/icons/0007_THK_Leitlinien.svg?autoSizes=true"
      alt="Icon_Leitlinien"
      style="float: left; margin-right: 10px; width: 15%;" />
-<!-- Bei GWP einfügen: Mountains of Kong: https://moodle.uni-wuppertal.de/mod/page/view.php?id=471653 --> 
+<!-- Bei GWP einfügen: Mountains of Kong: https://moodle.uni-wuppertal.de/mod/page/view.php?id=471653 -->
 ## Leitfragen und Aufgaben
 
 ### Leitfragen
@@ -270,7 +269,7 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
      style="float: left; margin-right: 20px; width: 15%;" />
 
 Lesen Sie die „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ der Deutschen
-Forschungsgemeinschaft aufmerksam durch. 
+Forschungsgemeinschaft aufmerksam durch.
 Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827)
 
 ## Weiterführende Materialen und Quellen
@@ -290,11 +289,11 @@ Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissensc
 
 Fliegner, A., Raatz, P., & Schick, E. (2022, Dezember 8). FDM-"Schiffbrüche" aus dem Forschungsalltag und was Sie daraus lernen können. Zenodo. [https://doi.org/10.5281/zenodo.7377582](https://doi.org/10.5281/zenodo.7377582)
 
-Forschungsdaten.info. (2023, 5. Mai). Was ist Forschungsdatenmanagement. 
+Forschungsdaten.info. (2023, 5. Mai). Was ist Forschungsdatenmanagement.
 Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/informieren-
 und-planen/was-ist-forschungsdatenmanagement](https://forschungsdaten.info/themen/informieren-und-planen/was-ist-forschungsdatenmanagement/)
 
-Forschungsdaten.info. (2024, 02. Mai). Gute wissenschaftliche Praxis und FDM. 
+Forschungsdaten.info. (2024, 02. Mai). Gute wissenschaftliche Praxis und FDM.
 Zugriff am 11.06.2024, von [https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/](https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/)
 
 Putnings, M., Neuroth, H. & Neumann, J. (2021). Praxishandbuch Forschungsdatenmanagement.

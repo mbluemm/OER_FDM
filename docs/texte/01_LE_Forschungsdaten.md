@@ -78,6 +78,7 @@ Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfa
 <img src="/medien/icons/0028_THK_OrdnerPC.svg?autoSizes=true"
      alt="Icon_OrdnerPC"
      style="float: left; margin-right: 10px; width: 10%;" />
+
 Eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeicherte und zugreifbare Menge von Daten“.
 >> in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften, [Daten](https://www.dwds.de/wb/Daten) und [Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023.
 :::

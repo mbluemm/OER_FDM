@@ -11,7 +11,7 @@ aside: true
 # Ethische Aspekte
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 11_LE_Ethische-Aspekte. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/11_LE_Ethische-Aspekte.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 11_LE_Ethische-Aspekte. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/11_LE_Ethische-Aspekte.html>
 :::
 
 [[toc]]
@@ -44,15 +44,14 @@ Planungsphase eines (Forschungs-)Vorhabens muss geprüft werden, ob bei der Ethi
 eigenen Forschungseinrichtung (oder der Hochschule/Universität) ein Ethikantrag gestellt werden
 muss. Dies ist insbesondere bei der Forschung an Menschen notwendig.
 
-<a title="Jørgen Stamp
-, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Links2_DigitalBevaring.png"><img width="512" alt="Links2 DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Links2_DigitalBevaring.png/512px-Links2_DigitalBevaring.png"></a>
-Quelle: Digitalbevaringdk Links2_DigitalBevaring
-
-<!-- Abbildung 0062_THK_Ethik einfügen --> 
+<!-- Abbildung 0062_THK_Ethik einfügen -->
+<img src="/medien/abbildung/0062_THK_Ethik.svg?autoSizes=true"
+     alt="Abbildung_Ethik"
+     style="float: left; margin-right: 20px; width: 20%;" />
 
 <img align="right" width="15%" alt="Icon_DSGVO" src="/medien/icons/0031_THK_DSGVO.svg?autoSizes=true">
 
-Ein ethischer Umgang mit Daten ist bei (Forschungs-)Projekten während des gesamten Datenlebenszyklus Pflicht, 
+Ein ethischer Umgang mit Daten ist bei (Forschungs-)Projekten während des gesamten Datenlebenszyklus Pflicht,
 um zu gewährleisten, dass Subjekte, aber auch Forschende, geschützt werden. Ein
 Missbrauch der Daten muss, insbesondere beim Teilen und Publizieren, verhindert werden. Hier spielt
 die Anonymisierung von Daten eine wichtige Rolle. Daher sollte beachtet werden, dass nicht nur der
@@ -77,7 +76,6 @@ berücksichtigt:
 - Ethikrichtlinien.
 - ethische Implikationen und Risiken (ggf. Ethikkommission einbinden/Ethikantrag stellen).
 
-
 ### Sensible Daten
 
 Vor allem beim Umgang mit Daten in den folgenden Szenarien, ist eine ethische Verantwortung
@@ -96,13 +94,13 @@ Pflicht:
     besteht."
 > -- (Forschungsdaten.info 2023a)
 
-<!-- Abbildung 0061_THK_Personenbezogene_Daten einfügen --> 
+<!-- Abbildung 0061_THK_Personenbezogene_Daten einfügen -->
 
 # CARE-Prinzipien
 
 In Ergänzung zu den FAIR-Prinzipien wurden, als Antwort
 auf ethische Fragestellungen, die CARE-Prinzipien von der Global Indigenous Data Alliance entworfen.
-<!-- Abbildung von https://www.gida-global.org/care einfügen --> 
+<!-- Abbildung von https://www.gida-global.org/care einfügen -->
 <!--  Von hier bis "...im Vordergrung stehen": Zitat aus https://mediatum.ub.tum.de/doc/1656873/1656873.pdf -->
 CARE steht dabei für Collective Benefit, Authority to Control, Responsibility und Ethics [Kollektiver Nutzen, Kontrolle über die Daten, Verantwortung, Ethik]
 
@@ -201,7 +199,7 @@ Forschung. Zugriff am 18.10.2023, von
 [https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/sicherheitsrelevante_forschung/index.html](https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/sicherheitsrelevante_forschung/index.html)
 
 Forschungsdaten.info. (2023a, 12. Mai). Ethische Aspekte und FDM. Zugriff am
-18.10.2023, von [[https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/](https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/ethische-aspekte-im-fdm/)
+18.10.2023, von [https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/](https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/ethische-aspekte-im-fdm/)
 
 Forschungsdaten.info. (2023b, 5. Oktober). Glossar. Zugriff am 18.10.2023, von [https://forschungsdaten.info/praxis-kompakt/glossar/#c269898](https://forschungsdaten.info/praxis-kompakt/glossar/#c269898)
 
