@@ -6,14 +6,12 @@ output:
         toc: true
         toc_float: true
 aside: true
-layout: doc
-bibliography: references.bib
 ---
 
 # Was sind Forschungsdaten?
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 01_LE_Forschungsdaten. <FDM@Studium.nrw> Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/01_LE_Forschungsdaten.html>
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 01_LE_Forschungsdaten. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/01_LE_Forschungsdaten.html>
 :::
 
 [[toc]]
@@ -47,7 +45,7 @@ Textanalysen oder historische Aufzeichnungen. Auch in den Geisteswissenschaften 
 Forschungsdaten eine wichtige Rolle, sei es in Form von literarischen Texten, Kunstwerken,
 Archivmaterial oder linguistischen Daten. In den Geistes- und Kulturwissenschaften werden solche
 Daten als Forschungsdaten verstanden, die maschinenlesbar und zum Zwecke der Archivierung,
-Zitierbarkeit und zur weiteren Verarbeitung aufbewahrt werden können. 
+Zitierbarkeit und zur weiteren Verarbeitung aufbewahrt werden können.
 
 <img align="left" width="15%" alt="Icon_Datentypen_Messung" margin-right="10px" src="/medien/icons/G-0049_BUW_Icon_Datentypen_Messung.svg?autoSizes=true">
 <img align="left" width="15%" alt="Icon_Erhebung" src="/medien/icons/G-0016_BUW_Icon_Erhebung.svg?autoSizes=true">
@@ -83,20 +81,19 @@ Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfa
 Eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeicherte und zugreifbare Menge von Daten“.
 >> in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften, [Daten](https://www.dwds.de/wb/Daten) und [Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023.
 :::
-<<<<<<< HEAD
 
-## Differenzierung von Daten[^1]
-=======
+## Differenzierung von Daten[^2]
+
 ---
-[^1]: Quele: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften, [Daten](https://www.dwds.de/wb/Daten) und [Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023
->>>>>>> b0c61a8d13c099cc8a2073f5ca1b22b56f47fee0
+[^1]:Sauther-Patrascu und Dmitrieva (2021).
+[^2]: Quelle: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften, [Daten](https://www.dwds.de/wb/Daten) und [Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023
 
 So verschieden wie die Forschungsgegenstände, Erkenntnisinteressen und Methoden in der Wissenschaft sind, so verschieden sind die Daten und die daraus gewonnenen Information, mit denen Wissenschaftlerinnen und Wissenschaftler arbeiten. Die Vielfalt der Perspektiven, aus denen man Daten je nach Struktur, Bearbeitungszustand oder Verwendungszweck betrachten kann, zeigt, dass die Begriffsbedeutung von &#39;Daten&#39; kontextabhängig ist und immer wieder aufs Neue eingeordnet wird.
 
-<<<<<<< HEAD
-[^1] aus dem Modul: Was sind Daten? | Universität Wuppertal - Moodle
+### Wovon sprechen Menschen also, wenn sie von Daten sprechen?[^3]
 
-### Wovon sprechen Menschen also, wenn sie von Daten sprechen?
+---
+[^3]: aus dem Modul: Was sind Daten? | Universität Wuppertal - Moodle
 
 Hier zeigen wir Ihnen eine kleine Übersicht über die Unterscheidungs- und Beschreibungsmerkmale von Daten, die sicherlich noch weiter ergänzt werden kann:
 
@@ -104,23 +101,22 @@ Unterscheidung nach klassischen Medientyp, z. B.:
 
 | Medientyp|  Icon |
 | ------------- | :-----------: |
-|Text-Daten|<img align="center" width="100%" alt="Icon_Datentyp_Text" src="/medien/icons/G-0055_BUW_Icon_Datentyp_Text.svg?autoSizes=true">|
-|Audio-Daten|<img width="100%" align="center" alt="Icon_Datentyp-Audiodateien" src="/medien/icons/0002_THK_Datentyp-Audiodateien.svg?autoSizes=true">|
-|Bild-Daten|<img width="100%" align="left" alt="Icon_Datentyp_Bild" src="/medien/icons/G-0053_BUW_Icon_Datentyp_Bild.svg?autoSizes=true">|
-|Video-Daten|<img width="100%" align="left" alt="Icon_Datentyp_AV" src="/medien/icons/G-0054_BUW_Icon_Datentyp_AV.svg?autoSizes=true">|
+|Text-Daten|<img align="center" width="10%" alt="Icon_Datentyp_Text" src="/medien/icons/G-0055_BUW_Icon_Datentyp_Text.svg?autoSizes=true">|
+|Audio-Daten|<img width="10%" align="center" alt="Icon_Datentyp-Audiodateien" src="/medien/icons/0002_THK_Datentyp-Audiodateien.svg?autoSizes=true">|
+|Bild-Daten|<img width="10%" align="left" alt="Icon_Datentyp_Bild" src="/medien/icons/G-0053_BUW_Icon_Datentyp_Bild.svg?autoSizes=true">|
+|Video-Daten|<img width="10%" align="left" alt="Icon_Datentyp_AV" src="/medien/icons/G-0054_BUW_Icon_Datentyp_AV.svg?autoSizes=true">|
 
 Unterscheidung nach Art und Herkunft, z. B.:
 
-| Herkunft |  Beschreibung | Icon
+| Herkunft |  Beschreibung | Icon|
 | ------------- |-------| :-----------: |
-|Geo-Daten| numerische Daten Sensor-Daten | <img align="left" width="100%" alt="Icon_Datentypen_Sensor" src="/medien/icons/G-0050_BUW_Icon_Datentypen_Sensor.svg?autoSizes=true">|
-|Mess-Daten| |<img align="left" width="100%" alt="Icon_Datentypen_Messung" margin-right="10px" src="/medien/icons/G-0049_BUW_Icon_Datentypen_Messung.svg?autoSizes=true">|
-
+|Geo-Daten| numerische Daten Sensor-Daten | <img align="left" width="10%" alt="Icon_Datentypen_Sensor" src="/medien/icons/G-0050_BUW_Icon_Datentypen_Sensor.svg?autoSizes=true">|
+|Mess-Daten| |<img align="left" width="10%" alt="Icon_Datentypen_Messung" margin-right="10px" src="/medien/icons/G-0049_BUW_Icon_Datentypen_Messung.svg?autoSizes=true">|
 
 Unterscheidung nach physischer Form, z. B.:
 
 | Physische Form|
-| ------------- | 
+| ------------- |
 | analoge Daten |
 | digitale Daten |
 | physische Speicherform |
@@ -154,7 +150,7 @@ Unterscheidung nach Speicherformat, z. B.:
 | .xml |Extensible Markup Language|
 | .mets |Metadata Encoding and Transmission Standard|
 
-::: tip Info! 
+::: tip Info!
 Datei-Formate legen fest, auf welche Art und Weise digitale Daten in Dokumenten organisiert, strukturiert und gespeichert werden.
 :::
 
@@ -188,14 +184,10 @@ Unterscheidung nach Verwendungszweck, z. B.:
 |Verwendungszweck |historische Netzwerkforschung und Dokumentation|medizinische Versorgung und Forschung | technische Planung und Entwicklung|
 |Forschungsgegenstand | Historische Dokumente, Briefe,Tagebücher|Medizinische Aufzeichnungen, Laborergebnisse|Technische Zeichnungen, Computer-Aided-Design-Modelle (CAD)|
 |Medientyp |Text |Text und Zahlen |Grafiken und technische Notation|
-|Datei-Format |Digitalisierte Papiervorlagen (TIFF, JPEG2000)|Elektronische Patientenakte (EPA) |AutoCAD-Zeichnungen (DWG)|Austauschformat für 3-D-Modelle (STEP)
-|Software Archivverwaltungssoftware (z. B. AtoM), Texterkennungssoftware (OCR)|Software für Patientenakten (z. B. Epic), medizinische Bildverarbeitungssoftware (z. B. OsiriX) |Software für technische Zeichnungen (z. B. AutoCAD) |Software für CAD-Modellierung (z. B. SolidWorks)|
-<!---->
-Es gibt Primärdaten und Sekundärdaten[^1]
-=======
-<!-- Differenzierung von Daten (Medientyp, Datenformat...) aus BUW-Kurs ergänzen: https://moodle.uni-wuppertal.de/mod/book/view.php?id=471662&chapterid=4506#mod_book-chapter -->
-Es gibt Primärdaten und Sekundärdaten[^2]
->>>>>>> b0c61a8d13c099cc8a2073f5ca1b22b56f47fee0
+|Datei-Format |Digitalisierte Papiervorlagen (TIFF, JPEG2000)|Elektronische Patientenakte (EPA) |AutoCAD-Zeichnungen (DWG)| Austauschformat für 3-D-Modelle (STEP)
+|Software Archivverwaltungssoftware (z. B. AtoM), Texterkennungssoftware (OCR)|Software für Patientenakten (z. B. Epic), medizinische Bildverarbeitungssoftware (z. B. OsiriX) |Software für technische Zeichnungen (z. B. AutoCAD), Software für CAD-Modellierung (z. B. SolidWorks)|
+
+Es gibt Primärdaten und Sekundärdaten[^4]
 
 ::: tip Primärdaten
 <img src="/medien/icons/G-0094_BUW_a_Icon_Primaerdaten.svg?autoSizes=true"
@@ -213,14 +205,11 @@ Es gibt Primärdaten und Sekundärdaten[^2]
 
 > - sind Daten, die aus Primärdaten durch Verarbeitungsschritte hervorgehen.
 > - Es handelt sich um abgeleitete oder prozessierte Daten, die im Rahmen der Primärdatenverarbeitung als Ergebnis z. B. als Publikation anfallen.
-<<<<<<< HEAD
 > -- Präsidium der TH Köln, 2021, S. 8.
 :::
-=======
-:::
+
 ---
-[^2]: Quelle: Präsidium der TH Köln 2021, S. 8.
->>>>>>> b0c61a8d13c099cc8a2073f5ca1b22b56f47fee0
+[^4]:
 
 ## Die Relevanz von Forschungsdaten
 
@@ -265,17 +254,24 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 Global Terrorism Database (GTD)
 
-Die vom GTD Advisory Board initiierte Global Terrorism Database (GTD) wird vom National Consortium for the Study of Terrorism and Responses to Terrorism (START) kostenlos zur Verfügung gestellt (START, 2022). Die Datenbank enthält über 200.000 Datensätze zu Anschlägen, die weltweit zwischen 1970 und 2020 in Zeitungsartikeln und anderen Informationsquellen dokumentiert und nach einer kritischen Überprüfung der Quellen als nachweisbare terroristische Handlungen eingestuft wurden. Jeder aufgenommene Datensatz wird durch mindestens 45 Kriterien _–_ wie beispielsweise Datum, Ort, Ziele und eingesetzte Waffen _–_ systematisch klassifiziert.
+Die vom GTD Advisory Board initiierte Global Terrorism Database (GTD) wird vom National Consortium for the Study of Terrorism and Responses to Terrorism (START)[^5] kostenlos zur Verfügung gestellt [^6]. Die Datenbank enthält über 200.000 Datensätze zu Anschlägen, die weltweit zwischen 1970 und 2020 in Zeitungsartikeln und anderen Informationsquellen dokumentiert und nach einer kritischen Überprüfung der Quellen als nachweisbare terroristische Handlungen eingestuft wurden. Jeder aufgenommene Datensatz wird durch mindestens 45 Kriterien _–_ wie beispielsweise Datum, Ort, Ziele und eingesetzte Waffen _–_ systematisch klassifiziert.
 
-Ausgenommen hiervon sind alle mutmaßlichen Anschläge, die im Jahr 1993[^4] verübt wurden (START, 2021, S. 4.). Nach einem Datenverlust konnten nur 15% des geschätzten Datenbestandes aus dem Jahr 1993
+Ausgenommen hiervon sind alle mutmaßlichen Anschläge, die im Jahr 1993[^7] verübt wurden. Nach einem Datenverlust konnten nur 15% des geschätzten Datenbestandes aus dem Jahr 1993
 rekonstruiert werden. Um zu verhindern, dass dieser unvollständige Datensatz zu Verzerrungen bei der Analyse und Interpretation der Ergebnisse führt, ist der entsprechende Datensatz nicht mehr in der Datenbank gespeichert, sondern wird in einem separaten Datenblatt zur Verfügung gestellt.
 
 Eine Visualisierung der zwischen 1970 und 2016 in unterschiedlichen Regionen verübten terroristischen Attentate veranschaulicht, welche Folgen der Verlust von Forschungsdaten langfristig haben kann.
 
-![Abbildung 1:](/medien/thk/GTD_Attentate_Region.svg)
-Abbildung 1: Übersicht über die zwischen 1970 und 2016 in den unterschiedlichen Regionen verübten terroristischen Attentate. Sina Bock (START, 2022)
+---
+[^5]:START (2022).
+[^6]:START (2022).
+[^7]:(START, 2021, S. 4.)
+[^8]:
+[^9]:START (2022).
 
-Auf der GTD-Webseite werden weitere Visualisierungen angeboten, die sich als Grundlage für eine kritische Auseinandersetzung mit der Erhebung, Analyse, Interpretation und Visualisierung von Forschungsdaten eignen. Die 2020 GTD Heat Map (START, 2020) zeigt beispielsweise die geographische Verteilung von weltweit verübten Anschlägen im Jahr 2020. Die Intensität der Attentate in diesem Jahr, wird mit Hilfe einer Farbskala visualisiert. Die Einfärbung repräsentiert die Anzahl der Menschen, die bei dem jeweiligen Attentat verletzt oder getötet wurden.
+![Abbildung 1:](/medien/thk/GTD_Attentate_Region.svg)
+Abbildung 1: Übersicht über die zwischen 1970 und 2016 in den unterschiedlichen Regionen verübten terroristischen Attentate. Sina Bock[^8]
+
+Auf der GTD-Webseite werden weitere Visualisierungen angeboten, die sich als Grundlage für eine kritische Auseinandersetzung mit der Erhebung, Analyse, Interpretation und Visualisierung von Forschungsdaten eignen. Die 2020 GTD Heat Map[^9] zeigt beispielsweise die geographische Verteilung von weltweit verübten Anschlägen im Jahr 2020. Die Intensität der Attentate in diesem Jahr, wird mit Hilfe einer Farbskala visualisiert. Die Einfärbung repräsentiert die Anzahl der Menschen, die bei dem jeweiligen Attentat verletzt oder getötet wurden.
 
 ### Literatur
 
