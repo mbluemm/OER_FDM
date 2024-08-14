@@ -18,16 +18,14 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 ## Ausgangslage
 
-- Die S. sind mit dem Datenlebenszyklus nicht vertraut und kennen die unterschiedlichen Stationen.
-
-- Die S. können den Stationen beim Umgang mit Daten nicht folgen.
+- Die S. sind nicht mit dem Datenlebenszyklus und dessen unterschiedlichen Stationen vertraut.
 
 ## Lernziele für den Online-Kurs
 
 ||||
 | :--- | :--- | :--- |
-| 1 | Die S. können den Datenlebenszyklus beschreiben[(1)](#14) und die unterschiedlichen Stationen mit deren wichtigsten Merkmalen aufzählen[(1)](#14). | Die S. verstehen den Datenlebenszyklus und welche Rolle dieser im FDM spielt/worauf zu achten ist. |
-| 2 | Die S. können darlegen[(2)](#14), wie die unterschiedlichen Stationen des Datenlebenszyklus miteinander verknüpft sind. | Die S. setzen ihr erlerntes Wissen um, um die Phasen des Datenlebenszyklus mit deren Beschreibungen/Merkmalen/Inhalten zu verknüpfen. |
+| 1 | Die S. können den Datenlebenszyklus beschreiben[(1)](#14) und die unterschiedlichen Stationen mit deren wichtigsten Merkmalen aufzählen[(1)](#14). | Die S. kennen die einzelnen Stationen des Datenlebenszyklus und wissen, welche Rolle dieser im FDM einnimmt. |
+| 2 | Die S. können darlegen[(2)](#14), wie die unterschiedlichen Stationen des Datenlebenszyklus miteinander verknüpft sind. | Die S. setzen ihr erlerntes Wissen um, um die Phasen des Datenlebenszyklus mit deren Merkmalen zu verknüpfen. |
 
 ## Lernziele für den Unterricht in Präsenz
 
