@@ -69,8 +69,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) |Sozialform |
 | :--- | :--- | :--- | :--- | :--- |
-| Ca. 5 min. | Was wird als Vorbereitung für die nächste Stunde erwartet? (Aufgaben und Umfang Zeit, schriftliche Dokumentation) | L. erklärt Erwartungen für nächste Stunde | Kursmaterialien |  |
-| Ca. 5 min. | Klärung von offenen Fragen und Abschluss | L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
+| Ca. 10 min. | Offene Fragen / Unklarheiten klären. Ausblick auf Arbeitsauftrag und nächste Präsenzveranstaltung | L. erklärt Erwartungen für nächste Stunde. L. bietet S. an, offene Fragen zum Kursthema, dem Kursverlauf und zu anderen Aspekten zu besprechen. | Kursmaterialien | PL |
 
 ## Präsenzphase / Erläuterung
 
