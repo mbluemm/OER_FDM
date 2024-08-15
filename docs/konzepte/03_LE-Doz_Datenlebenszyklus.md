@@ -66,7 +66,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 5. min. | Offene Fragen / Unklarheiten klären. Ausblick auf Arbeitsauftrag und nächste Präsenzveranstaltung | L. erklärt die Erwartungen für nächste Stunde.<br>L. bietet S. an, offene Fragen zum Thema, dem Kursverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
+| Ca. 5. min. | Offene Fragen/Unklarheiten klären. Ausblick auf Arbeitsauftrag und nächste Präsenzveranstaltung | L. erklärt die Erwartungen für nächste Stunde.<br>L. bietet S. an, offene Fragen zum Thema, dem Kursverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 
 ## Präsenzphase / Erläuterungen
 
@@ -113,7 +113,7 @@ Reflexion des Themas in Bezug auf das Studium: Die S. sollen überlegen und begr
 
 ### Abschluss
 
-L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind.
+(ca. 5 min.) L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind.
 
 L. gibt Ausblick auf nächstes Thema und erinnert an die Vorbereitung zur nächsten Präsenzveranstaltung.
 
