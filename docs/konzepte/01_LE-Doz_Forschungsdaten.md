@@ -117,6 +117,8 @@ L. zeigt Fallbeispiel GTD.
 
 S. ordnen Forschungsdaten bestimmten Forschungsbereichen, Formen und Formaten zu. -- KF: Wie und wo? + Nicht eingetragen in die Tabelle  --> 
 
+<!-- generell fehlen hier noch Zeitangaben -->
+
 ### Abschluss
 
 L. gibt Ausblick auf nächstes Thema und erklärt die Erwartungen für die nächste Stunde, inklusive Blick auf die Aufgabe in den Kursmaterialien.
