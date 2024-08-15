@@ -69,7 +69,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) |Sozialform |
 | :--- | :--- | :--- | :--- | :--- |
-| Ca. 10 min. | Offene Fragen / Unklarheiten klären. Ausblick auf Arbeitsauftrag und nächste Präsenzveranstaltung | L. erklärt Erwartungen für nächste Stunde. L. bietet S. an, offene Fragen zum Kursthema, dem Kursverlauf und zu anderen Aspekten zu besprechen. | Kursmaterialien | PL |
+| Ca. 10 min. | Offene Fragen/Unklarheiten klären. Ausblick auf Arbeitsauftrag und nächste Präsenzveranstaltung | L. erklärt Erwartungen für nächste Stunde. L. bietet S. an, offene Fragen zum Thema, dem Kursverlauf und/oder anderen Aspekten zu besprechen. | Kursmaterialien | PL |
 
 ## Präsenzphase / Erläuterung
 
