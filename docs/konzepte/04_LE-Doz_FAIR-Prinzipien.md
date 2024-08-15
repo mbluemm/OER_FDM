@@ -62,61 +62,56 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 20 min. | Gruppenaufgabe: „'FAIRness' von Daten“. | Jede Gruppe sucht sich zwei Datensätze. Die S. besprechen und erarbeiten jeweils ein Fallbeispiel anhand von Fragen in Gruppenarbeit (insgesamt 3 Gruppen).  alternativ: Kopfstandmethode - Wie mache ich meine Daten möglichst unfair?  Die S. sind in der Lage, ihre Dateien (für ein Beispielprojekt) fair (für sich und für Dritte) zusammenzustellen(5).  Die S. sind in der Lage, die Fairness von Daten zu beurteilen(6).  - Vertiefung und Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug | Erarbeitung von Fallbeispielen in Gruppenarbeit  Vorbereitung von Impulsvorträgen | GA |
-| Ca. 40 min. | Präsentation der einzelnen Gruppen (jeweils ca. 5 Min. pro Gruppe) mit jeweils anschließender Diskussion im Plenum (jeweils ca. 10 Min.) | Ergebnissicherung | Impulsvorträge der Gruppen und Plenumsdiskussion | PL |
+| Ca. 20 min. | Gruppenaufgabe: „'FAIRness' von Daten“. | Jede Gruppe sucht sich zwei Datensätze. Die S. besprechen und erarbeiten jeweils die Datensätze anhand von Fragen.<br>Sie bereiten sich auf die Präsentation der Ergebnisse im Plenum vor.<br><br>Alternativ<br>Kopfstandmethode: „Wie mache ich meine Daten möglichst unfair?"<br><br>Die S. sind in der Lage, ihre Dateien (für ein Beispielprojekt) FAIR (für sich und für Dritte) zusammenzustellen(5).<br><br>Die S. sind in der Lage, die "FAIRness" von Daten zu beurteilen(6). | Erarbeitung von Fallbeispielen in Gruppenarbeit<br><br>Vorbereitung von Impulsvorträgen | GA |
+| Ca. 40 min. | Präsentation der einzelnen Gruppen mit anschließender Diskussion im Plenum | Ergebnissicherung | Impulsvorträge der Gruppen und Plenumsdiskussion | PL |
 
 #### Abschluss
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 10 min. | Offene Fragen / Unklarheiten klären  Ausblick auf und Arbeitsauftrag für nächste Präsenzveranstaltung | L. erklärt Erwartungen für nächste Stunde  L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
+| Ca. 5 min. | Offene Fragen/Unklarheiten klären.<br>Ausblick auf Arbeitsauftrag und nächste Präsenzveranstaltung | L. erklärt die Erwartungen für nächste Stunde.<br>L. bietet S. an, offene Fragen zum Thema, dem Kursverlauf und/oder anderen Aspekten zu besprechen.|  | PL |
 
 ## Präsenzphase / Erläuterungen
 
 ### Einstiegsphase
 
-Begrüßung
+(ca. 5 min.) Begrüßung
 
-(ca. 5 min.) Methode: Wissenspool (Mindmap)\*
+(ca. 5 min.) Methode: Wissenspool (Mindmap)
 
-Aufgabe:
+Aufgabe: Benennen Sie Vor- und Nachteile von FAIR-Prinzipien
 
-Benennen Sie die Vor- und Nachteile von FAIR-Prinzipien
-
-\* Alternativ: Pro-Kontra-Diskussion mit zufälliger Einteilung der S. in eine Pro- und eine Kontragruppe, für die es jeweils Argumente zu finden gilt.
+Alternativ: Pro-Kontra-Diskussion mit zufälliger Einteilung der S. in eine Pro- und eine Kontragruppe, für die es jeweils Argumente zu finden gilt.
 
 Weiterführende Fragen, z. B.
-
 - Was ist mit personenbezogenen Daten?
 - Was ist mit Geschäftsgeheimnissen / Geheimhaltung / Patente?
-- Wenn ich mich aus eigenem Interesse dagegen entscheide?
+- Was ist, wennn ich mich aus eigenem Interesse dagegen entscheide?
 
-(ca. 5 min.) Methode: Think – Pair – Share
+(ca. 15 min.) Methode: Think – Pair – Share
 
-Aufgabe:
-
-Wie lassen sich die FAIR-Prinzipien auf Ihr Studium übertragen?
-
-(ca. 10 min.) Methode: Diskussion im Plenum über festgehaltene Beiträge
+Aufgabe: Wie lassen sich die FAIR-Prinzipien auf Ihr Studium übertragen?
 
 ### Arbeitsphase
 
-L. teilt die S. in Gruppen von 3 bis 5 S. ein und erläutert den Arbeitsauftrag:
+(ca. 20 min.) L. teilt die S. in Gruppen ein und erläutert den Arbeitsauftrag:
 
-Jede Gruppe sucht sich einen Datensatz. Die einzelnen Fallbeispiele sollen die jeweiligen Gruppen besprechen (20 min.) und anhand folgender Fragen so ausarbeiten, dass sie sie dem Plenum im Anschluss in 5 Min. vorstellen können:
+Jede Gruppe sucht sich zwei Datensätze. Die Datensätze sollen die jeweiligen Gruppen besprechen und anhand folgender Fragen so ausarbeiten, dass sie sie dem Plenum im Anschluss in 5 Min. vorstellen können:
 
 - Bei welchen Aspekten wurden die FAIR-Prinzipien berücksichtigt?
 - Wie können die unFAIRen Aspekte verbessert werden?
 
-Besprechung von Fallbeispielen mit anschließender Diskussion (pro Gruppe ca. 10 min. Vorstellung + ca. 10 min. Diskussion)
+(ca. 40 min.) Besprechung der Datensätze mit anschließender Diskussion (pro Gruppe ca. 10 min. Vorstellung + ca. 5 min. Diskussion)
 
-\* Alternativ: Kopfstandmethode - Wie mache ich meine Daten möglichst unfair? Diskussion im Plenum.
+Alternativ: 
+Kopfstandmethode: "Wie mache ich meine Daten möglichst unFAIR?" 
+Diskussion im Plenum unter Zuhilfenahme von Fallbeispielen.
 
 ### Abschluss
 
-L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind.
+(ca. 5 min.) L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind.
 
-L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung.
+L. gibt Ausblick auf nächstes Thema und erinnert an die Vorbereitung zur nächsten Präsenzveranstaltung.
 
 ## Taxonomiestufen
 
