@@ -37,8 +37,6 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 ## Detaillierte Kursplanung[^1]
 
-<!-- Layout von Tabellenzelle "Inhalt"-->
-
 ### Online-Kurs
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
