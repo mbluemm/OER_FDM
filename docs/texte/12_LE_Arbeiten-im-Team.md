@@ -69,7 +69,7 @@ Arbeiten mit Daten, insbesondere bezüglich des FDM, beachtet werden sollte.
 
 ## Welche FDM-Aspekte müssen beim kollaborativen Arbeiten mit Daten beachtet werden?
 
-<img width="10%" align="right" alt="Icon_Planung" src="/medien/icons/G-0015_BUW _Icon_Planung.svg?autoSizes=true">
+<img width="10%" align="right" alt="Icon_Planung" src="/medien/icons/G-0015_BUW_Icon_Planung.svg?autoSizes=true">
 <img width="10%" align="right" alt="Icon_Organisieren" src="/medien/icons/0006_THK_Organisieren.svg?autoSizes=true">
      
 Beim kollaborativen Arbeiten mit Daten sollte eine kooperative Arbeitsweise und eine koordinierte Planung des FDMs erfolgen.
