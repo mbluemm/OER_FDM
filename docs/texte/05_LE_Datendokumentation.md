@@ -54,8 +54,8 @@ sicher, dass Daten auch von Anderen einfacher verstanden und organisiert werden 
 wenn man seine Arbeiten an Andere weitergeben möchte oder kollaborativ an einer Studien-
 /Prüfungsleistung arbeitet.
 
-<img src="/medien/icons/0050_THK_Kollaboratives_Arbeiten.svg?autoSizes=true"
-     alt="Icon_Kollaboratives_Arbeiten"
+<img src="/medien/abbildungen/0050_THK_Kollaboratives_Arbeiten.svg?autoSizes=true"
+     alt="Abbildung_Kollaboratives_Arbeiten"
      style="float: left; margin-right: 10px; width: 10%;" />
 
 Im besten Fall wird eine Dokumentation der Daten am Anfang des Projekts begonnen, wenn noch
