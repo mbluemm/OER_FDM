@@ -80,12 +80,9 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 Begrüßung
 
-(ca. 15 Min.) Methode: Vorstellung und Lösung von zwei Scary Tales im Plenum (s. Materialien für die Präsenzphase)
+(ca. 15 Min.) Vorstellung und Lösung von zwei Scary Tales im Plenum (s. Materialien für die Präsenzphase)
 
-Aufgabe
-===
-
-Raten Sie und finden Sie gemeinsam eine Antwort auf die Scarytales.
+Aufgabe: Raten Sie und finden Sie gemeinsam eine Antwort auf die Scarytales.
 
 - Wo liegen die Fehler?
 - Was ist falsch gelaufen?
@@ -96,33 +93,28 @@ Alternativ: Beispiele, wie zum Thema Cyberangriff (s. Materialien für die Präs
 
 ### Arbeitsphase
 
-(ca. 15 Min.) Individuelle Bearbeitung der interaktiven Aufgabe.
-===
+(ca. 15 Min.) Einzelarbeit zum Thema Dateiformate
 
-Mit kollaborativem Tool: z. B. Links eine Liste mit Dateiformaten und rechts eine Liste mit Dateitypen. Diese müssen zugeordnet werden.
-L. erläutert den Arbeitsauftrag.
+L. bereitet die interaktive Aufgabe, bspw. mit kollaborativem Tool, vorab vor. Dabei sollen Dateiformate Dateitypen zugeordnet werden.
 
-Jede:r bearbeitet die Aufgabe individuell.
-
-Abschließend gibt eine Besprechung im Plenum zu der Aufgabe.
+L. erläutert im Kurs den Arbeitsauftrag.
+Die Aufgabe wird in Einzelarbeit erarbeitet (ca. 10 Min.). Danach werden die Ergebnisse im Plenum besprochen.
 
 (ca. 40 Min.) Gruppenarbeit
-===
 
-L. teilt die S. in Gruppen ein. Die Gruppen setzen sich zusammen und machen sich Gedanken und Notizen zu den folgenden zwei Fragen: 
+L. teilt die S. in Gruppen ein. Die Gruppen setzen sich zusammen, diskutieren und machen sich Notizen zu den folgenden zwei Fragen: 
 
 1. Für welche Anforderungen und Anwendungsszenarien sind welche Speichersysteme geeignet?
 
-2. Was sind Nutzen und Risiken von Speichersystemen?
+2. Was sind Vorteile und Risiken der einzelnen Speichersysteme?
 
-Nach der Gruppenarbeit bringt L. alle Gruppen zusammen. Jede Gruppe trägt ihre Gedanken mit offener Diskussion vor.
+Danach stellt jede Gruppe ihre Ergebnisse im Plenum vor. L. moderiert die Kursvorstellungen und leitet in eine offene Diskussion über.
 
 (ca. 10 Min.) Abschließende Diskussion
-===
 
-L. eröffnet eine abschließende Diskussion zum Thema „Anwendung/Relevanz von Daten-/Dateispeicherung im Studium.“
+L. eröffnet eine abschließende Diskussion zum Thema „Anwendung/Relevanz von Daten-/Dateispeicherung im Studium“
 
-z. B. ein offenes Gespräch, wie bisher Daten gespeichert werden, welche Clouds etc. genutzt werden, eine Einschätzung, ob diese wirklich so gut sind und ob sich für die S. jetzt (nach dem erlernten Wissen) etwas im Verhalten ändert?
+Dabei kann diskutiert werden, wie bisher Daten gespeichert und welche Clouds etc. genutzt werden. Zudem bietet sich an, kritisch zu betrachten, ob die derzeitigen, individuellen Speicherlösungen ausreichend sind und/oder ob sich für die S. jetzt (nach dem erlernten Wissen) etwas im Verhalten ändert.
 
 Die S. werden dazu angeregt, ihr erlerntes Wissen zum Thema „Speicherung von Daten“ in Bezug auf FDM auf ihr Studium zu übertragen.
 
