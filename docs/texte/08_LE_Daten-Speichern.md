@@ -74,7 +74,7 @@ Vor- und Nachteile von Speichermedien finden Sie unter (Forschungsdaten.info 202
 <img src="/medien/icons/0012_THK_Speicher_PC.svg?autoSizes=true"
      alt="Icon_Speicher_PC"
      style="float: left; margin-right: 20px; width: 10%;" />
-<img src="/medien/icons/00013_THK_Speicher_Festplatte.svg?autoSizes=true"
+<img src="/medien/icons/0013_THK_Speicher_Festplatte.svg?autoSizes=true"
      alt="Icon_Speicher_Festplatte"
      style="float: left; margin-right: 20px; width: 10%;" />
 
