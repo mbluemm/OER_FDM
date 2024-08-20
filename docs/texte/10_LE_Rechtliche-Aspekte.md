@@ -96,7 +96,7 @@ Bei der Erhebung von personenbezogenen Daten müssen außerdem Landesdatenschutz
 Es ist zwingend erforderlich, sich beim Umgang mit Daten vorab mit diesen Gesetzen auseinanderzusetzen.
 
 <!-- Abbildung 0061_THK_Personenbezogene_Daten einfügen -->
-<img align="right" width="12%" alt="Icon_Personenbezogene_Daten" src="/medien/icons/0061_THK_Personenbezogene_Daten.svg?autoSizes=true">
+<img align="right" width="12%" alt="Icon_Personenbezogene_Daten" src="/medien/abbildungen/0061_THK_Personenbezogene_Daten.svg?autoSizes=true">
 
 ::: tip Anonymisierung / Pseudonymisierung
 Durch die Anonymisierung bzw. Pseudonymisierung von personenbezogenen Forschungsdaten
