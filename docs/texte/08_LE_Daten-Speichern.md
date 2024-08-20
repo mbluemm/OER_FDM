@@ -81,7 +81,7 @@ Vor- und Nachteile von Speichermedien finden Sie unter (Forschungsdaten.info 202
 ## Wichtige Aspekte bei der Speicherung von Daten
 
 <!-- Abbildung 0046_THK_Speichern einfügen -->
-<img src="/medien/abbildung/0064_THK_3-2-1-Regel.svg?autoSizes=true"
+<img src="/medien/abbildungen/0064_THK_3-2-1-Regel.svg?autoSizes=true"
      alt="Abildung_3-2-1-Regel"
      style="float: left; margin-right: 20px; width: 10%;" />
 
@@ -112,7 +112,7 @@ Darüber hinaus ist es wichtig, die 3 - 2 - 1 - Regel zu beachten. Gleichermaße
      alt="Icon_Dateibenennung"
      style="float: left; margin-right: 20px; width: 10%;" />
 
-<img src="/medien/abbildung/0064_THK_3-2-1-Regel.svg?autoSizes=true"
+<img src="/medien/abbildungen/0064_THK_3-2-1-Regel.svg?autoSizes=true"
      alt="Abildung_3-2-1-Regel"
      style="float: left; margin-right: 20px; width: 10%;" />
 
