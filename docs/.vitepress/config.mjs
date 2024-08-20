@@ -59,9 +59,9 @@ export default defineConfig({
       { text: '7. Dateistruktur', link: '/konzepte/07_LE-Doz_Dateistruktur.md' },
       { text: '8. Daten speichern', link: '/konzepte/08_LE-Doz_Daten-Speichern.md' },
       { text: '9. Daten finden', link: '/konzepte/09_LE-Doz_Daten-Finden.md' },
-      { text: '10. Recht', link: '/konzepte/10_LE-Doz_Recht.md' },
-      { text: '11. Ethik', link: '/konzepte/11_LE-Doz_Ethik.md' },
-      { text: '12. Arbeiten im Team', link: '/konzepte/12__LE-Doz_Arbeiten-im-Team.md' },
+      { text: '10. Recht', link: '/konzepte/10_LE-Doz_Rechtliche-Aspekte.md' },
+      { text: '11. Ethik', link: '/konzepte/11_LE-Doz_Ethische-Aspekte.md' },
+      { text: '12. Arbeiten im Team', link: '/konzepte/12_LE-Doz_Arbeiten-im-Team.md' },
       ]
     },
     {
@@ -77,8 +77,8 @@ export default defineConfig({
         { text: '7. Dateistruktur', link: '/texte/07_LE_Dateistruktur.md' },
         { text: '8. Daten speichern', link: '/texte/08_LE_Daten-Speichern.md' },
         { text: '9. Daten finden', link: '/texte/09_LE_Daten-Finden.md' },
-        { text: '10. Recht', link: '/texte/10_LE_Recht.md' },
-        { text: '11. Ethik', link: '/texte/11_LE_Ethik.md' },
+        { text: '10. Recht', link: '/texte/10_LE_Rechtliche-Aspekte.md' },
+        { text: '11. Ethik', link: '/texte/11_LE_Ethische-Aspekte.md' },
         { text: '12. Arbeiten im Team', link: '/texte/12_LE_Arbeiten-im-Team.md' },
         ]
       }
