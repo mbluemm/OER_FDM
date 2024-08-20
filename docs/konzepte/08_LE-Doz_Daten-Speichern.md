@@ -78,7 +78,7 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 ### Einstiegsphase
 
-Begrüßung
+(ca. 5 Min.) Begrüßung
 
 (ca. 15 Min.) Vorstellung und Lösung von zwei Scary Tales im Plenum (s. Materialien für die Präsenzphase)
 
