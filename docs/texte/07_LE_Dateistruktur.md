@@ -14,7 +14,6 @@ aside: true
 Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). 07_LE_Dateistruktur. FDM@Studium.nrw Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 1.0). <https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/texte/07_LE_Dateistruktur.html>
 :::
 
-<!-- 0027_THK_Ordnerstruktur und 0029_THK_Dateibenennung einfügen -->
 <img src="/medien/icons/0027_THK_Ordnerstruktur.svg?autoSizes=true"
      alt="Icon_Ordnerstruktur"
      style="float: left; margin-right: 20px; width: 10%;" />
@@ -75,7 +74,6 @@ Auch im FDM sollte aus den folgenden Gründen darauf geachtet werden:
   - Vorbeugungsmaßnahme von versehentlichem Löschen oder Überschreiben von
        Daten/Dateien.
 
-<!-- G-0020_BUW_Icon_Nachnutzung neben Text einfügen -->
 <img src="/medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
      alt="Icon_Nachnutzung"
      style="float: left; margin-right: 20px; width: 10%;" />
@@ -88,7 +86,6 @@ Wissenschaften, [https://www.dwds.de/wb/Daten](https://www.dwds.de/wb/Daten) und
 
 ## Gute Ordnerstruktur
 
-<!-- 0027_THK_Ordnerstruktur -->
 <img src="/medien/icons/0027_THK_Ordnerstruktur.svg?autoSizes=true"
      alt="Icon_Ordnerstruktur"
      style="float: left; margin-right: 20px; width: 10%;" />
