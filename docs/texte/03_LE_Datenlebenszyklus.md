@@ -46,7 +46,19 @@ dargestellt werden:
 Der folgende Datenlebenszyklus kann als Leitfaden für den Umgang mit Daten dienen, beginnend mit
 der Planung und endend mit der Aufbewahrung.
 
-[https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/medien/thk/fdm_sunburst/index.html](https://landesinitiativefdmnrw.github.io/FDMatStudium/thk/medien/thk/fdm_sunburst/index.html)
+:::info Interaktiver Arbeitskompass:
+Hier finden Sie eine interaktive Visualisierung des Arbeitskompasses. 
+
+Aufgrund der Möglichkeit zur Interaktion kann die Visualisierung der in dieser Lerneinheit behandelten Inhalte nicht barrierearm angeboten werden. Die Visualisierung enthält keine neuen Inhalte.
+
+Quelle: Arbeitskompass zum Thema FDM, Katharina Fritsch.
+:::
+
+:::warning Arbeitskompass:
+Aufgrund der Möglichkeit zur Interaktion kann die Visualisierung – abhängig von Ihrer Internetverbindung und dem genutzen Ausgabemedium – ein paar Sekunden Ladezeit benötigen. Nach Anlicken des Links öffnet sich ein neues Fenster. Bitte haben Sie etwas Geduld.
+
+[Arbeitskompass](/thk/texte/03_LE_Datenlebenszyklus_interaktiv)
+:::
 Quelle: Arbeitskompass zum Thema FDM, Katharina Fritsch.
 
 ### Forschungsvorhaben oder Projekt planen
