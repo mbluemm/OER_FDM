@@ -235,7 +235,7 @@ Weitere Hinweise zur Befolgung der GWP sind in den „Leitlinien zur Sicherung g
 wissenschaftlicher Praxis“ der Deutschen Forschungsgemeinschaft festgehalten. An diese angelehnt,
 gibt es institutsinterne Richtlinien zu Guter wissenschaftlicher Praxis und für den Umgang mit
 wissenschaftlichem Fehlverhalten, wie sie in diesem Falle die TH Köln verabschiedet hat. Weitere Informationen zum Thema wissenschaftliche Integrität finden
-Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
+Sie auf dem entsprechenden [Portal](https://wissenschaftliche-integritaet.de/) der Deutschen Forschungsgemeinschaft.
 
 <img src="/medien/icons/0007_THK_Leitlinien.svg?autoSizes=true"
      alt="Icon_Leitlinien"
