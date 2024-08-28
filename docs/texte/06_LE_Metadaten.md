@@ -49,6 +49,8 @@ Herkunft einzelner Daten).
      alt="Icon_Metadaten"
      style="float: left; margin-right: 20px; width: 10%;" />
 
+<!-- hier muss die Abbildung anstelle des Icons hin -->
+
 ## Wozu dienen Metadaten?
 
 <img src="/medien/icons/0005_THK_Metadaten.svg?autoSizes=true"
