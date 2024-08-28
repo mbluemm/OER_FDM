@@ -16,8 +16,6 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 
 [[toc]]
 
-<!-- mögliche Abbildungen für die VL: 0041_THK_Forschungsarbeit ; G-0063_BUW_Gruppe_Wissenschaft ; 0042_THK_Daten ; 0043_THK_Digitalisierung -->
-
 ## Lernziele
 
 ::: info Lernziele
@@ -25,6 +23,8 @@ In diesem Themenblock geht es darum, den Begriff „Forschungsdaten“ zu defini
 :::
 
 ## Was sind Forschungsdaten?
+
+<img align="right" width="12%" alt="Abbildung_Forschungsarbeit" src="/medien/abbildungen/0041_THK_Forschungsarbeit.svg?autoSizes=true"> 
 
 Forschungsdaten sind (digitale) Daten, die im Rahmen wissenschaftlicher Untersuchungen beispielsweise durch Digitalisierung, Quellenforschungen, Experimente oder Messungen gesammelt, generiert oder analysiert werden. Diese Daten spielen eine essenzielle Rolle bei der Erstellung von
 Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlichen Argumentationen.
@@ -35,9 +35,15 @@ zur Unterstützung von Forschungsarbeiten beitragen.
 > Dokumente in digitaler Form, bei denen es sich nicht um wissenschaftliche Veröffentlichungen handelt und die im Laufe von wissenschaftlichen Forschungstätigkeiten erfasst oder erzeugt und als Nachweise im Rahmen des Forschungsprozesses verwendet werden oder die in der Forschungsgemeinschaft allgemein für die Validierung von Forschungsfeststellungen und -ergebnissen als notwendig erachtet werden.
 > -- Richtlinie (EU) 2019/1024 des Europäischen Parlaments und des Rates, vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors, Art. 2, Abs. 9
 -->
+
+<img align="right" width="12%" alt="Abbildung_Gruppe_Wissenschaft" src="/medien/abbildungen/G-0063_BUW_Gruppe_Wissenschaft.svg?autoSizes=true"> 
+
 Forschungsdaten liegen in allen wissenschaftlichen Disziplinen vor, die mit Daten arbeiten, wie den
 Naturwissenschaften und den Sozial- und Wirtschaftswissenschaften, bis hin zu spezifischen
 Datentypen wie linguistischen Sprachdaten oder Bildbeschreibungen in den Kunstwissenschaften.
+
+<img align="right" width="12%" alt="Abbildung__Daten" src="/medien/abbildungen/0042_THK_Daten.svg?autoSizes=true">
+
 Das Verständnis von Forschungsdaten kann je nach Fachbereich, Forschungsprojekt und Kontext
 variieren. In den Naturwissenschaften können Forschungsdaten Messwerte, Laborergebnisse oder
 Sensorausgaben umfassen. Sozial- und Wirtschaftswissenschaften verwenden oft Umfragedaten,
@@ -92,6 +98,8 @@ Eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeiche
 So verschieden wie die Forschungsgegenstände, Erkenntnisinteressen und Methoden in der Wissenschaft sind, so verschieden sind die Daten und die daraus gewonnenen Information, mit denen Wissenschaftlerinnen und Wissenschaftler arbeiten. Die Vielfalt der Perspektiven, aus denen man Daten je nach Struktur, Bearbeitungszustand oder Verwendungszweck betrachten kann, zeigt, dass die Begriffsbedeutung von &#39;Daten&#39; kontextabhängig ist und immer wieder aufs Neue eingeordnet wird.
 
 ### Wovon sprechen Menschen also, wenn sie von Daten sprechen?[^3]
+
+<img align="right" width="12%" alt="Abbildung_Digitalisierung" src="/medien/abbildungen/0043_THK_Digitalisierung.svg?autoSizes=true"> 
 
 ---
 [^3]: aus dem Modul: Was sind Daten? | Universität Wuppertal - Moodle
