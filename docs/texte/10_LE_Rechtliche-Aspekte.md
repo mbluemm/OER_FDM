@@ -50,8 +50,8 @@ Belange sowie rechtliche Vorgaben zu Datenschutz, Urheberrecht und Geheimhaltung
 Dritten beachten. Jede:r Student:in der TH Köln ist in der wissenschaftlichen Arbeit somit zu deren
 Einhaltung verpflichtet und trägt die Verantwortung dafür, dass sein/ihr Verhalten diesen Standards
 entspricht. Verstöße gegen Richtlinien können Konsequenzen haben.
-Weitere Informationen zum Thema wissenschaftliche Integrität finden Sie auf dem entsprechenden
-Portal der Deutschen Forschungsgemeinschaft. [https://wissenschaftliche-integritaet.de](https://wissenschaftliche-integritaet.de)
+Weitere Informationen zum Thema [wissenschaftliche Integrität](https://wissenschaftliche-integritaet.de) finden Sie auf dem entsprechenden
+Portal der Deutschen Forschungsgemeinschaft.
 
 ## Rechtliche Aspekte
 
@@ -95,7 +95,6 @@ Die Erhebung von personenbezogenen Daten ist verboten. Es sei denn, die Einwilli
 Bei der Erhebung von personenbezogenen Daten müssen außerdem Landesdatenschutzgesetze beachtet werden. In der DSGVO sind ebenfalls Regelungen zur Erhebung, Verarbeitung, Speicherung und Archivierung von personenbezogenen Daten vorhanden (Schutzmaßnahmen z. B. Pseudo/Anonymisierung*).
 Es ist zwingend erforderlich, sich beim Umgang mit Daten vorab mit diesen Gesetzen auseinanderzusetzen.
 
-<!-- Abbildung 0061_THK_Personenbezogene_Daten einfügen -->
 <img align="right" width="12%" alt="Abbildung_Personenbezogene_Daten" src="/medien/abbildungen/0061_THK_Personenbezogene_Daten.svg?autoSizes=true">
 
 ::: tip Anonymisierung / Pseudonymisierung
@@ -199,7 +198,7 @@ Werken (inkl. Forschungsdaten) sind (§ 2 Abs. 2 UrhG):
     Tabellen)
 
 Mehr Information zu geschützten Werken, beispielsweise in der Literatur, Wissenschaft und Kunst,
-finden Sie in § 2 UrhG. Generell stellt das Bundesministerium der Justiz und das Bundesamt für Justiz
+finden Sie in [§ 2 UrhG](https://www.gesetze-im-internet.de/urhg/__2.html). Generell stellt das Bundesministerium der Justiz und das Bundesamt für Justiz
 zur Nachsicht nahezu das gesamte aktuelle Bundesrecht kostenlos im Internet zur Verfügung. Näheres
 dazu finden Sie auf deren Seite „Gesetze im Internet“ [https://wissenschaftliche-integritaet.de](https://www.gesetze-im-internet.de/).
 
