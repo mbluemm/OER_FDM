@@ -161,9 +161,9 @@ das?
 
 Bekannte Beispiele von PIDs sind:
 
-- DOI (Digital Object Identifier),
-- ORCID (Open Researcher Contributor Identification)
-- oder URN (Uniform Resource Name).
+- [DOI](https://www.doi.org/) (Digital Object Identifier),
+- [ORCID](https://orcid.org/) (Open Researcher Contributor Identification)
+- oder [URN](https://www.dnb.de/DE/Professionell/Services/URN-Service/urn-service_node.html;jsessionid=92AE8D0507BA0EBD484723FCBA26AAD1.internet551) (Uniform Resource Name).
 
 <!-- Quelle?  bzw. hier noch Beispiele einfügen? -->
 ![](https://)
@@ -289,7 +289,7 @@ wie CC BY ND – zusätzlich mit der
 Einschränkung „nur nicht kommerziell“
 :::
 
-Mehr über die Creative-Commons-Lizenzen unter der Creative Commons Liste der Lizenzen, Muuß-
+Mehr über die Creative-Commons-Lizenzen unter der [Creative Commons Liste der Lizenzen](https://creativecommons.org/licenses/?lang=de), Muuß-
 Merholz 2021 und FAQ 2021.
 
 ### Datensätze korrekt zitieren
