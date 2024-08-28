@@ -32,7 +32,7 @@ Datenformate.
 
 (Forschungsdaten.info 2023e; Forschungsdaten.info 2023f).
 
-<!-- Video von Medienagentur einfügen -->
+<!-- Video von Medienagentur einfügen; Abbildung zu Datenspeicherung fehlt-->
 
 ## Daten speichern und das Datenverlustrisiko minimieren
 
