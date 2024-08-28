@@ -56,7 +56,7 @@ um zu gewährleisten, dass Subjekte, aber auch Forschende, geschützt werden. Ei
 Missbrauch der Daten muss, insbesondere beim Teilen und Publizieren, verhindert werden. Hier spielt
 die Anonymisierung von Daten eine wichtige Rolle. Daher sollte beachtet werden, dass nicht nur der
 Entscheidung der Ethikkommission zu befolgen ist, sondern auch die Regeln zur
-datenschutzrechtlichen Zulässigkeit der Verarbeitung (Art. 9 DSGVO), etwa im Bezug aufs Speichern
+datenschutzrechtlichen Zulässigkeit der Verarbeitung ([Art. 9 DSGVO](https://dsgvo-gesetz.de/art-9-dsgvo/), etwa im Bezug aufs Speichern
 und Löschen der Daten, befolgt werden müssen.
 
 ### Ein verantwortungsvoller Umgang mit Daten
@@ -89,7 +89,7 @@ Pflicht:
 > - Tierversuche
 > - umweltrelevante Forschung
 > - Austausch von Wissen und Technologie mit Drittländern
-> - Sicherheitsrelevante Forschung (Dual Use (DFG 2023) <!-- verlinkung? --> ), bei der Potential zum Missbrauch der
+> - Sicherheitsrelevante Forschung ([Dual Use](https://www.dfg.de/de/grundlagen-themen/grundlagen-und-prinzipien-der-foerderung/sicherheitsrelevante-forschung)), bei der Potential zum Missbrauch der
     Forschungsergebnisse besteht oder bei der ein anderweitiges besonderes Gefahrenpotenzial
     besteht."
 > -- (Forschungsdaten.info 2023a)
@@ -143,8 +143,8 @@ Personen und Personengruppen missachtet wird.“
 >
 > -- (Forschungsdaten.info 2023b)
 
-<!-- Mehr zum Thema CARE-Prinzipien und was dabei beachtet werden muss finden Sie in GIDAs
-englischen Fassung oder in der deutschen Fassung. --> <!-- hier ist die Verlinkung verloren gegangen -->
+Mehr zum Thema CARE-Prinzipien und was dabei beachtet werden muss finden Sie in GIDAs
+[englischen Fassung](https://static1.squarespace.com/static/5d3799de845604000199cd24/t/5d79c383e904c741c9e9cd86/1568260995760/CARE+Principles+for+Indigenous+Data+Governance_FINAL_Sept+06+2019.pdf) oder in der [deutschen Fassung](https://zenodo.org/records/5995059).
 
 ## Leitfragen und Aufgaben
 
